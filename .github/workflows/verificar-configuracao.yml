@@ -1,0 +1,30 @@
+name: Verificar configuração
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Conferir campos e credenciais sem chamadas externas
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          YOUTUBE_OAUTH_JSON: ${{ secrets.YOUTUBE_OAUTH_JSON }}
+        run: |
+          set +e
+          python scripts/check_setup.py
+          result=$?
+          if [ "$result" -eq 2 ]; then
+            echo '::notice::Há configurações pendentes. Consulte o resumo desta execução e o README.'
+            exit 0
+          fi
+          exit "$result"

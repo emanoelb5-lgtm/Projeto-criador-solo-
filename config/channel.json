@@ -1,0 +1,28 @@
+{
+  "phase": "setup",
+  "language": "pt-BR",
+  "topic": null,
+  "channel_url": null,
+  "channel_id": null,
+  "video": {
+    "duration_seconds": 480,
+    "width": 1920,
+    "height": 1080,
+    "aspect_ratio": "16:9",
+    "fps": 30
+  },
+  "schedule": {
+    "enabled": false,
+    "target_videos_per_day": 2,
+    "timezone": "America/Sao_Paulo",
+    "publish_times_local": null
+  },
+  "ai": {
+    "auth_mode": "api_key",
+    "monthly_budget_brl": null,
+    "max_daily_cost_usd": null
+  },
+  "youtube": {
+    "initial_privacy": "private"
+  }
+}
