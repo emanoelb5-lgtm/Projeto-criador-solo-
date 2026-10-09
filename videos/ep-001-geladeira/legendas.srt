@@ -1,0 +1,564 @@
+1
+00:00:00,100 --> 00:00:03,491
+Você abre a geladeira, olha o que tem
+dentro e fecha a porta.
+
+2
+00:00:04,344 --> 00:00:07,153
+Um gesto tão comum que quase ninguém pensa
+nele.
+
+3
+00:00:08,007 --> 00:00:11,349
+Mas imagine fazer a mesma coisa e
+encontrar apenas um armário.
+
+4
+00:00:12,203 --> 00:00:16,609
+Sem leite frio. Sem comida de ontem
+esperando pelo almoço.
+
+5
+00:00:17,463 --> 00:00:20,854
+Sem a tranquilidade de guardar parte das
+compras para depois.
+
+6
+00:00:21,708 --> 00:00:24,493
+A geladeira mudou a relação entre a comida
+e o tempo.
+
+7
+00:00:25,347 --> 00:00:29,282
+E a parte mais curiosa é que ela não
+fabrica frio do jeito que muita gente
+
+8
+00:00:29,295 --> 00:00:33,886
+imagina. Para entender essa história,
+vamos seguir um caminho que começa num
+
+9
+00:00:33,898 --> 00:00:36,151
+bloco de gelo e termina na sua cozinha.
+
+10
+00:00:37,005 --> 00:00:38,700
+Este é o Antes de Ser Normal.
+
+11
+00:00:39,554 --> 00:00:44,406
+Antes da refrigeração elétrica, conservar
+alimentos exigia outras estratégias.
+
+12
+00:00:45,260 --> 00:00:49,752
+Secar, salgar, fermentar e usar
+recipientes de conservação ajudavam a
+
+13
+00:00:49,765 --> 00:00:52,116
+prolongar a vida de determinados produtos.
+
+14
+00:00:52,970 --> 00:00:56,324
+Cada método tinha suas vantagens, limites
+e sabores.
+
+15
+00:00:57,178 --> 00:01:00,705
+Comida fresca e comida conservada não eram
+a mesma experiência.
+
+16
+00:01:01,559 --> 00:01:03,812
+Pense numa compra de leite em um dia
+quente.
+
+17
+00:01:04,666 --> 00:01:07,450
+A questão não era apenas onde colocar o
+recipiente.
+
+18
+00:01:08,304 --> 00:01:11,807
+Era quanto tempo você tinha antes que
+aquele alimento se deteriorasse.
+
+19
+00:01:12,661 --> 00:01:16,844
+Hoje, um aparelho resolve parte desse
+problema sem receber muita atenção.
+
+20
+00:01:17,698 --> 00:01:21,287
+Naquele cenário, o planejamento fazia
+parte de cada compra.
+
+21
+00:01:22,141 --> 00:01:24,839
+Uma solução foi transformar o gelo em
+mercadoria.
+
+22
+00:01:25,693 --> 00:01:29,926
+Em regiões de inverno rigoroso,
+trabalhadores cortavam blocos de lagos e
+
+23
+00:01:29,938 --> 00:01:35,421
+lagoas congelados. O gelo era guardado em
+depósitos isolados, com materiais
+
+24
+00:01:35,433 --> 00:01:36,634
+como palha e serragem.
+
+25
+00:01:37,488 --> 00:01:40,817
+Assim, uma parte do inverno podia chegar
+até o verão.
+
+26
+00:01:41,671 --> 00:01:42,995
+Depois vinha a entrega.
+
+27
+00:01:43,849 --> 00:01:48,564
+Carroças levavam os blocos pelas ruas, e o
+entregador usava grandes pinças de
+
+28
+00:01:48,577 --> 00:01:49,975
+metal para carregá-los.
+
+29
+00:01:50,829 --> 00:01:52,809
+O frio não estava esperando na tomada.
+
+30
+00:01:53,663 --> 00:01:57,500
+Precisava ser transportado, comprado e
+colocado dentro de casa.
+
+31
+00:01:58,354 --> 00:02:02,327
+O destino podia ser uma caixa de gelo: um
+armário isolado, com um
+
+32
+00:02:02,339 --> 00:02:05,124
+compartimento para o bloco e outros para
+os alimentos.
+
+33
+00:02:05,978 --> 00:02:08,601
+Enquanto o gelo derretia, absorvia calor.
+
+34
+00:02:09,455 --> 00:02:12,240
+Havia também água para recolher e gelo
+para repor.
+
+35
+00:02:13,094 --> 00:02:16,139
+O aparelho não era independente daquela
+cadeia de entregas.
+
+36
+00:02:16,993 --> 00:02:20,619
+Não foi uma invenção única que, de
+repente, resolveu tudo.
+
+37
+00:02:21,473 --> 00:02:26,101
+A transformação passou por equipamentos
+maiores, fabricação de gelo, melhorias
+
+38
+00:02:26,114 --> 00:02:28,342
+no isolamento e acesso à eletricidade.
+
+39
+00:02:29,196 --> 00:02:33,478
+As geladeiras domésticas elétricas
+chegaram aos poucos e, no começo, eram
+
+40
+00:02:33,490 --> 00:02:37,983
+caras. Ter uma na cozinha estava longe de
+ser uma condição universal.
+
+41
+00:02:38,837 --> 00:02:42,364
+Nos museus, essa mudança aparece em
+objetos concretos.
+
+42
+00:02:43,218 --> 00:02:47,847
+O Science Museum, em Londres, preserva a
+história de armários refrigerados com
+
+43
+00:02:47,859 --> 00:02:50,507
+gelo e de geladeiras elétricas do século
+vinte.
+
+44
+00:02:51,361 --> 00:02:55,371
+É uma passagem importante: de um armário
+que consumia blocos para um aparelho
+
+45
+00:02:55,384 --> 00:02:57,698
+capaz de manter um ciclo de refrigeração.
+
+46
+00:02:58,552 --> 00:03:00,396
+Mas como esse ciclo funciona?
+
+47
+00:03:01,250 --> 00:03:05,396
+A ideia central é levar calor de dentro da
+geladeira para o ambiente de fora.
+
+48
+00:03:06,250 --> 00:03:09,926
+O ar e os alimentos no interior ficam mais
+frios porque perdem calor.
+
+49
+00:03:10,780 --> 00:03:12,587
+Essa energia não desaparece.
+
+50
+00:03:13,441 --> 00:03:17,215
+Ela sai por outro lugar, junto com a
+energia usada pelo equipamento.
+
+51
+00:03:18,069 --> 00:03:20,990
+Um fluido refrigerante percorre um
+circuito fechado.
+
+52
+00:03:21,844 --> 00:03:26,114
+No evaporador, ele recebe calor do
+interior e passa para o estado de vapor.
+
+53
+00:03:26,968 --> 00:03:31,052
+É por isso que essa parte do sistema
+consegue resfriar o espaço onde ficam os
+
+54
+00:03:31,064 --> 00:03:34,728
+alimentos. O compressor aumenta a pressão
+do vapor.
+
+55
+00:03:35,582 --> 00:03:39,864
+No condensador, o fluido libera calor para
+o ambiente e volta a ser líquido.
+
+56
+00:03:40,718 --> 00:03:44,864
+Depois passa por uma restrição, que reduz
+a pressão antes de retornar ao
+
+57
+00:03:44,876 --> 00:03:47,785
+evaporador. O percurso recomeça.
+
+58
+00:03:48,639 --> 00:03:52,710
+Quatro etapas fazem um trabalho que, para
+quem está na cozinha, parece
+
+59
+00:03:52,723 --> 00:03:54,171
+silenciosamente simples.
+
+60
+00:03:55,025 --> 00:03:58,824
+É por isso que uma geladeira pode estar
+fria por dentro e liberar calor por
+
+61
+00:03:58,837 --> 00:04:01,844
+fora. O circuito transporta energia.
+
+62
+00:04:02,698 --> 00:04:06,807
+E o isolamento das paredes e a vedação da
+porta ajudam a reduzir a entrada de
+
+63
+00:04:06,819 --> 00:04:12,104
+calor. Quanto melhor esse trabalho, menos
+o sistema precisa compensar perdas.
+
+64
+00:04:12,958 --> 00:04:14,542
+Agora vem a mudança maior.
+
+65
+00:04:15,396 --> 00:04:19,418
+Quando o frio pode ser mantido de forma
+controlada, a cozinha ganha novas
+
+66
+00:04:19,431 --> 00:04:23,020
+possibilidades. Parte das compras pode
+esperar.
+
+67
+00:04:23,874 --> 00:04:26,646
+Uma refeição pode ser planejada com
+antecedência.
+
+68
+00:04:27,500 --> 00:04:31,485
+E determinados alimentos podem continuar
+disponíveis depois do dia em que
+
+69
+00:04:31,498 --> 00:04:35,349
+chegaram. Isso não aconteceu apenas dentro
+das casas.
+
+70
+00:04:36,202 --> 00:04:40,559
+A refrigeração também faz parte de
+depósitos, veículos, centros de
+
+71
+00:04:40,571 --> 00:04:41,957
+distribuição e lojas.
+
+72
+00:04:42,811 --> 00:04:46,450
+Entre o lugar de produção e a sua mesa
+existe uma sequência de espaços e
+
+73
+00:04:46,462 --> 00:04:51,672
+transportes. Quando precisam conservar
+produtos frios, esses elos formam a
+
+74
+00:04:51,685 --> 00:04:56,610
+cadeia do frio. Imagine acompanhar um
+alimento que precisa de refrigeração.
+
+75
+00:04:57,464 --> 00:05:01,450
+Ele passa pelo armazenamento, pelo
+transporte, pelo supermercado e,
+
+76
+00:05:01,672 --> 00:05:03,430
+finalmente, pela sua casa.
+
+77
+00:05:04,284 --> 00:05:07,761
+A geladeira doméstica é o último trecho de
+uma história muito maior.
+
+78
+00:05:08,615 --> 00:05:12,502
+Manter a condição adequada ao longo do
+caminho é tão importante quanto ter um
+
+79
+00:05:12,514 --> 00:05:13,702
+bom aparelho no final.
+
+80
+00:05:14,556 --> 00:05:17,910
+Um relatório do Programa das Nações Unidas
+para o Meio Ambiente e da
+
+81
+00:05:17,922 --> 00:05:21,487
+organização das Nações Unidas para a
+alimentação destacou a falta de
+
+82
+00:05:21,499 --> 00:05:25,410
+refrigeração adequada como uma causa
+importante de perdas de alimentos.
+
+83
+00:05:26,264 --> 00:05:30,398
+Essa infraestrutura pode ajudar a evitar
+que parte da produção se perca antes
+
+84
+00:05:30,410 --> 00:05:34,779
+de ser consumida. A geladeira também mudou
+o trabalho cotidiano.
+
+85
+00:05:35,633 --> 00:05:40,187
+Aparelhos domésticos, incluindo os de
+refrigeração, ampliaram possibilidades
+
+86
+00:05:40,200 --> 00:05:42,601
+de armazenamento e de organização da
+rotina.
+
+87
+00:05:43,455 --> 00:05:47,601
+O Science Museum relaciona essas mudanças
+a transformações na vida em casa.
+
+88
+00:05:48,455 --> 00:05:52,687
+A tecnologia não elimina todo o trabalho,
+mas altera o momento e a forma de
+
+89
+00:05:52,700 --> 00:05:57,638
+fazê-lo. Guardar uma refeição pronta,
+organizar compras e escolher quando
+
+90
+00:05:57,650 --> 00:06:01,054
+preparar certos alimentos são decisões que
+parecem pequenas.
+
+91
+00:06:01,908 --> 00:06:06,412
+Somadas ao longo de uma semana, fazem
+parte da maneira como a casa funciona.
+
+92
+00:06:07,266 --> 00:06:11,128
+A história de um eletrodoméstico também é
+a história de quem faz esse trabalho
+
+93
+00:06:11,140 --> 00:06:15,608
+todos os dias. Existe, porém, um limite
+essencial.
+
+94
+00:06:16,462 --> 00:06:20,348
+Refrigerar não significa tornar qualquer
+comida segura para sempre.
+
+95
+00:06:21,202 --> 00:06:24,927
+Temperaturas baixas reduzem a velocidade
+de crescimento de muitos
+
+96
+00:06:24,940 --> 00:06:30,311
+microrganismos. Elas não substituem
+higiene, preparo adequado ou cuidados com
+
+97
+00:06:30,323 --> 00:06:35,410
+o armazenamento. A geladeira ajuda a
+conservar; ela não reinicia a história de
+
+98
+00:06:35,422 --> 00:06:38,257
+um alimento. E o frio tem um custo.
+
+99
+00:06:39,110 --> 00:06:43,479
+O aparelho usa eletricidade, e os sistemas
+de refrigeração também precisam
+
+100
+00:06:43,492 --> 00:06:46,487
+lidar com os impactos de seus fluidos e
+com a manutenção.
+
+101
+00:06:47,341 --> 00:06:51,920
+O relatório das Nações Unidas trata
+justamente desse desafio: reduzir perdas
+
+102
+00:06:51,932 --> 00:06:55,311
+de comida e tornar a cadeia do frio mais
+eficiente e sustentável.
+
+103
+00:06:56,165 --> 00:07:00,658
+Dentro de casa, organização, vedação e
+ventilação adequada ajudam o
+
+104
+00:07:00,670 --> 00:07:02,155
+equipamento a trabalhar melhor.
+
+105
+00:07:03,009 --> 00:07:07,106
+A orientação de eficiência energética do
+governo australiano, por exemplo,
+
+106
+00:07:07,378 --> 00:07:11,016
+recomenda reduzir o tempo desnecessário
+com a porta aberta e seguir os
+
+107
+00:07:11,029 --> 00:07:12,378
+cuidados de instalação.
+
+108
+00:07:13,232 --> 00:07:17,205
+Os detalhes de cada modelo devem
+acompanhar as instruções do fabricante.
+
+109
+00:07:18,059 --> 00:07:22,007
+Da próxima vez que você abrir a geladeira,
+lembre do caminho até ali.
+
+110
+00:07:22,860 --> 00:07:25,002
+Primeiro, o gelo precisou viajar.
+
+111
+00:07:25,856 --> 00:07:28,776
+Depois, o aparelho passou a movimentar
+calor.
+
+112
+00:07:29,630 --> 00:07:33,467
+E o frio se espalhou por redes que
+ajudaram a transformar o abastecimento e a
+
+113
+00:07:33,479 --> 00:07:38,182
+vida na cozinha. O que parece apenas uma
+caixa com prateleiras é uma pequena
+
+114
+00:07:38,195 --> 00:07:39,729
+peça de uma mudança enorme.
+
+115
+00:07:40,583 --> 00:07:44,989
+Antes de ser normal, guardar comida para
+depois exigia outras soluções.
+
+116
+00:07:45,843 --> 00:07:48,987
+Agora você conhece parte da história
+escondida nessa porta.
+
+117
+00:07:49,841 --> 00:07:53,009
+Qual objeto do seu dia a dia merece o
+próximo episódio?
+
+118
+00:07:53,863 --> 00:07:55,559
+Este é o Antes de Ser Normal.

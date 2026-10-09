@@ -1,5 +1,5 @@
 {
-  "phase": "setup",
+  "phase": "production",
   "mode": "chat_command",
   "execution": {
     "development": "github_actions",
@@ -7,7 +7,9 @@
     "trigger": "user_message"
   },
   "language": "pt-BR",
-  "topic": null,
+  "name": "Antes de Ser Normal",
+  "tagline": "A história e a ciência das coisas que parecem comuns.",
+  "topic": "História e ciência de objetos, hábitos e tecnologias do cotidiano",
   "channel_url": null,
   "channel_id": null,
   "video": {
@@ -15,7 +17,25 @@
     "width": 1920,
     "height": 1080,
     "aspect_ratio": "16:9",
-    "fps": 30
+    "fps": 30,
+    "duration_tolerance_seconds": 15
+  },
+  "voice": {
+    "engine": "edge_tts",
+    "name": "pt-BR-AntonioNeural",
+    "language": "pt-BR",
+    "rate": "+1%",
+    "pitch": "+0Hz",
+    "tone": "Curioso, tranquilo e natural",
+    "requires_internet": true
+  },
+  "delivery": {
+    "destination": "github",
+    "repository": "emanoelb5-lgtm/Projeto-criador-solo-",
+    "episodes_directory": "videos",
+    "publication_by": "user",
+    "max_git_file_bytes": 99614720,
+    "max_video_file_bytes": 12000000
   },
   "schedule": {
     "enabled": false,
@@ -29,7 +49,8 @@
     "max_daily_cost_usd": null
   },
   "youtube": {
-    "integration_connected": false,
-    "initial_privacy": "private"
+    "publication_mode": "manual",
+    "automatic_upload": false,
+    "default_category_id": 27
   }
 }

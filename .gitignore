@@ -15,3 +15,7 @@ work/
 *.mp4
 *.wav
 *.mp3
+models/
+!videos/**/*.mp4
+!videos/**/*.mp3
+videos/**/video.partial.mp4

@@ -1,0 +1,8 @@
+{
+  "engine": "edge_tts",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "+1%",
+  "duration_seconds": 476.328,
+  "word_boundaries": 1143,
+  "text_sha256": "4d4720cc145c866e1794b09c42a2ba8e0a9e5729fa3fd77069b3aef60ea68c0f"
+}

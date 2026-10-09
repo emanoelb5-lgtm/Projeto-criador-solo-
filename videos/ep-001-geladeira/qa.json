@@ -1,0 +1,56 @@
+{
+  "status": "technically_validated",
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30.0,
+    "duration_seconds": 480.0,
+    "codec": "h264",
+    "size_bytes": 11890291
+  },
+  "audio": {
+    "codec": "aac",
+    "sample_rate": 48000,
+    "channels": 1
+  },
+  "voice": "pt-BR-AntonioNeural",
+  "thumbnail_size": [
+    1920,
+    1080
+  ],
+  "subtitle_cues": 118,
+  "chapters": 10,
+  "full_decode": "passed",
+  "youtube_upload": "manual",
+  "audio_loudness": {
+    "integrated_lufs": -16.7,
+    "true_peak_dbfs": -1.8,
+    "loudness_range_lu": 2.5
+  },
+  "subtitle_max_lines": 2,
+  "visual_review": {
+    "mode": "sampled_frames",
+    "seconds": [
+      8,
+      26,
+      32,
+      106,
+      130,
+      185,
+      235,
+      285,
+      299,
+      392
+    ],
+    "result": "legible captions and diagrams; photographic illustrations reviewed after compression"
+  },
+  "delivery": {
+    "destination": "GitHub repository",
+    "max_file_bytes": 12000000,
+    "within_upload_budget": true
+  },
+  "compression": {
+    "video": "H.264 two-pass; Full HD retained",
+    "audio": "AAC mono, encoded directly from original neural narration"
+  }
+}

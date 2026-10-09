@@ -1,0 +1,26 @@
+[
+  {
+    "file": "moderna.png",
+    "mode": "built-in imagegen",
+    "aspect_ratio_requested": "16:9",
+    "prompt": "Use case: illustration-story. Asset type: full-screen documentary video illustration, exact 16:9 landscape. Create one cinematic hand-painted editorial illustration of an ordinary Brazilian apartment kitchen at night, with a modern unbranded refrigerator door open revealing milk in a glass bottle, vegetables, covered food containers and a bowl of fruit, cool blue light from the fridge contrasting with warm amber kitchen light. A person's hand lightly holding the fridge handle at the far right, no visible face. Strong depth, rich realistic materials, sophisticated painted documentary style, tasteful dark navy and teal palette with amber accents. Wide composition, refrigerator on right half and clear dark space on left half for later video captions. No text, no letters, no logos, no watermark, no diagrams, no collage. Output ratio 16:9."
+  },
+  {
+    "file": "gelo.png",
+    "mode": "built-in imagegen",
+    "aspect_ratio_requested": "16:9",
+    "prompt": "Use case: historical-scene. Asset type: full-screen documentary video illustration, exact 16:9 landscape. One evocative historically informed illustration representing an early twentieth century city ice delivery: a worker in simple circa 1900 work clothes moving a rectangular translucent block of ice with period ice tongs beside a plain wooden horse-drawn delivery wagon, a second block visible on wagon, modest brick residential street. Broad framing with cart, worker, buildings, muted dawn light, small puddles. It is an original painted historical reconstruction, not an archival photograph. Cinematic editorial painting with navy shadows, ice-blue highlights and warm cream brick tones, practical believable perspective. No electric refrigerators, no modern clothing, no words, no letters, no branding, no watermark, no invented dates. One cohesive scene, not collage. Ratio 16:9."
+  },
+  {
+    "file": "mercado.png",
+    "mode": "built-in imagegen",
+    "aspect_ratio_requested": "16:9",
+    "prompt": "Use case: illustration-story. Asset type: full-screen documentary video illustration, exact 16:9 landscape. One cinematic editorial painting of a present-day supermarket refrigeration aisle, a broad perspective view of chilled display cases filled with generic milk cartons, vegetables and packaged foods, freezer cabinets and simple shopping cart in foreground, no people prominent. Warm ambient lights contrast with cool blue refrigerated cases, calm and visually rich, navy teal cream amber palette, believable ordinary grocery store. Make all packages completely generic with no readable text, no logos, no labels, no brands. No charts, no diagrams, no watermark, no collage. Sophisticated hand-painted documentary style, exact 16:9 ratio."
+  },
+  {
+    "file": "../miniatura.png",
+    "mode": "built-in imagegen",
+    "aspect_ratio_requested": "16:9",
+    "prompt": "Use case: ads-marketing. Asset type: polished YouTube thumbnail 16:9, landscape 1920x1080 composition. Portuguese science and history documentary about how the refrigerator changed daily life. Bold clean cinematic painted illustration, a modern unbranded open refrigerator with icy blue interior and recognizable ordinary food on the RIGHT half, a large translucent block of ice with old-fashioned metal ice tongs at the bottom left, deep dark navy backdrop, amber highlights, very high legibility at small size. On LEFT upper half, enormous bold cream-white uppercase Portuguese text EXACTLY: \"MUDOU\" on first line and \"SUA COMIDA\" on second line. Small channel name at upper left EXACTLY: \"ANTES DE SER NORMAL\". All text spelled exactly as supplied, no other text. Strong compelling focal point, restrained graphic style, no logos, no watermarks, no clutter, no false historical claims. Output 16:9."
+  }
+]

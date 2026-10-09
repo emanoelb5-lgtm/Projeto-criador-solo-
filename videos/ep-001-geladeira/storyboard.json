@@ -1,0 +1,274 @@
+{
+  "duration_seconds": 480,
+  "fps": 30,
+  "shots": [
+    {
+      "asset": "assets/moderna.png",
+      "duration_seconds": 10.833333333333334,
+      "motion": true,
+      "caption": "Um gesto comum. Uma revolução.",
+      "label": "Ilustração gerada por IA"
+    },
+    {
+      "asset": "assets/diagrama-01.png",
+      "duration_seconds": 10.866666666666667,
+      "motion": false
+    },
+    {
+      "asset": "assets/moderna.png",
+      "duration_seconds": 8.933333333333334,
+      "motion": true,
+      "caption": "A geladeira mudou nossa relação",
+      "label": "Ilustração gerada por IA"
+    },
+    {
+      "asset": "assets/diagrama-02.png",
+      "duration_seconds": 8.933333333333334,
+      "motion": false
+    },
+    {
+      "asset": "assets/diagrama-03.png",
+      "duration_seconds": 11.0,
+      "motion": false
+    },
+    {
+      "asset": "assets/diagrama-03.png",
+      "duration_seconds": 11.0,
+      "motion": false
+    },
+    {
+      "asset": "assets/diagrama-04.png",
+      "duration_seconds": 10.266666666666667,
+      "motion": false
+    },
+    {
+      "asset": "assets/diagrama-04.png",
+      "duration_seconds": 10.3,
+      "motion": false
+    },
+    {
+      "asset": "assets/gelo.png",
+      "duration_seconds": 9.766666666666667,
+      "motion": true,
+      "caption": "Quando o inverno era vendido",
+      "label": "Ilustração gerada por IA • reconstituição histórica"
+    },
+    {
+      "asset": "assets/diagrama-05.png",
+      "duration_seconds": 9.766666666666667,
+      "motion": false
+    },
+    {
+      "asset": "assets/gelo.png",
+      "duration_seconds": 8.333333333333334,
+      "motion": true,
+      "caption": "O frio chegava de carroça",
+      "label": "Ilustração gerada por IA • reconstituição histórica"
+    },
+    {
+      "asset": "assets/diagrama-06.png",
+      "duration_seconds": 8.366666666666667,
+      "motion": false
+    },
+    {
+      "asset": "assets/gelo.png",
+      "duration_seconds": 9.3,
+      "motion": true,
+      "caption": "Um armário que consumia gelo",
+      "label": "Ilustração gerada por IA • reconstituição histórica"
+    },
+    {
+      "asset": "assets/diagrama-07.png",
+      "duration_seconds": 9.333333333333334,
+      "motion": false
+    },
+    {
+      "asset": "assets/diagrama-08.png",
+      "duration_seconds": 10.9,
+      "motion": false
+    },
+    {
+      "asset": "assets/diagrama-08.png",
+      "duration_seconds": 10.933333333333334,
+      "motion": false
+    },
+    {
+      "asset": "assets/diagrama-09.png",
+      "duration_seconds": 9.866666666666667,
+      "motion": false
+    },
+    {
+      "asset": "assets/diagrama-09.png",
+      "duration_seconds": 9.866666666666667,
+      "motion": false
+    },
+    {
+      "asset": "assets/diagrama-10.png",
+      "duration_seconds": 9.733333333333333,
+      "motion": false
+    },
+    {
+      "asset": "assets/diagrama-10.png",
+      "duration_seconds": 9.766666666666667,
+      "motion": false
+    },
+    {
+      "asset": "assets/diagrama-11.png",
+      "duration_seconds": 7.266666666666667,
+      "motion": false
+    },
+    {
+      "asset": "assets/diagrama-11.png",
+      "duration_seconds": 7.3,
+      "motion": false
+    },
+    {
+      "asset": "assets/diagrama-12.png",
+      "duration_seconds": 11.2,
+      "motion": false
+    },
+    {
+      "asset": "assets/diagrama-12.png",
+      "duration_seconds": 11.2,
+      "motion": false
+    },
+    {
+      "asset": "assets/diagrama-13.png",
+      "duration_seconds": 8.966666666666667,
+      "motion": false
+    },
+    {
+      "asset": "assets/diagrama-13.png",
+      "duration_seconds": 8.966666666666667,
+      "motion": false
+    },
+    {
+      "asset": "assets/moderna.png",
+      "duration_seconds": 9.9,
+      "motion": true,
+      "caption": "A cozinha ganha possibilidades",
+      "label": "Ilustração gerada por IA"
+    },
+    {
+      "asset": "assets/diagrama-14.png",
+      "duration_seconds": 9.933333333333334,
+      "motion": false
+    },
+    {
+      "asset": "assets/mercado.png",
+      "duration_seconds": 10.3,
+      "motion": true,
+      "caption": "O frio vai além de casa",
+      "label": "Ilustração gerada por IA"
+    },
+    {
+      "asset": "assets/diagrama-15.png",
+      "duration_seconds": 10.333333333333334,
+      "motion": false
+    },
+    {
+      "asset": "assets/mercado.png",
+      "duration_seconds": 10.566666666666666,
+      "motion": true,
+      "caption": "Do armazenamento à sua mesa",
+      "label": "Ilustração gerada por IA"
+    },
+    {
+      "asset": "assets/diagrama-16.png",
+      "duration_seconds": 10.566666666666666,
+      "motion": false
+    },
+    {
+      "asset": "assets/mercado.png",
+      "duration_seconds": 8.833333333333334,
+      "motion": true,
+      "caption": "Produzir não basta",
+      "label": "Ilustração gerada por IA"
+    },
+    {
+      "asset": "assets/diagrama-17.png",
+      "duration_seconds": 8.833333333333334,
+      "motion": false
+    },
+    {
+      "asset": "assets/moderna.png",
+      "duration_seconds": 10.9,
+      "motion": true,
+      "caption": "Tecnologia também é rotina",
+      "label": "Ilustração gerada por IA"
+    },
+    {
+      "asset": "assets/diagrama-18.png",
+      "duration_seconds": 10.9,
+      "motion": false
+    },
+    {
+      "asset": "assets/moderna.png",
+      "duration_seconds": 9.466666666666667,
+      "motion": true,
+      "caption": "Pequenas decisões, todos os dias",
+      "label": "Ilustração gerada por IA"
+    },
+    {
+      "asset": "assets/diagrama-19.png",
+      "duration_seconds": 9.5,
+      "motion": false
+    },
+    {
+      "asset": "assets/diagrama-20.png",
+      "duration_seconds": 11.966666666666667,
+      "motion": false
+    },
+    {
+      "asset": "assets/diagrama-20.png",
+      "duration_seconds": 11.966666666666667,
+      "motion": false
+    },
+    {
+      "asset": "assets/diagrama-21.png",
+      "duration_seconds": 9.6,
+      "motion": false
+    },
+    {
+      "asset": "assets/diagrama-21.png",
+      "duration_seconds": 9.633333333333333,
+      "motion": false
+    },
+    {
+      "asset": "assets/moderna.png",
+      "duration_seconds": 10.933333333333334,
+      "motion": true,
+      "caption": "Eficiência faz parte da história",
+      "label": "Ilustração gerada por IA"
+    },
+    {
+      "asset": "assets/diagrama-22.png",
+      "duration_seconds": 10.966666666666667,
+      "motion": false
+    },
+    {
+      "asset": "assets/mercado.png",
+      "duration_seconds": 8.6,
+      "motion": true,
+      "caption": "O caminho até a sua cozinha",
+      "label": "Ilustração gerada por IA"
+    },
+    {
+      "asset": "assets/diagrama-23.png",
+      "duration_seconds": 8.6,
+      "motion": false
+    },
+    {
+      "asset": "assets/moderna.png",
+      "duration_seconds": 12.366666666666667,
+      "motion": true,
+      "caption": "Antes de Ser Normal",
+      "label": "Ilustração gerada por IA"
+    },
+    {
+      "asset": "assets/diagrama-24.png",
+      "duration_seconds": 12.366666666666667,
+      "motion": false
+    }
+  ]
+}
