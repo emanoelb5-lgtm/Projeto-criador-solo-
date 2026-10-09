@@ -1,9 +1,10 @@
 {
   "phase": "setup",
+  "mode": "chat_command",
   "execution": {
     "development": "github_actions",
-    "production": "external_worker",
-    "worker_configured": false
+    "production": "interactive_workspace",
+    "trigger": "user_message"
   },
   "language": "pt-BR",
   "topic": null,
@@ -23,11 +24,12 @@
     "publish_times_local": null
   },
   "ai": {
-    "auth_mode": "api_key",
+    "auth_mode": "chat_work",
     "monthly_budget_brl": null,
     "max_daily_cost_usd": null
   },
   "youtube": {
+    "integration_connected": false,
     "initial_privacy": "private"
   }
 }

@@ -61,15 +61,21 @@ def inspect(config: dict, env: dict) -> list[tuple[str, bool]]:
             )
         except (ValueError, TypeError):
             youtube_valid = False
-    return [
+    basic_checks = [
         ("Formato 1920 × 1080 em 16:9 e duração de oito minutos", video.get("width") == 1920 and video.get("height") == 1080 and video.get("aspect_ratio") == "16:9" and video.get("duration_seconds") == 480),
         ("Nicho definido", nonempty_string(config.get("topic"))),
         ("Canal de destino definido", nonempty_string(config.get("channel_id"))),
+        ("Credencial do YouTube em formato esperado", youtube_valid),
+    ]
+    if config.get("mode") == "chat_command":
+        return basic_checks + [
+            ("IA e início por mensagem no ChatGPT Work", ai.get("auth_mode") == "chat_work" and execution.get("production") == "interactive_workspace" and execution.get("trigger") == "user_message"),
+        ]
+    return basic_checks + [
         ("Meta de dois vídeos por dia", schedule.get("target_videos_per_day") == 2),
         ("Dois horários distintos definidos", times_valid),
         ("Orçamento mensal de IA definido", positive_number(budget)),
         ("Chave de IA cadastrada em OPENAI_API_KEY", nonempty_string(env.get("OPENAI_API_KEY"))),
-        ("Credencial do YouTube em formato esperado", youtube_valid),
         ("Servidor externo de produção configurado", execution.get("production") == "external_worker" and execution.get("worker_configured") is True),
     ]
 
@@ -88,7 +94,7 @@ def main() -> int:
     checks = inspect(config, os.environ)
     lines = ["# Configuração do Criador Solo", "", "| Item | Situação |", "|---|---|"]
     lines.extend(f"| {label} | {'Configurado' if ready else 'Pendente'} |" for label, ready in checks)
-    lines.extend(["", "Esta conferência é local: não autentica serviços, não gasta créditos e não publica vídeos.", "A produção completa e o agendamento ainda serão implementados."])
+    lines.extend(["", "Esta conferência é local: não autentica serviços, não gasta créditos e não publica vídeos.", "O fluxo de produção completo e a integração de publicação ainda serão implementados."])
     report = "\n".join(lines) + "\n"
     print(report)
     summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
