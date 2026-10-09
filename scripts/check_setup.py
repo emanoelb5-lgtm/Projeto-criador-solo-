@@ -24,6 +24,7 @@ def inspect(config: dict, env: dict) -> list[tuple[str, bool]]:
     video = config.get("video") if isinstance(config.get("video"), dict) else {}
     schedule = config.get("schedule") if isinstance(config.get("schedule"), dict) else {}
     ai = config.get("ai") if isinstance(config.get("ai"), dict) else {}
+    execution = config.get("execution") if isinstance(config.get("execution"), dict) else {}
     budget = ai.get("monthly_budget_brl")
     times = schedule.get("publish_times_local")
     times_valid = isinstance(times, list) and len(times) == 2 and len(set(str(t) for t in times)) == 2
@@ -69,6 +70,7 @@ def inspect(config: dict, env: dict) -> list[tuple[str, bool]]:
         ("Orçamento mensal de IA definido", positive_number(budget)),
         ("Chave de IA cadastrada em OPENAI_API_KEY", nonempty_string(env.get("OPENAI_API_KEY"))),
         ("Credencial do YouTube em formato esperado", youtube_valid),
+        ("Servidor externo de produção configurado", execution.get("production") == "external_worker" and execution.get("worker_configured") is True),
     ]
 
 

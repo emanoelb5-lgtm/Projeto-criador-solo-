@@ -9,11 +9,12 @@ Sistema em preparação para pesquisar assuntos, escrever roteiros, montar víde
 | Parte | Responsável |
 |---|---|
 | Desenvolvimento e ajustes | Emanuel e ChatGPT |
-| Execução programada, montagem e verificações | GitHub Actions com Python e FFmpeg |
+| Código e testes do sistema | Repositório e GitHub Actions |
+| Produção diária, montagem e upload | Servidor externo com Python, FFmpeg e agendamento próprio |
 | Roteiros, narração e imagens geradas | Serviços de IA; a primeira integração proposta usa chave da OpenAI API |
 | Upload e horário de publicação | YouTube Data API, com autorização do proprietário do canal |
 
-O repositório está público. Os executores padrão do GitHub Actions em repositórios públicos não têm cobrança de minutos, mas continuam sujeitos aos limites e termos do serviço. Armazenamento, executores maiores e serviços externos têm regras de cobrança próprias.
+O repositório está público. Os executores padrão do GitHub Actions em repositórios públicos não têm cobrança de minutos, mas seu uso se destina ao ciclo de desenvolvimento do software. Os termos restringem atividades alheias à produção, teste, implantação ou publicação do projeto de software. Por essa regra, a recomendação para este canal é manter código e testes no GitHub e executar a produção recorrente de vídeos em um servidor externo. A gratuidade dos minutos de testes não inclui hospedagem da produção, armazenamento de vídeos ou serviços de IA.
 
 Na modalidade com chave da OpenAI API, as chamadas são cobradas por uso. A assinatura usada nesta conversa não é automaticamente aplicada às chamadas dessa chave. Existe uma integração oficial para usar planos ChatGPT em aplicações elegíveis, mas ela tem requisitos próprios e não oferece a geração de imagens e as APIs de áudio necessárias a toda esta produção. O uso em serviços hospedados remotamente também tem condições específicas; ele não foi configurado neste projeto.
 
@@ -62,11 +63,12 @@ O relatório confere os campos de configuração e o formato das credenciais sem
 
 ## Próxima implementação
 
-Depois de definir o canal e o orçamento: geração de roteiro com fontes, narração, seleção de mídias com direitos de uso compatíveis, cenas em 16:9, legendas, montagem com movimento, miniatura, validação, upload e publicação agendada. O controle de custo, a identificação de episódios e a recuperação de falhas precisam estar funcionando antes do ritmo de dois vídeos por dia.
+Depois de definir o canal e o orçamento: geração de roteiro com fontes, narração, seleção de mídias com direitos de uso compatíveis, cenas em 16:9, legendas, montagem com movimento, miniatura, validação, upload e publicação agendada. O controle de custo, a identificação de episódios e a recuperação de falhas precisam estar funcionando antes do ritmo de dois vídeos por dia. A escolha e a configuração do servidor de produção dependem de medir o consumo das primeiras produções; não é necessário contratar um servidor antes dessa definição.
 
 ## Documentação oficial consultada
 
 - [GitHub Actions: cobrança](https://docs.github.com/en/billing/concepts/product-billing/github-actions)
+- [GitHub Actions: termos de uso](https://docs.github.com/en/site-policy/github-terms/github-terms-for-additional-products-and-features)
 - [GitHub Actions: Secrets](https://docs.github.com/en/actions/how-tos/write-workflows/choose-what-workflows-do/use-secrets)
 - [OpenAI API: início](https://developers.openai.com/api/docs/quickstart)
 - [OpenAI API: preços](https://developers.openai.com/api/docs/pricing)
