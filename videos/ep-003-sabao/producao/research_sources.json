@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Rice University / OpenStax — Water",
+    "url": "https://openstax.org/books/biology-2e/pages/2-2-water",
+    "topics": [
+      "polaridade",
+      "água e óleo"
+    ],
+    "blocks": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "name": "Rice University / OpenStax — Colloids",
+    "url": "https://openstax.org/books/chemistry-atoms-first-2e/pages/11-5-colloids",
+    "topics": [
+      "interfaces",
+      "emulsões",
+      "gotículas revestidas",
+      "enxágue"
+    ],
+    "blocks": [
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "name": "Rice University / OpenStax — Soap",
+    "url": "https://openstax.org/books/organic-chemistry/pages/27-2-soap",
+    "topics": [
+      "micelas",
+      "sabão e detergentes"
+    ],
+    "blocks": [
+      8,
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "name": "American Chemical Society / C&EN — Soap Bubbles",
+    "url": "https://pubs.acs.org/cenear/article/81/17/34/3509903",
+    "topics": [
+      "película de sabão",
+      "ar nas bolhas"
+    ],
+    "blocks": [
+      13,
+      14
+    ]
+  },
+  {
+    "name": "USGS — Hardness of Water",
+    "url": "https://www.usgs.gov/water-science-school/science/hardness-water",
+    "topics": [
+      "cálcio e magnésio",
+      "resíduos de sabão"
+    ],
+    "blocks": [
+      15,
+      16
+    ]
+  },
+  {
+    "name": "FDA — Frequently Asked Questions on Soap",
+    "url": "https://www.fda.gov/cosmetics/cosmetic-products/frequently-asked-questions-soap",
+    "topics": [
+      "origem do sabão tradicional",
+      "produtos de limpeza"
+    ],
+    "blocks": [
+      17,
+      18
+    ]
+  }
+]

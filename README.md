@@ -25,16 +25,16 @@ Canal de Emanuel Bonfim sobre ciência, história, natureza, tecnologia e as sur
 
 ## Episódio em destaque
 
-**Quem decidiu que o dia tem 24 horas? — 8min24s, 1080p, 16:9.**
+**Por que o sabão tira a gordura? — 8min24s, 1080p, 16:9.**
 
-![Miniatura do episódio](videos/ep-002-24-horas/miniatura.jpg)
+![Miniatura do episódio](videos/ep-003-sabao/miniatura.jpg)
 
-Uma viagem dos relógios de sombra aos átomos, com 69 cenas, filmagens reais, fotos de acervos, pixel art, a voz Thalita e o Pico.
+Uma investigação da química escondida na pia, com 69 cenas, filmagens reais, fotografia em movimento, diagramas em pixel art, a voz Thalita e o Pico.
 
-- [Vídeo e pacote para publicar](videos/ep-002-24-horas/PUBLICAR.md)
-- [Título do vídeo](videos/ep-002-24-horas/titulo.txt)
-- [Descrição com capítulos, fontes e créditos](videos/ep-002-24-horas/descricao.txt)
-- [Todos os episódios](videos/README.md), incluindo o episódio sobre a geladeira
+- [Vídeo e pacote para publicar](videos/ep-003-sabao/PUBLICAR.md)
+- [Título do vídeo](videos/ep-003-sabao/titulo.txt)
+- [Descrição com capítulos, fontes e créditos](videos/ep-003-sabao/descricao.txt)
+- [Todos os episódios](videos/README.md), incluindo os episódios sobre as 24 horas e a geladeira
 
 ## Como pedir um vídeo
 
@@ -50,10 +50,10 @@ A pasta videos/ep-NNN-tema contém:
 
 - video.mp4: arquivo final com narração e imagens.
 - miniatura.jpg e miniatura.png: miniatura pronta em 16:9; o JPG também atende ao limite de tamanho para envio por celular.
-- titulo.txt: título principal e alternativas.
+- titulo.txt: título pronto para publicar; alternativas nos metadados e no pacote.
 - descricao.txt: texto para colar no YouTube, com capítulos, fontes e créditos.
 - metadata.json: título, descrição, tags, hashtags, idioma e categoria.
-- legendas.srt: legendas sincronizadas com a narração.
+- legendas.srt: transcrição sincronizada; o MP4 já tem legendas fixas e contém somente vídeo e áudio.
 - roteiro.md e narracao.txt: roteiro de produção e texto falado.
 - fontes.md: referências e procedência dos materiais.
 - qa.json e checksums.sha256: verificação técnica e integridade dos arquivos.
@@ -69,13 +69,13 @@ FFmpeg monta o vídeo no ambiente de produção. GitHub guarda o projeto e as en
 
 ## Utilitários de produção
 
-O episódio atual contém os scripts usados na produção, o roteiro por cena, as referências das mídias e as versões das dependências em [producao](videos/ep-002-24-horas/producao/README.md).
+O episódio atual contém os scripts usados na produção, o roteiro por cena, as referências das mídias e as versões das dependências em [producao](videos/ep-003-sabao/producao/README.md).
 
-    python -m pip install -r videos/ep-002-24-horas/producao/requirements.txt
-    python videos/ep-002-24-horas/producao/prepare_media.py
-    python videos/ep-002-24-horas/producao/prepare_voice.py
-    python videos/ep-002-24-horas/producao/render.py --workers 3
-    python videos/ep-002-24-horas/producao/package.py
+    python -m pip install -r videos/ep-003-sabao/producao/requirements.txt
+    python videos/ep-003-sabao/producao/prepare_media.py
+    python videos/ep-003-sabao/producao/prepare_voice.py
+    python videos/ep-003-sabao/producao/render.py --workers 3
+    python videos/ep-003-sabao/producao/package.py
 
 A renderização usa FFmpeg, fontes DejaVu e acesso à internet para baixar as mídias e sintetizar a voz. A conferência geral da entrega continua disponível em scripts/package_episode.py. O padrão de 24 fps acompanha o vídeo de referência aprovado; a tolerância de duração é de 30 segundos em torno de oito minutos. O limite de envio mantém margem abaixo do limite de arquivos do GitHub e preserva a qualidade do MP4.
 
@@ -85,6 +85,3 @@ A renderização usa FFmpeg, fontes DejaVu e acesso à internet para baixar as m
 - [Vozes do Microsoft Speech](https://learn.microsoft.com/pt-br/azure/ai-services/speech-service/language-support)
 - [Limites de arquivos no GitHub](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github)
 - [Condições de uso dos GitHub Actions](https://docs.github.com/en/site-policy/github-terms/github-terms-for-additional-products-and-features)
-
-
-

@@ -1,0 +1,131 @@
+{
+  "episode": 3,
+  "channel": "Quase Infinito",
+  "repository": "emanoelb5-lgtm/Projeto-criador-solo-",
+  "title": "Por que o sabão tira a gordura? | Quase Infinito",
+  "alternative_titles": [
+    "A viagem da gordura: o segredo do sabão",
+    "O mundo invisível escondido na sua pia"
+  ],
+  "summary": "Você lava uma panela e a gordura sai... mas para onde ela vai?\n\nNeste episódio do Quase Infinito, o Pico mergulha numa gota de água para investigar o segredo do sabão. Cabeças e caudas moleculares, micelas, gotículas de óleo, bolhas e minerais revelam a química escondida na pia.\n\nFilmagens reais e animações em pixel art acompanham uma viagem do prato engordurado ao enxágue.\n\nQual detalhe da sua rotina merece a próxima investigação? Conte nos comentários e inscreva-se no Quase Infinito.\nCada pergunta abre outra viagem.",
+  "language": "pt-BR",
+  "category_id": "27",
+  "category": "Education",
+  "tags": [
+    "por que o sabão tira gordura",
+    "sabão",
+    "detergente",
+    "micelas",
+    "água e óleo",
+    "química do cotidiano",
+    "como o sabão funciona",
+    "água dura",
+    "espuma",
+    "ciência",
+    "curiosidades",
+    "Pico",
+    "Quase Infinito"
+  ],
+  "hashtags": [
+    "#QuaseInfinito",
+    "#Curiosidades",
+    "#QuimicaDoCotidiano"
+  ],
+  "voice": "pt-BR-ThalitaMultilingualNeural",
+  "duration_seconds": 504.0,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "thumbnail": "miniatura.jpg",
+  "subtitle_file": "legendas.srt",
+  "subtitle_mode": "burned_in",
+  "embedded_subtitle_streams": 0,
+  "video_filename": "video.mp4",
+  "video_sha256": "75b885cea499de225fab75a8f7482601503c4caec88958937d5fcb757b1be560",
+  "chapters": [
+    {
+      "start_seconds": 0.0,
+      "title": "Para onde foi a gordura?"
+    },
+    {
+      "start_seconds": 40.708333333333336,
+      "title": "Por que água e óleo se separam?"
+    },
+    {
+      "start_seconds": 106.58333333333333,
+      "title": "Duas partes na mesma molécula"
+    },
+    {
+      "start_seconds": 168.54166666666666,
+      "title": "Os pequenos grupos: micelas"
+    },
+    {
+      "start_seconds": 212.75,
+      "title": "A esponja participa"
+    },
+    {
+      "start_seconds": 231.41666666666666,
+      "title": "O enxágue completa a viagem"
+    },
+    {
+      "start_seconds": 279.7916666666667,
+      "title": "A espuma é outra história"
+    },
+    {
+      "start_seconds": 322.1666666666667,
+      "title": "A composição da água"
+    },
+    {
+      "start_seconds": 365.9583333333333,
+      "title": "A origem do sabão"
+    },
+    {
+      "start_seconds": 387.1666666666667,
+      "title": "Sabão e detergente"
+    },
+    {
+      "start_seconds": 433.6666666666667,
+      "title": "O mistério resolvido"
+    },
+    {
+      "start_seconds": 480.75,
+      "title": "Cada pergunta abre outra viagem"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Rice University / OpenStax — Water",
+      "url": "https://openstax.org/books/biology-2e/pages/2-2-water"
+    },
+    {
+      "name": "Rice University / OpenStax — Colloids",
+      "url": "https://openstax.org/books/chemistry-atoms-first-2e/pages/11-5-colloids"
+    },
+    {
+      "name": "Rice University / OpenStax — Soap",
+      "url": "https://openstax.org/books/organic-chemistry/pages/27-2-soap"
+    },
+    {
+      "name": "American Chemical Society / C&EN — Soap Bubbles",
+      "url": "https://pubs.acs.org/cenear/article/81/17/34/3509903"
+    },
+    {
+      "name": "USGS — Hardness of Water",
+      "url": "https://www.usgs.gov/water-science-school/science/hardness-water"
+    },
+    {
+      "name": "FDA — Frequently Asked Questions on Soap",
+      "url": "https://www.fda.gov/cosmetics/cosmetic-products/frequently-asked-questions-soap"
+    }
+  ],
+  "credits": "Engin Akyurt — https://www.pexels.com/video/a-person-washing-dishes-4319304/\n‪Amer Mansour — https://www.pexels.com/video/a-shot-of-a-dishwashing-soap-on-a-sponge-4198310/\nMART PRODUCTION — https://www.pexels.com/video/a-person-washing-a-plate-7641504/\ncottonbro studio — https://www.pexels.com/video/house-glass-kitchen-apartment-4109347/\nPolina Tankilevitch — https://www.pexels.com/video/a-person-squeezing-the-sponge-with-a-soap-4440698/\nROMAN ODINTSOV — https://www.pexels.com/video/a-person-pouring-oil-to-the-glass-bowl-5657574/\nKampus Production — https://www.pexels.com/video/a-person-washing-a-cooking-pan-8627110/\nKoolShooters — https://www.pexels.com/video/person-cleaning-a-plate-with-a-sponge-9733241/\nAlejandro Reyes — https://www.pexels.com/photo/woman-washing-dishes-in-modern-kitchen-with-bubbles-29758975/\n\nFilmagens e fotografia: Pexels, utilizadas sob a Pexels License.\nRoteiro, trilha instrumental, moldura, Pico e animações: produção original do Quase Infinito.\nNarração: voz sintetizada Thalita, em português brasileiro.\nMiniatura: ilustração criada com geração de imagem por IA.\nDiagramas: modelos esquemáticos ampliados, sem escala; círculos representam estruturas diferentes conforme as legendas.",
+  "synthetic_content": {
+    "narration": "síntese de voz Thalita",
+    "thumbnail": "ilustração gerada por IA",
+    "graphics": "animações e diagramas originais em código"
+  },
+  "publication_mode": "manual",
+  "description": "Você lava uma panela e a gordura sai... mas para onde ela vai?\n\nNeste episódio do Quase Infinito, o Pico mergulha numa gota de água para investigar o segredo do sabão. Cabeças e caudas moleculares, micelas, gotículas de óleo, bolhas e minerais revelam a química escondida na pia.\n\nFilmagens reais e animações em pixel art acompanham uma viagem do prato engordurado ao enxágue.\n\nQual detalhe da sua rotina merece a próxima investigação? Conte nos comentários e inscreva-se no Quase Infinito.\nCada pergunta abre outra viagem.\n\nCAPÍTULOS\n00:00 Para onde foi a gordura?\n00:40 Por que água e óleo se separam?\n01:46 Duas partes na mesma molécula\n02:48 Os pequenos grupos: micelas\n03:32 A esponja participa\n03:51 O enxágue completa a viagem\n04:39 A espuma é outra história\n05:22 A composição da água\n06:05 A origem do sabão\n06:27 Sabão e detergente\n07:13 O mistério resolvido\n08:00 Cada pergunta abre outra viagem\n\nFONTES E LEITURA\nRice University / OpenStax — Water\nhttps://openstax.org/books/biology-2e/pages/2-2-water\nRice University / OpenStax — Colloids\nhttps://openstax.org/books/chemistry-atoms-first-2e/pages/11-5-colloids\nRice University / OpenStax — Soap\nhttps://openstax.org/books/organic-chemistry/pages/27-2-soap\nAmerican Chemical Society / C&EN — Soap Bubbles\nhttps://pubs.acs.org/cenear/article/81/17/34/3509903\nUSGS — Hardness of Water\nhttps://www.usgs.gov/water-science-school/science/hardness-water\nFDA — Frequently Asked Questions on Soap\nhttps://www.fda.gov/cosmetics/cosmetic-products/frequently-asked-questions-soap\n\nCRÉDITOS\nEngin Akyurt — https://www.pexels.com/video/a-person-washing-dishes-4319304/\n‪Amer Mansour — https://www.pexels.com/video/a-shot-of-a-dishwashing-soap-on-a-sponge-4198310/\nMART PRODUCTION — https://www.pexels.com/video/a-person-washing-a-plate-7641504/\ncottonbro studio — https://www.pexels.com/video/house-glass-kitchen-apartment-4109347/\nPolina Tankilevitch — https://www.pexels.com/video/a-person-squeezing-the-sponge-with-a-soap-4440698/\nROMAN ODINTSOV — https://www.pexels.com/video/a-person-pouring-oil-to-the-glass-bowl-5657574/\nKampus Production — https://www.pexels.com/video/a-person-washing-a-cooking-pan-8627110/\nKoolShooters — https://www.pexels.com/video/person-cleaning-a-plate-with-a-sponge-9733241/\nAlejandro Reyes — https://www.pexels.com/photo/woman-washing-dishes-in-modern-kitchen-with-bubbles-29758975/\n\nFilmagens e fotografia: Pexels, utilizadas sob a Pexels License.\nRoteiro, trilha instrumental, moldura, Pico e animações: produção original do Quase Infinito.\nNarração: voz sintetizada Thalita, em português brasileiro.\nMiniatura: ilustração criada com geração de imagem por IA.\nDiagramas: modelos esquemáticos ampliados, sem escala; círculos representam estruturas diferentes conforme as legendas.\n\n#QuaseInfinito #Curiosidades #QuimicaDoCotidiano\n"
+}

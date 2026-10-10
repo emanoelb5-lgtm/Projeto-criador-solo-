@@ -1,0 +1,806 @@
+1
+00:00:00,399 --> 00:00:01,685
+Você já viu essa cena:
+
+2
+00:00:01,760 --> 00:00:04,094
+a panela fica engordurada, a água passa
+
+3
+00:00:04,114 --> 00:00:06,098
+por ela... e quase nada muda.
+
+4
+00:00:06,272 --> 00:00:08,851
+Aí entram algumas gotas de detergente, a
+
+5
+00:00:08,871 --> 00:00:11,474
+esponja faz seu trabalho e, de repente,
+
+6
+00:00:11,494 --> 00:00:12,891
+a superfície está limpa.
+
+7
+00:00:13,052 --> 00:00:16,103
+Mas espere. A gordura não evaporou.
+
+8
+00:00:16,264 --> 00:00:19,903
+Não desapareceu. Então, para onde ela foi?
+
+9
+00:00:20,984 --> 00:00:23,161
+Hoje, o Pico vai investigar um truque
+
+10
+00:00:23,181 --> 00:00:25,181
+tão comum que quase ninguém para para
+
+11
+00:00:25,201 --> 00:00:28,122
+pensar nele. Vamos sair da pia, atravessar
+
+12
+00:00:28,142 --> 00:00:29,826
+uma gota de água e visitar um
+
+13
+00:00:29,846 --> 00:00:32,087
+mundo pequeno demais para enxergar.
+
+14
+00:00:32,271 --> 00:00:35,609
+Lá, o sabão parece ter duas personalidades.
+
+15
+00:00:35,793 --> 00:00:38,083
+E é justamente essa diferença que ajuda
+
+16
+00:00:38,103 --> 00:00:40,028
+a carregar a gordura para longe.
+
+17
+00:00:41,120 --> 00:00:43,588
+Antes de encontrar a solução, observe o
+
+18
+00:00:43,608 --> 00:00:45,722
+problema. Em um copo com água e
+
+19
+00:00:45,742 --> 00:00:48,989
+óleo de cozinha, aparecem duas regiões separadas.
+
+20
+00:00:49,150 --> 00:00:51,104
+Se você agitar, o óleo pode se
+
+21
+00:00:51,124 --> 00:00:53,549
+espalhar temporariamente em gotinhas.
+
+22
+00:00:53,711 --> 00:00:56,155
+Depois, elas tendem a se juntar outra
+
+23
+00:00:56,175 --> 00:00:58,398
+vez. Agitar muda a aparência por um
+
+24
+00:00:58,418 --> 00:01:01,862
+momento; manter essa dispersão exige outra coisa.
+
+25
+00:01:02,941 --> 00:01:04,683
+A água é feita de moléculas com
+
+26
+00:01:04,703 --> 00:01:07,541
+regiões de carga elétrica parcial diferente.
+
+27
+00:01:07,702 --> 00:01:09,567
+Isso permite que elas interajam umas com
+
+28
+00:01:09,587 --> 00:01:11,464
+as outras e também com muitas outras
+
+29
+00:01:11,484 --> 00:01:14,291
+substâncias. Pense numa pequena reunião em que
+
+30
+00:01:14,311 --> 00:01:16,996
+os participantes conseguem se aproximar de maneiras
+
+31
+00:01:17,016 --> 00:01:20,368
+específicas. Não há decisões conscientes aqui:
+
+32
+00:01:20,492 --> 00:01:22,737
+estamos desenhando uma imagem para entender as
+
+33
+00:01:22,757 --> 00:01:23,820
+interações.
+
+34
+00:01:24,899 --> 00:01:27,489
+Nos óleos e nas gorduras, predominam grandes
+
+35
+00:01:27,509 --> 00:01:30,621
+regiões moleculares que interagem de outro modo.
+
+36
+00:01:30,794 --> 00:01:32,906
+Elas não se misturam facilmente com a
+
+37
+00:01:32,926 --> 00:01:35,884
+água. Por isso, a água sozinha encontra
+
+38
+00:01:35,904 --> 00:01:38,654
+dificuldade para levar embora aquela camada oleosa
+
+39
+00:01:38,674 --> 00:01:41,326
+da panela. O problema não é simplesmente
+
+40
+00:01:41,346 --> 00:01:43,048
+a falta de força na torneira.
+
+41
+00:01:43,221 --> 00:01:45,903
+Existe uma diferença entre os materiais.
+
+42
+00:01:46,982 --> 00:01:48,597
+É aqui que entra o sabão.
+
+43
+00:01:48,758 --> 00:01:51,248
+Vamos representá-lo como uma cabeça ligada a
+
+44
+00:01:51,268 --> 00:01:54,077
+uma cauda comprida. A cabeça interage bem
+
+45
+00:01:54,097 --> 00:01:56,416
+com a água. A cauda interage bem
+
+46
+00:01:56,436 --> 00:01:59,709
+com materiais gordurosos. É uma combinação muito
+
+47
+00:01:59,729 --> 00:02:02,220
+útil: uma mesma molécula consegue participar da
+
+48
+00:02:02,240 --> 00:02:05,612
+fronteira entre dois ambientes que, sozinhos, não
+
+49
+00:02:05,632 --> 00:02:07,320
+se misturam tão facilmente.
+
+50
+00:02:08,399 --> 00:02:10,316
+Se a cauda encontra uma região de
+
+51
+00:02:10,336 --> 00:02:12,926
+gordura, ela pode se acomodar ali, enquanto
+
+52
+00:02:12,946 --> 00:02:14,569
+a cabeça continua em contato com a
+
+53
+00:02:14,589 --> 00:02:17,547
+água. Esse comportamento transforma a molécula numa
+
+54
+00:02:17,567 --> 00:02:20,232
+espécie de ponte. O Pico não precisa
+
+55
+00:02:20,252 --> 00:02:21,758
+construir uma estrada inteira:
+
+56
+00:02:21,894 --> 00:02:24,424
+a conexão acontece na escala molecular, por
+
+57
+00:02:24,444 --> 00:02:27,028
+toda a superfície da pequena porção oleosa.
+
+58
+00:02:28,107 --> 00:02:30,883
+Agora imagine muitas dessas moléculas agindo ao
+
+59
+00:02:30,903 --> 00:02:34,035
+mesmo tempo. Elas se organizam nas interfaces,
+
+60
+00:02:34,055 --> 00:02:35,997
+ajudando a gordura a se desprender e
+
+61
+00:02:36,017 --> 00:02:37,941
+a permanecer dispersa na água.
+
+62
+00:02:38,102 --> 00:02:39,885
+A cena não é uma batalha entre
+
+63
+00:02:39,905 --> 00:02:42,791
+personagens reais. É uma maneira de enxergar
+
+64
+00:02:42,811 --> 00:02:45,611
+um processo invisível. A sujeira ganha uma
+
+65
+00:02:45,631 --> 00:02:47,862
+nova forma de viajar pelo líquido.
+
+66
+00:02:48,941 --> 00:02:51,409
+Em água, moléculas de sabão também podem
+
+67
+00:02:51,429 --> 00:02:53,695
+formar grupos chamados micelas.
+
+68
+00:02:53,869 --> 00:02:56,006
+As caudas ficam voltadas para uma região
+
+69
+00:02:56,026 --> 00:02:58,690
+interna, enquanto as cabeças ficam em contato
+
+70
+00:02:58,710 --> 00:02:59,922
+com a água ao redor.
+
+71
+00:03:00,096 --> 00:03:02,846
+Essa organização cria um lugar favorável para
+
+72
+00:03:02,866 --> 00:03:07,118
+componentes oleosos. Nosso desenho amplia tudo
+enormemente:
+
+73
+00:03:07,193 --> 00:03:09,416
+as estruturas reais são muito menores do
+
+74
+00:03:09,436 --> 00:03:10,820
+que as bolhas que você vê.
+
+75
+00:03:11,899 --> 00:03:14,035
+Além desses pequenos grupos, o processo de
+
+76
+00:03:14,055 --> 00:03:17,231
+lavagem envolve gotículas de gordura dispersas, com
+
+77
+00:03:17,251 --> 00:03:19,700
+moléculas atuando na sua superfície.
+
+78
+00:03:19,872 --> 00:03:22,051
+É útil distinguir as duas imagens:
+
+79
+00:03:22,126 --> 00:03:23,870
+uma micela e uma gota de óleo
+
+80
+00:03:23,890 --> 00:03:26,362
+revestida não precisam ter o mesmo tamanho.
+
+81
+00:03:26,523 --> 00:03:28,193
+O resultado que interessa à panela é
+
+82
+00:03:28,213 --> 00:03:30,876
+este: parte da gordura consegue ser carregada
+
+83
+00:03:30,896 --> 00:03:32,070
+junto com a água.
+
+84
+00:03:33,149 --> 00:03:35,524
+Mas a molécula não trabalha sozinha.
+
+85
+00:03:35,684 --> 00:03:37,845
+O movimento da esponja ajuda a soltar
+
+86
+00:03:37,865 --> 00:03:39,964
+o material que estava preso à superfície
+
+87
+00:03:39,984 --> 00:03:41,734
+e põe os líquidos em movimento.
+
+88
+00:03:41,895 --> 00:03:43,687
+A química e a ação mecânica se
+
+89
+00:03:43,707 --> 00:03:45,549
+encontram ali. É por isso que a
+
+90
+00:03:45,569 --> 00:03:47,558
+investigação do Pico precisa olhar para a
+
+91
+00:03:47,578 --> 00:03:49,702
+molécula, para a panela e também para
+
+92
+00:03:49,722 --> 00:03:50,737
+a mão que esfrega.
+
+93
+00:03:51,816 --> 00:03:54,007
+Chegamos à saída da nossa história.
+
+94
+00:03:54,168 --> 00:03:56,488
+Durante o enxágue, a água leva embora
+
+95
+00:03:56,508 --> 00:03:58,969
+o material que foi desprendido e disperso.
+
+96
+00:03:59,142 --> 00:04:01,584
+A gordura continua existindo, mas já não
+
+97
+00:04:01,604 --> 00:04:04,114
+precisa permanecer grudada na panela.
+
+98
+00:04:04,287 --> 00:04:06,399
+Você percebe uma superfície limpa porque o
+
+99
+00:04:06,419 --> 00:04:08,047
+material mudou de lugar.
+
+100
+00:04:08,208 --> 00:04:09,817
+O grande truque não foi fazer a
+
+101
+00:04:09,837 --> 00:04:12,862
+matéria desaparecer: foi ajudar a transportá-la.
+
+102
+00:04:13,942 --> 00:04:16,486
+Vamos repetir a viagem em câmera lenta.
+
+103
+00:04:16,657 --> 00:04:19,819
+Primeiro, uma camada oleosa resiste à água.
+
+104
+00:04:19,990 --> 00:04:23,922
+Depois, moléculas com duas regiões diferentes participam
+
+105
+00:04:23,942 --> 00:04:26,990
+da interface. O movimento ajuda a desprender
+
+106
+00:04:27,010 --> 00:04:28,594
+e dispersar a sujeira.
+
+107
+00:04:28,765 --> 00:04:31,928
+Finalmente, o enxágue carrega esse material.
+
+108
+00:04:32,098 --> 00:04:33,783
+A panela parece ter passado por uma
+
+109
+00:04:33,803 --> 00:04:36,750
+transformação enorme, mas nossa história acompanhou uma
+
+110
+00:04:36,770 --> 00:04:39,112
+mudança de organização e de lugar.
+
+111
+00:04:40,191 --> 00:04:42,502
+Agora aparece uma nova pergunta.
+
+112
+00:04:42,663 --> 00:04:44,540
+Se o que importa acontece nesse mundo
+
+113
+00:04:44,560 --> 00:04:46,461
+minúsculo, qual é o papel da espuma
+
+114
+00:04:46,481 --> 00:04:47,998
+que toma conta da esponja?
+
+115
+00:04:48,158 --> 00:04:50,274
+Uma bolha de sabão é outra estrutura:
+
+116
+00:04:50,361 --> 00:04:52,201
+uma película muito fina de água e
+
+117
+00:04:52,221 --> 00:04:54,466
+moléculas de sabão envolve uma porção de
+
+118
+00:04:54,486 --> 00:04:56,179
+ar. O brilho e o volume que
+
+119
+00:04:56,199 --> 00:04:58,278
+vemos pertencem a essa arquitetura.
+
+120
+00:04:59,357 --> 00:05:01,873
+O Pico encontrou dois desenhos que parecem
+
+121
+00:05:01,893 --> 00:05:04,916
+círculos, mas representam coisas diferentes.
+
+122
+00:05:05,089 --> 00:05:07,237
+Na micela, as caudas se agrupam na
+
+123
+00:05:07,257 --> 00:05:10,311
+região interna. Na bolha, há ar envolvido
+
+124
+00:05:10,331 --> 00:05:12,932
+por uma película. Por isso, olhar apenas
+
+125
+00:05:12,952 --> 00:05:14,720
+para o monte de espuma não revela
+
+126
+00:05:14,740 --> 00:05:16,318
+toda a viagem da gordura.
+
+127
+00:05:16,491 --> 00:05:18,761
+Grande parte do processo de limpeza ocorre
+
+128
+00:05:18,781 --> 00:05:21,487
+em estruturas que nossos olhos não acompanham.
+
+129
+00:05:22,566 --> 00:05:24,818
+Só que a história tem uma complicação.
+
+130
+00:05:24,978 --> 00:05:27,040
+A água da torneira pode carregar minerais
+
+131
+00:05:27,060 --> 00:05:30,329
+dissolvidos, especialmente cálcio e magnésio.
+
+132
+00:05:30,502 --> 00:05:33,433
+Quando eles aparecem em quantidades maiores, chamamos
+
+133
+00:05:33,453 --> 00:05:34,652
+essa água de dura.
+
+134
+00:05:34,812 --> 00:05:37,468
+O nome descreve uma característica química.
+
+135
+00:05:37,641 --> 00:05:40,230
+Ela continua sendo líquida, mas sua composição
+
+136
+00:05:40,250 --> 00:05:42,434
+pode mudar o comportamento do sabão durante
+
+137
+00:05:42,454 --> 00:05:43,237
+a lavagem.
+
+138
+00:05:44,316 --> 00:05:46,797
+Certos componentes do sabão podem reagir com
+
+139
+00:05:46,817 --> 00:05:50,003
+esses minerais e formar materiais pouco solúveis.
+
+140
+00:05:50,176 --> 00:05:52,081
+É daí que podem vir aqueles resíduos
+
+141
+00:05:52,101 --> 00:05:54,343
+de sabão em algumas superfícies.
+
+142
+00:05:54,516 --> 00:05:57,340
+Parte do produto entrou numa interação diferente
+
+143
+00:05:57,360 --> 00:05:58,566
+da que ajudava a lidar com a
+
+144
+00:05:58,586 --> 00:06:00,932
+gordura. Agora o Pico entende por que
+
+145
+00:06:00,952 --> 00:06:02,771
+a mesma tarefa pode se comportar de
+
+146
+00:06:02,791 --> 00:06:05,278
+modo diferente em águas diferentes.
+
+147
+00:06:06,357 --> 00:06:09,417
+Há ainda uma curiosidade escondida nessa história.
+
+148
+00:06:09,590 --> 00:06:11,480
+O sabão tradicional pode ser produzido a
+
+149
+00:06:11,500 --> 00:06:13,795
+partir de óleos ou gorduras que passam
+
+150
+00:06:13,815 --> 00:06:15,968
+por uma reação química com uma base.
+
+151
+00:06:16,129 --> 00:06:18,766
+O processo transforma os materiais de partida
+
+152
+00:06:18,786 --> 00:06:19,899
+e gera o sabão.
+
+153
+00:06:20,072 --> 00:06:21,870
+Parece uma pequena reviravolta:
+
+154
+00:06:21,933 --> 00:06:23,823
+um material ligado à gordura pode dar
+
+155
+00:06:23,843 --> 00:06:25,635
+origem a algo capaz de ajudar a
+
+156
+00:06:25,655 --> 00:06:26,487
+removê-la.
+
+157
+00:06:27,566 --> 00:06:30,082
+No cotidiano, usamos vários nomes para os
+
+158
+00:06:30,102 --> 00:06:33,782
+produtos de limpeza. Quimicamente, o sabão tradicional
+
+159
+00:06:33,802 --> 00:06:37,463
+e muitos detergentes sintéticos têm composições
+diferentes.
+
+160
+00:06:37,624 --> 00:06:40,294
+Ainda assim, compartilham uma ideia central:
+
+161
+00:06:40,442 --> 00:06:42,909
+moléculas com regiões que interagem de maneira
+
+162
+00:06:42,929 --> 00:06:45,035
+diferente com água e gordura.
+
+163
+00:06:45,208 --> 00:06:47,626
+Algumas dessas formulações lidam melhor com os
+
+164
+00:06:47,646 --> 00:06:49,721
+minerais da água e ajudam a evitar
+
+165
+00:06:49,741 --> 00:06:51,112
+certos resíduos.
+
+166
+00:06:52,191 --> 00:06:54,481
+O líquido da pia é uma formulação,
+
+167
+00:06:54,581 --> 00:06:56,362
+não apenas o desenho de uma molécula
+
+168
+00:06:56,382 --> 00:07:00,406
+isolada. Existem diferentes ingredientes e diferentes
+condições
+
+169
+00:07:00,426 --> 00:07:02,931
+de uso. Nosso passeio mostrou um mecanismo
+
+170
+00:07:02,951 --> 00:07:05,345
+central, não todos os detalhes de cada
+
+171
+00:07:05,365 --> 00:07:07,937
+produto. Quando o Pico aproxima a lupa,
+
+172
+00:07:07,988 --> 00:07:10,137
+descobre que uma tarefa familiar depende de
+
+173
+00:07:10,157 --> 00:07:12,987
+muitas pequenas interações trabalhando juntas.
+
+174
+00:07:14,078 --> 00:07:16,737
+Podemos voltar à pergunta da primeira cena.
+
+175
+00:07:16,898 --> 00:07:18,466
+Para onde foi a gordura?
+
+176
+00:07:18,639 --> 00:07:21,623
+Ela foi desprendida, dispersa e carregada com
+
+177
+00:07:21,643 --> 00:07:22,793
+a água do enxágue.
+
+178
+00:07:22,954 --> 00:07:25,386
+O sabão ajudou porque reúne, na mesma
+
+179
+00:07:25,406 --> 00:07:28,642
+estrutura, regiões com comportamentos diferentes.
+
+180
+00:07:28,803 --> 00:07:31,008
+A esponja acrescentou movimento.
+
+181
+00:07:31,169 --> 00:07:33,178
+A água completou o transporte.
+
+182
+00:07:33,339 --> 00:07:35,624
+Aquela cena comum da cozinha escondia uma
+
+183
+00:07:35,644 --> 00:07:38,695
+operação microscópica muito bem organizada.
+
+184
+00:07:39,775 --> 00:07:41,195
+Da próxima vez que você vir uma
+
+185
+00:07:41,215 --> 00:07:43,808
+panela ficar limpa, talvez enxergue mais do
+
+186
+00:07:43,828 --> 00:07:45,210
+que espuma e água.
+
+187
+00:07:45,406 --> 00:07:48,113
+Pense nas interfaces, nas gotículas e nas
+
+188
+00:07:48,133 --> 00:07:50,866
+pequenas estruturas que se formam no líquido.
+
+189
+00:07:51,049 --> 00:07:52,860
+O que parece simples à nossa escala
+
+190
+00:07:52,880 --> 00:07:55,285
+pode ser cheio de acontecimentos em outra.
+
+191
+00:07:55,456 --> 00:07:57,936
+A curiosidade começa quando paramos para olhar
+
+192
+00:07:57,956 --> 00:08:00,070
+novamente para uma coisa conhecida.
+
+193
+00:08:01,150 --> 00:08:02,530
+O Pico voltou da pia com uma
+
+194
+00:08:02,550 --> 00:08:05,268
+resposta... e várias perguntas novas.
+
+195
+00:08:05,439 --> 00:08:07,463
+Qual detalhe da sua rotina merece a
+
+196
+00:08:07,483 --> 00:08:10,932
+próxima investigação? Conte nos comentários e acompanhe
+
+197
+00:08:10,952 --> 00:08:14,136
+o Quase Infinito. Aqui, um relógio, uma
+
+198
+00:08:14,156 --> 00:08:16,356
+geladeira ou uma gota de sabão podem
+
+199
+00:08:16,376 --> 00:08:18,766
+abrir caminhos que você nem imaginava.
+
+200
+00:08:18,937 --> 00:08:21,176
+Cada pergunta abre outra viagem.
+
+201
+00:08:21,346 --> 00:08:23,320
+Até a próxima descoberta!

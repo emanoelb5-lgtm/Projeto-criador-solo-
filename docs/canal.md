@@ -31,7 +31,7 @@ Pico é o mascote recorrente: um pequeno explorador voador em pixel art, com cap
 
 Combinar filmagens reais da internet, fotografias e arquivos históricos com pixel art animada. Fotografias recebem movimento. Uma moldura persistente acompanha imagens e filmagens.
 
-A paleta usa azul escuro, verde água, dourado e pequenos detalhes coral. Todas as imagens geradas, miniaturas e cenas são **16:9**. O formato principal é Full HD horizontal, com duração próxima de oito minutos. O episódio atual da geladeira tem 8min04s e 24 fps; a configuração geral conserva 30 fps como padrão para novos projetos.
+A paleta usa azul escuro, verde água, dourado e pequenos detalhes coral. Todas as imagens geradas, miniaturas e cenas são **16:9**. O formato principal é Full HD horizontal, com duração próxima de oito minutos. Os episódios seguem a referência aprovada de 24 fps; a configuração atual do canal também usa 24 fps.
 
 ## Perfil e capa do canal
 
@@ -57,5 +57,3 @@ Essas pautas são sugestões; o canal pode ir além dos objetos cotidianos.
 Emanuel administra o canal e publica os vídeos no YouTube. O assistente prepara os materiais de produção e publicação, com roteiro, título, descrição, miniatura, legendas, capítulos e créditos. A referência oficial do projeto é este repositório.
 
 As legendas fixas devem aparecer uma única vez nas imagens. Nesse modo, registrar `subtitle_mode: burned_in` nos metadados e exportar o MP4 sem uma segunda faixa de legenda embutida. O SRT acompanha a entrega como transcrição separada; ativar outra faixa sobre as legendas fixas pode duplicar o texto na tela.
-
-

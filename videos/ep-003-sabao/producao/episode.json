@@ -1,0 +1,255 @@
+[
+  {
+    "index": 0,
+    "title": "Para onde foi a gordura?",
+    "text": "Você já viu essa cena: a panela fica engordurada, a água passa por ela... e quase nada muda. Aí entram algumas gotas de detergente, a esponja faz seu trabalho e, de repente, a superfície está limpa. Mas espere. A gordura não evaporou. Não desapareceu. Então, para onde ela foi?",
+    "scenes": [
+      "real_dishes",
+      "oily_plate",
+      "mystery"
+    ],
+    "action": "question"
+  },
+  {
+    "index": 1,
+    "title": "Uma viagem pela pia",
+    "text": "Hoje, o Pico vai investigar um truque tão comum que quase ninguém para para pensar nele. Vamos sair da pia, atravessar uma gota de água e visitar um mundo pequeno demais para enxergar. Lá, o sabão parece ter duas personalidades. E é justamente essa diferença que ajuda a carregar a gordura para longe.",
+    "scenes": [
+      "real_soap",
+      "sink_journey",
+      "zoom"
+    ],
+    "action": "fly"
+  },
+  {
+    "index": 2,
+    "title": "O problema: água e óleo",
+    "text": "Antes de encontrar a solução, observe o problema. Em um copo com água e óleo de cozinha, aparecem duas regiões separadas. Se você agitar, o óleo pode se espalhar temporariamente em gotinhas. Depois, elas tendem a se juntar outra vez. Agitar muda a aparência por um momento; manter essa dispersão exige outra coisa.",
+    "scenes": [
+      "glass_layers",
+      "shaking",
+      "separate"
+    ],
+    "action": "inspect"
+  },
+  {
+    "index": 3,
+    "title": "A água tem seus encontros",
+    "text": "A água é feita de moléculas com regiões de carga elétrica parcial diferente. Isso permite que elas interajam umas com as outras e também com muitas outras substâncias. Pense numa pequena reunião em que os participantes conseguem se aproximar de maneiras específicas. Não há decisões conscientes aqui: estamos desenhando uma imagem para entender as interações.",
+    "scenes": [
+      "water_molecules",
+      "polarity",
+      "water_network"
+    ],
+    "action": "point"
+  },
+  {
+    "index": 4,
+    "title": "A gordura segue outra lógica",
+    "text": "Nos óleos e nas gorduras, predominam grandes regiões moleculares que interagem de outro modo. Elas não se misturam facilmente com a água. Por isso, a água sozinha encontra dificuldade para levar embora aquela camada oleosa da panela. O problema não é simplesmente a falta de força na torneira. Existe uma diferença entre os materiais.",
+    "scenes": [
+      "oil_chains",
+      "water_oil",
+      "partners"
+    ],
+    "action": "question"
+  },
+  {
+    "index": 5,
+    "title": "Duas partes, uma molécula",
+    "text": "É aqui que entra o sabão. Vamos representá-lo como uma cabeça ligada a uma cauda comprida. A cabeça interage bem com a água. A cauda interage bem com materiais gordurosos. É uma combinação muito útil: uma mesma molécula consegue participar da fronteira entre dois ambientes que, sozinhos, não se misturam tão facilmente.",
+    "scenes": [
+      "soap_molecule",
+      "head_tail",
+      "head_inwater"
+    ],
+    "action": "inspect"
+  },
+  {
+    "index": 6,
+    "title": "Uma ponte microscópica",
+    "text": "Se a cauda encontra uma região de gordura, ela pode se acomodar ali, enquanto a cabeça continua em contato com a água. Esse comportamento transforma a molécula numa espécie de ponte. O Pico não precisa construir uma estrada inteira: a conexão acontece na escala molecular, por toda a superfície da pequena porção oleosa.",
+    "scenes": [
+      "tail_inoil",
+      "interface",
+      "bridge"
+    ],
+    "action": "point"
+  },
+  {
+    "index": 7,
+    "title": "O cerco começa",
+    "text": "Agora imagine muitas dessas moléculas agindo ao mesmo tempo. Elas se organizam nas interfaces, ajudando a gordura a se desprender e a permanecer dispersa na água. A cena não é uma batalha entre personagens reais. É uma maneira de enxergar um processo invisível. A sujeira ganha uma nova forma de viajar pelo líquido.",
+    "scenes": [
+      "soap_many",
+      "surround",
+      "release"
+    ],
+    "action": "follow"
+  },
+  {
+    "index": 8,
+    "title": "Os pequenos grupos: micelas",
+    "text": "Em água, moléculas de sabão também podem formar grupos chamados micelas. As caudas ficam voltadas para uma região interna, enquanto as cabeças ficam em contato com a água ao redor. Essa organização cria um lugar favorável para componentes oleosos. Nosso desenho amplia tudo enormemente: as estruturas reais são muito menores do que as bolhas que você vê.",
+    "scenes": [
+      "micelle",
+      "micelle_inside",
+      "micelle_escape"
+    ],
+    "action": "inspect"
+  },
+  {
+    "index": 9,
+    "title": "Gotinhas espalhadas",
+    "text": "Além desses pequenos grupos, o processo de lavagem envolve gotículas de gordura dispersas, com moléculas atuando na sua superfície. É útil distinguir as duas imagens: uma micela e uma gota de óleo revestida não precisam ter o mesmo tamanho. O resultado que interessa à panela é este: parte da gordura consegue ser carregada junto com a água.",
+    "scenes": [
+      "oil_drop",
+      "droplets",
+      "emulsion"
+    ],
+    "action": "point"
+  },
+  {
+    "index": 10,
+    "title": "A esponja participa",
+    "text": "Mas a molécula não trabalha sozinha. O movimento da esponja ajuda a soltar o material que estava preso à superfície e põe os líquidos em movimento. A química e a ação mecânica se encontram ali. É por isso que a investigação do Pico precisa olhar para a molécula, para a panela e também para a mão que esfrega.",
+    "scenes": [
+      "real_scrub",
+      "sponge",
+      "detach"
+    ],
+    "action": "follow"
+  },
+  {
+    "index": 11,
+    "title": "O enxágue completa a viagem",
+    "text": "Chegamos à saída da nossa história. Durante o enxágue, a água leva embora o material que foi desprendido e disperso. A gordura continua existindo, mas já não precisa permanecer grudada na panela. Você percebe uma superfície limpa porque o material mudou de lugar. O grande truque não foi fazer a matéria desaparecer: foi ajudar a transportá-la.",
+    "scenes": [
+      "real_rinse",
+      "stream",
+      "rinse"
+    ],
+    "action": "fly"
+  },
+  {
+    "index": 12,
+    "title": "Volte ao começo",
+    "text": "Vamos repetir a viagem em câmera lenta. Primeiro, uma camada oleosa resiste à água. Depois, moléculas com duas regiões diferentes participam da interface. O movimento ajuda a desprender e dispersar a sujeira. Finalmente, o enxágue carrega esse material. A panela parece ter passado por uma transformação enorme, mas nossa história acompanhou uma mudança de organização e de lugar.",
+    "scenes": [
+      "whole_process",
+      "plate_clean",
+      "recap"
+    ],
+    "action": "point"
+  },
+  {
+    "index": 13,
+    "title": "E toda aquela espuma?",
+    "text": "Agora aparece uma nova pergunta. Se o que importa acontece nesse mundo minúsculo, qual é o papel da espuma que toma conta da esponja? Uma bolha de sabão é outra estrutura: uma película muito fina de água e moléculas de sabão envolve uma porção de ar. O brilho e o volume que vemos pertencem a essa arquitetura.",
+    "scenes": [
+      "real_foam",
+      "foam",
+      "bubble_cut"
+    ],
+    "action": "question"
+  },
+  {
+    "index": 14,
+    "title": "Bolhas e micelas são diferentes",
+    "text": "O Pico encontrou dois desenhos que parecem círculos, mas representam coisas diferentes. Na micela, as caudas se agrupam na região interna. Na bolha, há ar envolvido por uma película. Por isso, olhar apenas para o monte de espuma não revela toda a viagem da gordura. Grande parte do processo de limpeza ocorre em estruturas que nossos olhos não acompanham.",
+    "scenes": [
+      "bubble_vs_micelle",
+      "bubbles_float",
+      "architecture"
+    ],
+    "action": "inspect"
+  },
+  {
+    "index": 15,
+    "title": "A água também muda o resultado",
+    "text": "Só que a história tem uma complicação. A água da torneira pode carregar minerais dissolvidos, especialmente cálcio e magnésio. Quando eles aparecem em quantidades maiores, chamamos essa água de dura. O nome descreve uma característica química. Ela continua sendo líquida, mas sua composição pode mudar o comportamento do sabão durante a lavagem.",
+    "scenes": [
+      "hardwater",
+      "minerals",
+      "soap_scum"
+    ],
+    "action": "surprise"
+  },
+  {
+    "index": 16,
+    "title": "Quando surgem resíduos",
+    "text": "Certos componentes do sabão podem reagir com esses minerais e formar materiais pouco solúveis. É daí que podem vir aqueles resíduos de sabão em algumas superfícies. Parte do produto entrou numa interação diferente da que ajudava a lidar com a gordura. Agora o Pico entende por que a mesma tarefa pode se comportar de modo diferente em águas diferentes.",
+    "scenes": [
+      "mineral_react",
+      "residue",
+      "waters_compare"
+    ],
+    "action": "point"
+  },
+  {
+    "index": 17,
+    "title": "Uma surpresa na origem do sabão",
+    "text": "Há ainda uma curiosidade escondida nessa história. O sabão tradicional pode ser produzido a partir de óleos ou gorduras que passam por uma reação química com uma base. O processo transforma os materiais de partida e gera o sabão. Parece uma pequena reviravolta: um material ligado à gordura pode dar origem a algo capaz de ajudar a removê-la.",
+    "scenes": [
+      "real_oil",
+      "soap_factory",
+      "saponification"
+    ],
+    "action": "surprise"
+  },
+  {
+    "index": 18,
+    "title": "Sabão e detergente",
+    "text": "No cotidiano, usamos vários nomes para os produtos de limpeza. Quimicamente, o sabão tradicional e muitos detergentes sintéticos têm composições diferentes. Ainda assim, compartilham uma ideia central: moléculas com regiões que interagem de maneira diferente com água e gordura. Algumas dessas formulações lidam melhor com os minerais da água e ajudam a evitar certos resíduos.",
+    "scenes": [
+      "soap_detergent",
+      "molecule_compare",
+      "shelves"
+    ],
+    "action": "inspect"
+  },
+  {
+    "index": 19,
+    "title": "Uma fórmula para cada situação",
+    "text": "O líquido da pia é uma formulação, não apenas o desenho de uma molécula isolada. Existem diferentes ingredientes e diferentes condições de uso. Nosso passeio mostrou um mecanismo central, não todos os detalhes de cada produto. Quando o Pico aproxima a lupa, descobre que uma tarefa familiar depende de muitas pequenas interações trabalhando juntas.",
+    "scenes": [
+      "formulation",
+      "water_conditions",
+      "real_saucepan"
+    ],
+    "action": "follow"
+  },
+  {
+    "index": 20,
+    "title": "O mistério está resolvido",
+    "text": "Podemos voltar à pergunta da primeira cena. Para onde foi a gordura? Ela foi desprendida, dispersa e carregada com a água do enxágue. O sabão ajudou porque reúne, na mesma estrutura, regiões com comportamentos diferentes. A esponja acrescentou movimento. A água completou o transporte. Aquela cena comum da cozinha escondia uma operação microscópica muito bem organizada.",
+    "scenes": [
+      "real_plate_close",
+      "final_journey",
+      "question_return"
+    ],
+    "action": "wave"
+  },
+  {
+    "index": 21,
+    "title": "Um mundo dentro do cotidiano",
+    "text": "Da próxima vez que você vir uma panela ficar limpa, talvez enxergue mais do que espuma e água. Pense nas interfaces, nas gotículas e nas pequenas estruturas que se formam no líquido. O que parece simples à nossa escala pode ser cheio de acontecimentos em outra. A curiosidade começa quando paramos para olhar novamente para uma coisa conhecida.",
+    "scenes": [
+      "real_rinse",
+      "see_everyday",
+      "hidden_world"
+    ],
+    "action": "fly"
+  },
+  {
+    "index": 22,
+    "title": "Cada pergunta abre outra viagem",
+    "text": "O Pico voltou da pia com uma resposta... e várias perguntas novas. Qual detalhe da sua rotina merece a próxima investigação? Conte nos comentários e acompanhe o Quase Infinito. Aqui, um relógio, uma geladeira ou uma gota de sabão podem abrir caminhos que você nem imaginava. Cada pergunta abre outra viagem. Até a próxima descoberta!",
+    "scenes": [
+      "real_photo",
+      "next_question",
+      "end"
+    ],
+    "action": "wave"
+  }
+]
