@@ -7,9 +7,9 @@
     "trigger": "user_message"
   },
   "language": "pt-BR",
-  "name": "Antes de Ser Normal",
-  "tagline": "A história e a ciência das coisas que parecem comuns.",
-  "topic": "História e ciência de objetos, hábitos e tecnologias do cotidiano",
+  "name": "Quase Infinito",
+  "tagline": "Cada pergunta abre outra viagem.",
+  "topic": "Curiosidades e descobertas sobre ciência, história, natureza, tecnologia e cotidiano",
   "channel_url": null,
   "channel_id": null,
   "video": {
@@ -22,11 +22,11 @@
   },
   "voice": {
     "engine": "edge_tts",
-    "name": "pt-BR-AntonioNeural",
+    "name": "pt-BR-ThalitaMultilingualNeural",
     "language": "pt-BR",
     "rate": "+1%",
     "pitch": "+0Hz",
-    "tone": "Curioso, tranquilo e natural",
+    "tone": "Curioso, expressivo e claro, com emoção e pausas naturais",
     "requires_internet": true
   },
   "delivery": {
@@ -52,5 +52,33 @@
     "publication_mode": "manual",
     "automatic_upload": false,
     "default_category_id": 27
+  },
+  "branding": {
+    "mascot": {
+      "name": "Pico",
+      "description": "Pequeno explorador voador recorrente em pixel art, com capacete dourado, óculos verde água, traje turquesa e cachecol coral.",
+      "participation": [
+        "voar pelas cenas",
+        "investigar",
+        "apontar elementos",
+        "carregar objetos",
+        "reagir às descobertas"
+      ]
+    },
+    "palette": {
+      "navy": "#071A2B",
+      "teal": "#56D6C9",
+      "gold": "#FFD079",
+      "coral": "#FF8B70"
+    },
+    "persistent_frame": true,
+    "visual_mix": [
+      "filmagens reais",
+      "fotografias e imagens de arquivo com movimento",
+      "pixel art animada"
+    ],
+    "images_aspect_ratio": "16:9",
+    "channel_description": "Uma pergunta simples pode levar muito longe.\n\nNo Quase Infinito, exploramos ciência, história, natureza, tecnologia e as surpresas escondidas no cotidiano. Do objeto que você usa todos os dias aos acontecimentos que mudaram o mundo, cada vídeo é uma viagem para olhar o conhecido com outros olhos.\n\nImagens reais, animações em pixel art e a companhia do Pico, nosso pequeno explorador voador, ajudam a transformar perguntas em descobertas.\n\nSe você gosta de entender como as coisas funcionam, de onde vieram e por que fazem diferença, venha explorar com a gente.\n\nCada pergunta abre outra viagem."
   }
 }
+

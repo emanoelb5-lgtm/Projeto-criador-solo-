@@ -1,36 +1,45 @@
-# Antes de Ser Normal
+# Quase Infinito
 
-**A história e a ciência das coisas que parecem comuns.**
+![Capa do canal](docs/identidade/Capa_Quase_Infinito_16x9.jpg)
 
-Canal em português brasileiro com documentários de cerca de oito minutos sobre objetos, hábitos e tecnologias do cotidiano. Nome, nicho, pauta e produção são decididos pelo assistente neste chat. O usuário publica os vídeos no YouTube.
+**Cada pergunta abre outra viagem.**
+
+Canal de Emanuel Bonfim sobre ciência, história, natureza, tecnologia e as surpresas do cotidiano. Perguntas conduzem documentários em português brasileiro, com imagens e vídeos reais, arquivos históricos e pixel art animada.
+
+**Repositório oficial do projeto: `emanoelb5-lgtm/Projeto-criador-solo-`.**
+
+## Identidade do canal
+
+| Elemento | Padrão |
+| --- | --- |
+| Nome | **Quase Infinito** |
+| Proposta | Histórias e descobertas que fazem olhar o mundo com outros olhos |
+| Mascote | **Pico**, pequeno explorador voador em pixel art que investiga, aponta e participa das cenas |
+| Narração | **Thalita**, em português brasileiro, com expressão e clareza; gravações de Emanuel são usadas quando enviadas |
+| Visual | Azul escuro, verde água e dourado; fotografias em movimento, filmagens reais e pixel art animada |
+| Moldura | Persistente em imagens e filmagens |
+| Formato | YouTube horizontal, Full HD e **16:9**, com duração próxima de oito minutos |
+| Imagens | Todas as imagens geradas em **16:9** |
+
+[Identidade completa e próximas pautas](docs/canal.md) · [Perfil e capa do canal](docs/identidade/README.md) · [Descrição pronta do canal](docs/descricao-do-canal.txt)
+
+## Episódio em destaque
+
+**Como a geladeira mudou o que você come — 8min04s, 1080p, 16:9.**
+
+O episódio atual combina 69 cenas, filmagens reais, arquivo histórico de 1919, pixel art, voz Thalita, Pico e a moldura do canal.
+
+- [Vídeo e pacote atual para publicar](videos/ep-001-geladeira/PUBLICAR.md)
+- [Título do vídeo](videos/ep-001-geladeira/publicacao-quase-infinito/titulo.txt)
+- [Descrição com capítulos e créditos](videos/ep-001-geladeira/publicacao-quase-infinito/descricao.txt)
 
 ## Como pedir um vídeo
 
 Envie neste chat:
 
-> Crie o próximo vídeo do Antes de Ser Normal e entregue no Projeto-criador-solo- com todos os materiais para eu publicar.
+> Crie o próximo vídeo do Quase Infinito e entregue no Projeto-criador-solo- com os materiais para eu publicar.
 
-Também é possível informar um tema ou pedir um lote. Cada episódio recebe roteiro original, pesquisa, narração, cenas, montagem e conferência. O chat precisa executar a produção: este repositório não é um robô que fica produzindo enquanto o chat está parado. Quantidade e tempo dependem dos recursos disponíveis e da complexidade do episódio.
-
-## Padrão do canal
-
-| Item | Decisão |
-|---|---|
-| Nome | Antes de Ser Normal |
-| Nicho | História e ciência de objetos, hábitos e tecnologias do cotidiano |
-| Narração | Antônio Neural, masculino, pt-BR, com ritmo tranquilo e pausas naturais |
-| Formato | 1920 × 1080, 16:9, 30 fps, aproximadamente oito minutos |
-| Imagens e miniaturas | Sempre 16:9 |
-| Publicação | Manual, feita pelo usuário |
-| Primeiro tema | Como a geladeira mudou o que você come |
-
-[Conheça a identidade e as próximas pautas](docs/canal.md).
-
-## Primeiro episódio
-
-[Como a geladeira mudou o que você come — vídeo de 8 minutos e pacote para publicar](videos/ep-001-geladeira/PUBLICAR.md).
-
-O pacote inclui MP4 em Full HD, miniatura, descrição, capítulos, tags, roteiro, referências e legendas. Abra PUBLICAR.md para baixar os arquivos.
+Também é possível informar um tema. Cada episódio recebe pesquisa, roteiro, narração, cenas, montagem e conferência. A produção é iniciada pelo pedido no chat. Emanuel faz a publicação no YouTube.
 
 ## Entrega de cada episódio
 
@@ -72,3 +81,5 @@ Os utilitários recebem o roteiro, as imagens e o storyboard preparados pelo ass
 - [Vozes do Microsoft Speech](https://learn.microsoft.com/pt-br/azure/ai-services/speech-service/language-support)
 - [Limites de arquivos no GitHub](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github)
 - [Condições de uso dos GitHub Actions](https://docs.github.com/en/site-policy/github-terms/github-terms-for-additional-products-and-features)
+
+

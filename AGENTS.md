@@ -2,7 +2,13 @@
 
 O usuário autorizou o assistente a decidir nome, nicho, pautas, voz e montagem e a disponibilizar as entregas no GitHub. O usuário faz a publicação no YouTube.
 
-Leia config/channel.json e docs/canal.md antes de produzir. Canal: Antes de Ser Normal. Nicho: história e ciência das coisas do cotidiano. Idioma: pt-BR. Todas as imagens, miniaturas e cenas devem ter proporção 16:9.
+## Referência oficial do projeto
+
+Usar exclusivamente `emanoelb5-lgtm/Projeto-criador-solo-` para este projeto. O usuário corrigiu expressamente o repositório em 9 de outubro de 2026. Este canal se chama **Quase Infinito**. Não tratar `Canal-YouTube-` como repositório deste projeto.
+
+Leia config/channel.json e docs/canal.md antes de produzir. Temas: ciência, história, natureza, tecnologia e cotidiano. Idioma: pt-BR. Todas as imagens, miniaturas e cenas devem ter proporção 16:9.
+
+A voz padrão é Thalita (`pt-BR-ThalitaMultilingualNeural`), expressiva e clara. Se o usuário enviar sua narração, usá-la. O mascote recorrente é Pico, um explorador voador em pixel art que participa da narrativa. Combinar imagens e filmagens reais da internet com pixel art animada; manter moldura persistente. Usar storytelling, perguntas e descobertas.
 
 Para cada comando de produção:
 
@@ -17,3 +23,4 @@ Para cada comando de produção:
 Não envie vídeos ao YouTube. Não peça OAuth do YouTube. Não dependa de um cron em GitHub Actions hospedado para produzir os episódios.
 
 Não apresente arquivos de teste ou trechos como se fossem o episódio completo. Nenhum arquivo deve conter credenciais.
+

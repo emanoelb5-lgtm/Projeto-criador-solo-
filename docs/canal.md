@@ -1,29 +1,43 @@
-# Identidade do canal
+# Quase Infinito — identidade do canal
 
-**Nome:** Antes de Ser Normal  
-**Frase:** A história e a ciência das coisas que parecem comuns.
+**Repositório oficial:** `emanoelb5-lgtm/Projeto-criador-solo-`. Usar este repositório nos próximos pedidos deste projeto.
 
-**Nicho:** documentários sobre a origem e o funcionamento dos objetos, hábitos e tecnologias do cotidiano. Cada vídeo parte de uma pergunta concreta, explica um mecanismo e mostra o que mudou na vida das pessoas.
+**Nome:** Quase Infinito  
+**Frase:** Cada pergunta abre outra viagem.
 
-**Público:** falantes de português que gostam de história, ciência e tecnologia, sem exigir conhecimento técnico.
+O canal aborda ciência, história, natureza, tecnologia e cotidiano. Cada episódio começa com uma pergunta concreta e usa storytelling para conduzir novas descobertas. O nome permite explorar assuntos variados.
 
 ## Descrição para o canal
 
-Você usa todos os dias. Mas sabe como começou?
+Uma pergunta simples pode levar muito longe.
 
-No Antes de Ser Normal, descobrimos a história e a ciência por trás da geladeira, do relógio, do elevador, do sabão e de tantas outras coisas que hoje parecem óbvias.
+No Quase Infinito, exploramos ciência, história, natureza, tecnologia e as surpresas escondidas no cotidiano. Do objeto que você usa todos os dias aos acontecimentos que mudaram o mundo, cada vídeo é uma viagem para olhar o conhecido com outros olhos.
 
-Documentários em português brasileiro, com explicações visuais, narração e fontes para continuar explorando.
+Imagens reais, animações em pixel art e a companhia do Pico, nosso pequeno explorador voador, ajudam a transformar perguntas em descobertas.
+
+Se você gosta de entender como as coisas funcionam, de onde vieram e por que fazem diferença, venha explorar com a gente.
+
+Cada pergunta abre outra viagem.
 
 ## Voz e linguagem
 
-Antônio Neural, em português brasileiro, com tom curioso e tranquilo. Frases curtas, transições claras e perguntas pontuais. Datas, siglas e termos estrangeiros são adaptados para a fala e conferidos antes da entrega.
+A voz padrão é **Thalita** (`pt-BR-ThalitaMultilingualNeural`), em português brasileiro, com ritmo expressivo, clareza e emoção. Usar frases naturais, perguntas que conduzam a história e pausas com propósito. Conferir datas, siglas, termos e pronúncia. Quando Emanuel enviar sua gravação, usá-la como base da montagem.
 
-A voz permanece consistente entre episódios. O roteiro usa pausas pela pontuação; o áudio é gerado no ritmo pretendido, sem acelerar artificialmente a faixa pronta para preencher uma duração.
+## Pico
 
-## Imagem
+Pico é o mascote recorrente: um pequeno explorador voador em pixel art, com capacete dourado, óculos verde água, traje turquesa e cachecol coral. Ele participa da narrativa, investigando, apontando, carregando objetos e reagindo às descobertas. Preservar seu desenho entre episódios.
 
-Vídeos e miniaturas em 16:9. Paleta de azul escuro, azul gelo, creme e âmbar. Ilustrações históricas são identificadas como reconstituições. Diagramas são produzidos com rótulos conferidos. A miniatura promete a pergunta que o vídeo realmente responde.
+## Imagem e montagem
+
+Combinar filmagens reais da internet, fotografias e arquivos históricos com pixel art animada. Fotografias recebem movimento. Uma moldura persistente acompanha imagens e filmagens.
+
+A paleta usa azul escuro, verde água, dourado e pequenos detalhes coral. Todas as imagens geradas, miniaturas e cenas são **16:9**. O formato principal é Full HD horizontal, com duração próxima de oito minutos. O episódio atual da geladeira tem 8min04s e 24 fps; a configuração geral conserva 30 fps como padrão para novos projetos.
+
+## Perfil e capa do canal
+
+A arte de perfil mantém o Pico centralizado para o recorte circular feito pelo YouTube. A capa mantém o nome, o Pico e a frase na faixa central para aparecerem nos diferentes dispositivos. Ambas as artes são entregues em 16:9.
+
+[Baixar o perfil](identidade/Perfil_Quase_Infinito_16x9.jpg) · [Baixar a capa](identidade/Capa_Quase_Infinito_16x9.jpg)
 
 ## Primeiras pautas
 
@@ -36,6 +50,9 @@ Vídeos e miniaturas em 16:9. Paleta de azul escuro, azul gelo, creme e âmbar. 
 7. O que acontece depois que você dá descarga?
 8. Como os contêineres mudaram o transporte de mercadorias.
 
+Essas pautas são sugestões; o canal pode ir além dos objetos cotidianos.
+
 ## Publicação
 
-O usuário cria e administra o canal no YouTube e publica os arquivos entregues. O assistente escolhe as pautas e prepara vídeo, título, descrição, miniatura, legendas, capítulos, tags, roteiro e referências no GitHub.
+Emanuel administra o canal e publica os vídeos no YouTube. O assistente prepara os materiais de produção e publicação, com roteiro, título, descrição, miniatura, legendas, capítulos e créditos. A referência oficial do projeto é este repositório.
+

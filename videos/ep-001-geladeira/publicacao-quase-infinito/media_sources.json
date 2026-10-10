@@ -1,0 +1,129 @@
+[
+  {
+    "key": "fridge",
+    "path": "media/fridge.mp4",
+    "source": "https://www.pexels.com/video/woman-checking-items-inside-her-refrigerator-6994733/",
+    "download": "https://videos.pexels.com/video-files/6994733/6994733-hd_1280_720_30fps.mp4",
+    "title": "6994733",
+    "author": "Autor identificado na página de origem",
+    "license": "Pexels License: https://www.pexels.com/license/",
+    "type": "video",
+    "sha256": "a5400a440d71e4ad39887029c8d3cbfac5c8c752dade9b4631f9ccd4bf069101"
+  },
+  {
+    "key": "fridge2",
+    "path": "media/fridge2.mp4",
+    "source": "https://www.pexels.com/video/woman-checking-items-inside-her-refrigerator-6994930/",
+    "download": "https://videos.pexels.com/video-files/6994930/6994930-hd_1280_720_30fps.mp4",
+    "title": "6994930",
+    "author": "Autor identificado na página de origem",
+    "license": "Pexels License: https://www.pexels.com/license/",
+    "type": "video",
+    "sha256": "61a032f058f91945a49a35fb14c4c3eb4c004151fea19d2a6179575294f49820"
+  },
+  {
+    "key": "fruit",
+    "path": "media/fruit.mp4",
+    "source": "https://www.pexels.com/video/close-up-video-of-a-person-getting-an-orange-10039770/",
+    "download": "https://videos.pexels.com/video-files/10039770/10039770-hd_1280_720_24fps.mp4",
+    "title": "10039770",
+    "author": "Autor identificado na página de origem",
+    "license": "Pexels License: https://www.pexels.com/license/",
+    "type": "video",
+    "sha256": "3446a3ea73dbc91ad598049c4929185f0f8fe8ea6d2782066054928f3e866576"
+  },
+  {
+    "key": "store",
+    "path": "media/store.mp4",
+    "source": "https://www.pexels.com/video/customers-shopping-at-supermarket-10901926/",
+    "download": "https://videos.pexels.com/video-files/10901926/10901926-hd_1280_720_30fps.mp4",
+    "title": "10901926",
+    "author": "Autor identificado na página de origem",
+    "license": "Pexels License: https://www.pexels.com/license/",
+    "type": "video",
+    "sha256": "bc54894fe30cce751ad387ea4f394ba1318dcb3c467ea0214cf78fec696e4e2a"
+  },
+  {
+    "key": "electricity",
+    "path": "media/electricity.mp4",
+    "source": "https://www.pexels.com/video/electrical-pole-856966/",
+    "download": "https://videos.pexels.com/video-files/856966/856966-hd_1080_720_60fps.mp4",
+    "title": "856966",
+    "author": "Autor identificado na página de origem",
+    "license": "Pexels License: https://www.pexels.com/license/",
+    "type": "video",
+    "sha256": "b7cf3370bfb1856a3240abe46993b8e2bec5d585bfd40284f6cf32b70f1a6146"
+  },
+  {
+    "key": "ice_film",
+    "path": "media/ice_film.mp4",
+    "source": "https://archive.org/details/amateur_film_ice_harvest_pocono_manor_1919",
+    "download": "https://archive.org/download/amateur_film_ice_harvest_pocono_manor_1919/amateur_film_ice_harvest_pocono_manor_1919_512kb.mp4",
+    "title": "[Amateur Film: Ice Harvest, Pocono Manor, 1919]",
+    "author": "Prelinger Archives",
+    "license": "Public domain; confirmed by Pennsylvania Lumber Museum https://lumbermuseum.org/ice-harvest/",
+    "type": "video",
+    "sha256": "11555255418317a80305c597d36dc6da012544005ebc04c00fbb45ac128e3502"
+  },
+  {
+    "key": "harvest_photo",
+    "path": "media/harvest_photo.jpg",
+    "source": "https://archive.org/details/amateur_film_ice_harvest_pocono_manor_1919",
+    "title": "Still from Ice Harvest, Pocono Manor, 1919",
+    "author": "Prelinger Archives",
+    "license": "Public domain",
+    "type": "image",
+    "sha256": "2f495ea6939834684c30b4f9b6ac2b5431f947db665be5058a44e2662cb43c82"
+  },
+  {
+    "key": "ice_photo",
+    "path": "media/ice_photo.jpg",
+    "source": "https://archive.org/details/amateur_film_ice_harvest_pocono_manor_1919",
+    "title": "Still from Ice Harvest, Pocono Manor, 1919",
+    "author": "Prelinger Archives",
+    "license": "Public domain",
+    "type": "image",
+    "sha256": "e98c0bb0db5cbbe60ee5eab21d27318f3c32523c8c1fadb986e0495334b6360f"
+  },
+  {
+    "key": "delivery_photo",
+    "path": "media/delivery_photo.jpg",
+    "source": "https://archive.org/details/amateur_film_ice_harvest_pocono_manor_1919",
+    "title": "Still from Ice Harvest, Pocono Manor, 1919",
+    "author": "Prelinger Archives",
+    "license": "Public domain",
+    "type": "image",
+    "sha256": "5b193772eabf4b84bb6132df30a0e48c6545c39245fea6b26651a772ee61e43c"
+  },
+  {
+    "key": "factory_photo",
+    "path": "media/factory_photo.jpg",
+    "source": "https://archive.org/details/amateur_film_ice_harvest_pocono_manor_1919",
+    "title": "Still from Ice Harvest, Pocono Manor, 1919",
+    "author": "Prelinger Archives",
+    "license": "Public domain",
+    "type": "image",
+    "sha256": "dd56c4aa014024202a5f5acf399bd88641f28b5ff366f41e227636be0b7104f8"
+  },
+  {
+    "key": "rail_photo",
+    "path": "media/rail_photo.jpg",
+    "source": "https://archive.org/details/amateur_film_ice_harvest_pocono_manor_1919",
+    "title": "Still from Ice Harvest, Pocono Manor, 1919",
+    "author": "Prelinger Archives",
+    "license": "Public domain",
+    "type": "image",
+    "sha256": "9efed737db66b554338ad2f77fcdaac31d2549ea3e71aa43bec7e0c55b783bff"
+  },
+  {
+    "key": "food",
+    "path": "media/food.jpg",
+    "source": "https://www.pexels.com/photo/appetizing-buffet-table-with-savory-snacks-31970812/",
+    "download": "https://images.pexels.com/photos/31970812/pexels-photo-31970812/free-photo-of-appetizing-buffet-table-with-savory-snacks.jpeg",
+    "title": "Appetizing buffet table with savory snacks",
+    "author": "See Pexels source record for photo 31970812",
+    "license": "Pexels License: https://www.pexels.com/license/",
+    "type": "image",
+    "sha256": "2483c1626f86ee0716bab6b18c49ed84c2e1e0cf6230eb2dcb4ece12bd29dfaa"
+  }
+]

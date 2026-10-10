@@ -20,7 +20,7 @@ def inspect(config: dict) -> list[tuple[str, bool]]:
         ("Produção iniciada por mensagem no chat", config.get("mode") == "chat_command" and execution.get("trigger") == "user_message" and execution.get("production") == "interactive_workspace" and ai.get("auth_mode") == "chat_work"),
         ("Vídeo Full HD, 16:9 e 30 fps", video.get("width") == 1920 and video.get("height") == 1080 and video.get("aspect_ratio") == "16:9" and video.get("fps") == 30),
         ("Meta de oito minutos", video.get("duration_seconds") == 480),
-        ("Voz brasileira neural definida", voice.get("engine") == "edge_tts" and voice.get("language") == "pt-BR" and voice.get("name") == "pt-BR-AntonioNeural"),
+        ("Voz Thalita brasileira definida", voice.get("engine") == "edge_tts" and voice.get("language") == "pt-BR" and voice.get("name") == "pt-BR-ThalitaMultilingualNeural"),
         ("Entrega no GitHub", delivery.get("destination") == "github" and delivery.get("repository") == "emanoelb5-lgtm/Projeto-criador-solo-" and delivery.get("publication_by") == "user"),
         ("Publicação manual pelo usuário", youtube.get("publication_mode") == "manual" and youtube.get("automatic_upload") is False),
     ]
@@ -38,7 +38,7 @@ def main() -> int:
         print("Não foi possível ler uma configuração JSON válida.")
         return 1
     checks = inspect(config)
-    lines = ["# Configuração do Antes de Ser Normal", "", "| Item | Situação |", "|---|---|"]
+    lines = ["# Configuração do Quase Infinito", "", "| Item | Situação |", "|---|---|"]
     lines += [f"| {label} | {'Configurado' if ready else 'Pendente'} |" for label, ready in checks]
     lines += ["", "Conferência de configuração. A disponibilidade da voz e os arquivos de cada episódio são verificados durante a produção."]
     report = "\n".join(lines) + "\n"
@@ -51,3 +51,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
