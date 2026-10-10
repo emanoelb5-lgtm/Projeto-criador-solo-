@@ -6,7 +6,7 @@
     "fps": 24.0,
     "duration_seconds": 504.0,
     "codec": "h264",
-    "size_bytes": 40307477
+    "size_bytes": 40289818
   },
   "audio": {
     "codec": "aac",
@@ -24,7 +24,14 @@
   "subtitle_cues": 211,
   "chapters": 12,
   "full_decode": "passed",
+  "subtitle_mode": "burned_in",
+  "embedded_subtitle_streams": 0,
   "youtube_upload": "manual",
-  "sha256": "4cb82cc99bb74114a8930250717512f1d9f49e6139236a324ffad8cf0c1ae4a5",
-  "visual_review": "contact sheet and revised clock scenes passed"
+  "sha256": "887dd1c65fb23d78f16f3fabb3df983e045ebadffe7220e60ab3c9064b50b32f",
+  "visual_review": "contact sheet and revised clock scenes passed",
+  "audio_video_payloads_unchanged": true,
+  "payload_sha256": {
+    "video": "2e566377cab102a6e1935aefce7643ef9760e7a6ab91031afffaee2bc8710386",
+    "audio": "7cf6d113de13c047f19a8a5ef0df675bb19f1fa316e51f923605a38e3057b2e4"
+  }
 }

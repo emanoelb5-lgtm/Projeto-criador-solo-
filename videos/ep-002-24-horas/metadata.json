@@ -39,7 +39,7 @@
   "thumbnail": "miniatura.jpg",
   "subtitle_file": "legendas.srt",
   "video_filename": "video.mp4",
-  "video_sha256": "4cb82cc99bb74114a8930250717512f1d9f49e6139236a324ffad8cf0c1ae4a5",
+  "video_sha256": "887dd1c65fb23d78f16f3fabb3df983e045ebadffe7220e60ab3c9064b50b32f",
   "chapters": [
     {
       "start_seconds": 0.0,
@@ -124,5 +124,7 @@
       "url": "https://www.jpl.nasa.gov/news/five-things-to-know-about-nasas-deep-space-atomic-clock/"
     }
   ],
-  "publication_mode": "manual"
+  "publication_mode": "manual",
+  "subtitle_mode": "burned_in",
+  "embedded_subtitle_streams": 0
 }

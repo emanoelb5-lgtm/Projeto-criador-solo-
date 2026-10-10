@@ -30,6 +30,9 @@ O fluxo usa apenas os materiais deste episódio. Não envia arquivos ao YouTube.
 
 ## Entrega conferida
 
+As legendas são desenhadas nas imagens por `pixel_art.overlay`. A montagem inclui somente vídeo e áudio no MP4, e a verificação rejeita uma segunda faixa de legenda embutida. O SRT é entregue como transcrição separada. Os metadados e o relatório registram `subtitle_mode: burned_in` e zero faixas embutidas.
+
 Além da decodificação integral, a produção conferiu o alinhamento das legendas com os tempos da voz, as proporções das mídias, os capítulos e os créditos. A cadência de 24 fps acompanha a referência aprovada; a meta permanece próxima de oito minutos. O limite de envio do canal mantém margem abaixo do limite de arquivo do GitHub, para conservar o MP4 em Full HD sem compressão adicional desnecessária.
 
 [Fontes](../fontes.md) · [Publicar](../PUBLICAR.md) · [Verificação técnica](../qa.json)
+

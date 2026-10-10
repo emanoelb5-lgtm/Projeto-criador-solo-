@@ -177,16 +177,18 @@ def assemble(items,shots):
                 out.writeframesraw(src.readframes(src.getnframes()));count+=src.getnframes()
     assert count==SR*DURATION
     temporary=OUT/f'assembly_{session}.mp4'
-    run(['ffmpeg','-y','-v','error','-i',str(joined),'-i',str(mixed),'-i',str(OUT/'Legendas_24_Horas.srt'),'-map','0:v:0','-map','1:a:0','-map','2:s:0','-c:v','copy','-c:a','aac','-b:a','128k','-c:s','mov_text','-metadata:s:s:0','language=por','-metadata','title=Quem decidiu que o dia tem 24 horas? | Quase Infinito','-t',str(DURATION),'-movflags','+faststart',str(temporary)])
+    # pixel_art.overlay already draws the captions into every video frame.
+    run(['ffmpeg','-y','-v','error','-i',str(joined),'-i',str(mixed),'-map','0:v:0','-map','1:a:0','-c:v','copy','-c:a','aac','-b:a','128k','-sn','-metadata','title=Quem decidiu que o dia tem 24 horas? | Quase Infinito','-t',str(DURATION),'-movflags','+faststart',str(temporary)])
     return temporary
 
 def verify(shots,path=None):
     path=path or FINAL
     data=probe(path);v=next(s for s in data['streams'] if s['codec_type']=='video');a=next(s for s in data['streams'] if s['codec_type']=='audio')
+    if any(s['codec_type']=='subtitle' for s in data['streams']):raise RuntimeError('Legendas fixas não devem ter uma segunda faixa embutida no MP4.')
     assert (v['width'],v['height'])==(1920,1080);assert v['r_frame_rate']=='24/1';assert int(v['nb_frames'])==FRAMES
     assert abs(float(data['format']['duration'])-DURATION)<.1;assert abs(float(a['duration'])-DURATION)<.1
     run(['ffmpeg','-xerror','-v','error','-i',str(path),'-map','0:v:0','-map','0:a:0','-f','null','-'],stdout=subprocess.DEVNULL)
-    report={'file':FINAL.name,'duration_seconds':float(data['format']['duration']),'resolution':[1920,1080],'fps':24,'shots':len(shots),'video_frames':int(v['nb_frames']),'audio':'AAC stereo 48000 Hz','voice':'pt-BR-ThalitaMultilingualNeural','full_decode':'passed','bytes':path.stat().st_size,'sha256':hashlib.sha256(path.read_bytes()).hexdigest()}
+    report={'file':FINAL.name,'duration_seconds':float(data['format']['duration']),'resolution':[1920,1080],'fps':24,'shots':len(shots),'video_frames':int(v['nb_frames']),'audio':'AAC stereo 48000 Hz','voice':'pt-BR-ThalitaMultilingualNeural','subtitle_mode':'burned_in','embedded_subtitle_streams':0,'full_decode':'passed','bytes':path.stat().st_size,'sha256':hashlib.sha256(path.read_bytes()).hexdigest()}
     (OUT/'verificacao.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))
     print('VERIFIED',json.dumps(report),flush=True)
 
@@ -212,3 +214,4 @@ def main():
     (OUT/'audio_levels.json').write_text(json.dumps(levels,indent=2))
     temporary=assemble(items,shots);verify(shots,temporary);temporary.replace(FINAL);previews(shots)
 if __name__=='__main__':main()
+

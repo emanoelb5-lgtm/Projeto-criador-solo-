@@ -20,6 +20,7 @@ def main():
     PUB.mkdir(exist_ok=True)
     t=json.loads((OUT/'timeline.json').read_text());blocks=t['blocks'];sources=json.loads((ROOT/'media_sources.json').read_text());qa=json.loads((OUT/'verificacao.json').read_text())
     assert qa['full_decode']=='passed' and qa['sha256']==sha(VIDEO)
+    assert qa['subtitle_mode']=='burned_in' and qa['embedded_subtitle_streams']==0
     chapters=[(0,'Quem escolheu 24 horas?'),(3,'O Egito e as doze partes'),(5,'Sombras, estrelas e água'),(8,'Por que sessenta?'),(10,'Engrenagens e pêndulos'),(12,'Trens e horários compartilhados'),(14,'Uma volta não é o mesmo que um dia solar'),(17,'O ritmo do quartzo'),(18,'Relógios atômicos e o segundo'),(20,'O tempo por trás do GPS'),(21,'Quem decidiu, afinal?'),(22,'Cada pergunta abre outra viagem')]
     chaptertext='\n'.join(mmss(blocks[i]['start'])+' '+label for i,label in chapters)
     credittext='\n\n'.join(f"{s['key']} — {s['title']}\nAutor/crédito: {s['author']}\nOrigem: {s['source']}\nLicença: {s['license']}\nTratamento: trecho editado, enquadramento 16:9, moldura e animações; fotos com movimento de aproximação." for s in sources)
@@ -71,7 +72,7 @@ PARA PUBLICAR
 1. Envie o MP4 final ao YouTube.
 2. Copie Titulo_YouTube.txt e Descricao_YouTube.txt nos campos correspondentes.
 3. Envie Thumb_24_Horas_Quase_Infinito.jpg como miniatura.
-4. As legendas já aparecem no vídeo. Legendas_24_Horas.srt é a faixa separada para uso quando necessário.
+4. As legendas já estão fixas nas imagens do vídeo. O MP4 não contém uma segunda faixa de legenda. Guarde Legendas_24_Horas.srt como transcrição; ativar uma faixa adicional pode duplicar o texto na tela.
 5. Metadata.json reúne tags, idioma, categoria sugerida e capítulos.
 6. Defina público, visibilidade e horário na tela de envio do canal.
 
@@ -92,3 +93,4 @@ Verificacao.json registra a decodificação integral aprovada.
     with zipfile.ZipFile(ZIP) as z:assert z.testzip() is None
     print(json.dumps({'video':str(VIDEO),'zip':str(ZIP),'zip_bytes':ZIP.stat().st_size,'description_characters':len(description),'publication_files':len(list(PUB.iterdir()))},ensure_ascii=False),flush=True)
 if __name__=='__main__':main()
+

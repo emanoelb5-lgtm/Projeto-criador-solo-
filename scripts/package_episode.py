@@ -51,6 +51,10 @@ def package(episode: Path, config: dict) -> dict:
         ["ffprobe", "-v", "error", "-show_streams", "-show_format", "-of", "json", str(episode / "video.mp4")], text=True))
     video = next(s for s in probe["streams"] if s["codec_type"] == "video")
     audio = next(s for s in probe["streams"] if s["codec_type"] == "audio")
+    subtitle_mode = metadata.get("subtitle_mode", "external")
+    embedded_subtitles = sum(s["codec_type"] == "subtitle" for s in probe["streams"])
+    if subtitle_mode == "burned_in" and embedded_subtitles:
+        raise ValueError("O vídeo já tem legendas fixas e contém uma segunda faixa de legenda embutida.")
     duration = float(probe["format"]["duration"])
     target = config["video"]
     fraction = video["avg_frame_rate"].split("/")
@@ -99,8 +103,11 @@ def package(episode: Path, config: dict) -> dict:
               "audio": {"codec": audio["codec_name"], "sample_rate": int(audio["sample_rate"]), "channels": audio["channels"]},
               "voice": narration["voice"], "thumbnail_size": list(thumbnail_size),
               "subtitle_cues": len(cues), "chapters": len(chapters), "full_decode": "passed",
+              "subtitle_mode": subtitle_mode, "embedded_subtitle_streams": embedded_subtitles,
               "youtube_upload": "manual"}
     (episode / "qa.json").write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    subtitle_step = ("O vídeo já tem legendas fixas. Guarde [legendas.srt](legendas.srt) como transcrição; uma faixa de legenda adicional pode duplicar o texto na tela."
+                     if subtitle_mode == "burned_in" else "Envie [legendas.srt](legendas.srt) como legenda em português.")
     guide = f"""# Pronto para publicar
 
 **Título:** {title}
@@ -108,7 +115,7 @@ def package(episode: Path, config: dict) -> dict:
 1. Baixe [video.mp4](video.mp4). Na página do arquivo no GitHub, use o botão de download do arquivo bruto.
 2. Abra o YouTube Studio e envie o vídeo.
 3. Use o título principal de [titulo.txt](titulo.txt) e copie [descricao.txt](descricao.txt) no campo de descrição.
-4. Envie [miniatura.jpg](miniatura.jpg) como miniatura e [legendas.srt](legendas.srt) como legenda em português. A versão [PNG](miniatura.png) também está disponível.
+4. Envie [miniatura.jpg](miniatura.jpg) como miniatura. A versão [PNG](miniatura.png) também está disponível. {subtitle_step}
 5. Consulte [metadata.json](metadata.json) para tags e categoria. Defina público, visibilidade e horário no seu canal.
 
 O vídeo contém ilustrações geradas por IA e diagramas originais, conforme os créditos. Responda às opções de conteúdo alterado ou sintético do YouTube conforme o material e as orientações exibidas no Studio.
@@ -144,3 +151,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
