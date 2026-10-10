@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Day",
+    "path": "ep-006-ceu/producao/assets/Day_Pixel_16x9.png",
+    "source": "generated_images/exec-9ef12437-28c6-47de-9b65-d8ea333be10f.png",
+    "prompt": "Create one pristine horizontal 16:9 1920x1080 raster background for the Brazilian educational pixel-art adventure series Quase Infinito. Premium meticulously crafted pixel art, clean visible square pixel clusters, no smooth painting, detailed texture, restrained teal/aqua/gold palette, layered depth, elegant lighting, strong silhouettes and exceptional clarity. Scene: a peaceful elevated grassy lookout above a winding river, distant layered mountains and small geometric trees, a large luminous clear BLUE daytime sky taking upper two thirds, few wispy white clouds near horizon. Sun high to upper left, warm highlights on rocks and foliage, tiny wildflowers in foreground corners. Central upper/middle space is spacious readable open sky for composited scientific animation. NO characters, NO written words, NO letters, NO logo, NO frame, NO caption bar. Charming cinematic environment with coherent perspective and tactile pixel detailing. Output exactly one widescreen landscape 16:9 image, never a collage.",
+    "mode": "generate",
+    "tool": "builtin imagegen",
+    "transparent_background": false,
+    "reference": null,
+    "production_conversion": "Resize to 1920x1080 for video composition; no changes to content"
+  },
+  {
+    "name": "Sunset",
+    "path": "ep-006-ceu/producao/assets/Sunset_Pixel_16x9.png",
+    "source": "generated_images/exec-da295bed-bcf9-41a5-b066-9dbafee85521.png",
+    "prompt": "Create one pristine horizontal 16:9 1920x1080 raster background for the Brazilian educational pixel-art adventure series Quase Infinito. Premium meticulously crafted pixel art, clean visible square pixel clusters, no smooth painting, detailed texture, layered depth, elegant lighting, strong silhouettes, exceptional clarity. Scene: a tranquil winding river below an elevated grassy lookout at SUNSET. Large coral, red-orange, amber and muted purple sky takes upper two thirds. A small warm sun near the left horizon, luminous reflections on river, distant layered mountains, few slender dark trees, textured foreground rocks and leaves. Dramatic natural contrast but gentle mood. Central upper/middle sky spacious for composited explanations. NO characters, NO written words, NO letters, NO logo, NO frame, NO caption bar. Cohesive charming cinematic environment and accurate perspective, no giant Sun. Output exactly one widescreen landscape 16:9 image, never a collage.",
+    "mode": "generate",
+    "tool": "builtin imagegen",
+    "transparent_background": false,
+    "reference": null,
+    "production_conversion": "Resize to 1920x1080 for video composition; no changes to content"
+  },
+  {
+    "name": "Lab",
+    "path": "ep-006-ceu/producao/assets/Lab_Pixel_16x9.png",
+    "source": "generated_images/exec-84132c8e-ea0d-4800-b864-c52eca323406.png",
+    "prompt": "Create one pristine horizontal 16:9 1920x1080 raster background for the Brazilian educational pixel-art adventure series Quase Infinito. Premium meticulously crafted pixel art, clean visible square pixel clusters, no smooth painting, detailed texture, layered depth, elegant aqua and amber lighting, strong silhouettes, exceptional clarity. A cozy curious explorer's optics workshop overlooking distant green mountains and pale blue sky through a broad arched window. Shelves near far left and right edges with small lenses, glass prisms, rolled star maps with NO letters, brass instruments. A richly textured dark wooden workbench at lower third; central left/middle space above and on bench remains clean and empty for compositing animated scientific objects. No humans, NO characters, NO written words, NO letters, NO logo, NO frame, NO caption bar. Charming cinematic wide establishing background, precise glass highlights and warm wooden textures, teal and gold palette. Output exactly one widescreen landscape 16:9 image, never a collage.",
+    "mode": "generate",
+    "tool": "builtin imagegen",
+    "transparent_background": false,
+    "reference": null,
+    "production_conversion": "Resize to 1920x1080 for video composition; no changes to content"
+  },
+  {
+    "name": "Thumb",
+    "path": "ep-006-ceu/Thumb_Ceu_Quase_Infinito.png",
+    "source": "generated_images/exec-d8f27a93-888c-47e0-9bb9-7df532fcbf81.png",
+    "prompt": "Create ONE finished professional YouTube thumbnail, horizontal 16:9 1920x1080, premium intricately detailed crisp PIXEL ART for the Brazilian educational curiosity channel Quase Infinito. Use the referenced image ONLY as faithful identity reference for Pico: small friendly explorer, golden winged helmet with mint wing ornaments, aqua goggles and expressive dark eyes, turquoise suit, coral scarf, brown gloves and boots. Show ONE single Pico large at lower right/center-right, surprised curious smile, gesturing between two halves of the SAME sweeping mountain river landscape: left half luminous BLUE midday sky, right half vivid CORAL RED and orange sunset sky, sun only small near right horizon. Masterful square pixel clusters, rich texture, dimensional lighting, clean silhouettes and cinematic contrast, no smudgy painting. Keep face clearly readable on mobile. At upper-left in very large bold carefully spelled Portuguese lettering, THREE short lines exactly: 'CÉU AZUL' then a small '+' and 'SOL VERMELHO?' in bright cream and gold with deep navy outline. This text is the clear headline and must be legible, not cramped. Bottom-left small neat channel label exactly 'QUASE INFINITO'. No other text, no subtitles, no duplicated Pico, no random symbols, no play icon, no watermarks. Strong focused finished composition and 16:9 landscape aspect. Preserve Pico reference design carefully.",
+    "mode": "edit with Pico identity reference",
+    "tool": "builtin imagegen",
+    "transparent_background": false,
+    "reference": "assets/Pico_Design_v2_16x9.png",
+    "production_conversion": "Resize to 1920x1080 for video composition; no changes to content"
+  }
+]

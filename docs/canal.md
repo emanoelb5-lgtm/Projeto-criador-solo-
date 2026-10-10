@@ -59,3 +59,11 @@ Essas pautas são sugestões; o canal pode ir além dos objetos cotidianos.
 Emanuel administra o canal e publica os vídeos no YouTube. O assistente prepara os materiais de produção e publicação, com roteiro, título, descrição, miniatura, legendas, capítulos e créditos. A referência oficial do projeto é este repositório.
 
 As legendas fixas devem aparecer uma única vez nas imagens. Nesse modo, registrar `subtitle_mode: burned_in` nos metadados e exportar o MP4 sem uma segunda faixa de legenda embutida. O SRT acompanha a entrega como transcrição separada; ativar outra faixa sobre as legendas fixas pode duplicar o texto na tela.
+
+Quando Emanuel pedir um episódio sem legendas na tela, usar `subtitle_mode: none`, não desenhar a transcrição nos quadros e não embutir uma faixa de legenda. O SRT pode acompanhar como transcrição opcional. Rótulos de diagramas e créditos continuam sendo elementos visuais. Essa escolha foi solicitada para o episódio 006.
+
+## Qualidade editorial
+
+Cada pergunta deve receber roteiro, explicações visuais e ritmo próprios. Preservar a voz, o Pico e a identidade do canal, com variações de conteúdo e de montagem guiadas pelo assunto. Usar fontes primárias, comentar o material real e distinguir ilustrações, modelos e medições. As orientações do YouTube informam essas decisões de qualidade; não mudam o episódio para um vídeo sobre a plataforma.
+
+O episódio 006 documenta as escolhas em [Decisões editoriais](../videos/ep-006-ceu/decisoes-editoriais.md).

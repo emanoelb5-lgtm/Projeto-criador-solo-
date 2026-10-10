@@ -1,0 +1,147 @@
+{
+  "episode": 6,
+  "channel": "Quase Infinito",
+  "repository": "emanoelb5-lgtm/Projeto-criador-solo-",
+  "title": "Por que o céu é azul, mas o pôr do sol é vermelho? | Quase Infinito",
+  "alternative_titles": [
+    "O céu azul e o pôr do sol vermelho têm o mesmo segredo",
+    "Por que a luz muda de cor no horizonte?"
+  ],
+  "summary": "O céu azul e o horizonte vermelho parecem dois mistérios. O Pico descobre que eles fazem parte da mesma viagem: o caminho da luz pela atmosfera.\n\nPrismas, ondas, moléculas, nuvens e um laboratório ilustrado ajudam a comparar a luz que se espalha com a luz que continua viajando. A investigação termina com uma fotografia real de um pôr do sol em Marte, registrada pelo rover Curiosity.\n\nUm novo episódio do Quase Infinito, com a voz Thalita, o Pico v2, pixel art detalhada, filmagens reais e animações próprias. Este vídeo não tem legendas na tela.\n\nQue pergunta do cotidiano você quer investigar na próxima viagem?\nCada pergunta abre outra viagem.",
+  "language": "pt-BR",
+  "category_id": "27",
+  "category": "Education",
+  "tags": [
+    "por que o céu é azul",
+    "por que o pôr do sol é vermelho",
+    "céu azul",
+    "pôr do sol",
+    "espalhamento de Rayleigh",
+    "luz solar",
+    "atmosfera",
+    "comprimento de onda",
+    "cores da luz",
+    "nuvens",
+    "Marte",
+    "Curiosity",
+    "ciência",
+    "curiosidades",
+    "Pico",
+    "Quase Infinito"
+  ],
+  "hashtags": [
+    "#QuaseInfinito",
+    "#Curiosidades",
+    "#Ciencia"
+  ],
+  "voice": "pt-BR-ThalitaMultilingualNeural",
+  "duration_seconds": 492.0,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "thumbnail": "miniatura.jpg",
+  "subtitle_file": "legendas.srt",
+  "subtitle_mode": "none",
+  "subtitle_file_role": "optional_transcript",
+  "burned_in_captions": false,
+  "embedded_subtitle_streams": 0,
+  "video_filename": "video.mp4",
+  "video_sha256": "957a0c99286843e7df27aed8d5f63c25224781e970ba9a898dce5979b8d63912",
+  "chapters": [
+    {
+      "start_seconds": 0.0,
+      "title": "O mesmo lugar, duas cores"
+    },
+    {
+      "start_seconds": 39.833333333333336,
+      "title": "As cores dentro da luz"
+    },
+    {
+      "start_seconds": 82.625,
+      "title": "O ar também participa"
+    },
+    {
+      "start_seconds": 126.04166666666667,
+      "title": "O caminho até os olhos"
+    },
+    {
+      "start_seconds": 163.0,
+      "title": "E se tirássemos a atmosfera?"
+    },
+    {
+      "start_seconds": 199.875,
+      "title": "A virada do pôr do sol"
+    },
+    {
+      "start_seconds": 218.25,
+      "title": "Uma travessia maior"
+    },
+    {
+      "start_seconds": 282.0416666666667,
+      "title": "O laboratório imaginado do Pico"
+    },
+    {
+      "start_seconds": 323.75,
+      "title": "Onde a analogia termina"
+    },
+    {
+      "start_seconds": 345.5416666666667,
+      "title": "Por que as nuvens são brancas?"
+    },
+    {
+      "start_seconds": 388.1666666666667,
+      "title": "Um pôr do sol em Marte"
+    },
+    {
+      "start_seconds": 430.5833333333333,
+      "title": "Três perguntas para seguir a luz"
+    },
+    {
+      "start_seconds": 470.5833333333333,
+      "title": "Cada pergunta abre outra viagem"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NASA Space Place — Why Is the Sky Blue?",
+      "url": "https://spaceplace.nasa.gov/blue-sky/en/"
+    },
+    {
+      "name": "NASA Science — Visible Light",
+      "url": "https://science.nasa.gov/ems/09_visiblelight/"
+    },
+    {
+      "name": "UCAR — The Appearance of the Sky",
+      "url": "https://scied.ucar.edu/learning-zone/atmosphere/appearance-sky"
+    },
+    {
+      "name": "NOAA/NWS — Astronomical Information",
+      "url": "https://www.weather.gov/fsd/astro"
+    },
+    {
+      "name": "UCAR — Blue Skies and Red Sunsets",
+      "url": "https://scied.ucar.edu/activity/blue-skies-and-red-sunsets"
+    },
+    {
+      "name": "NOAA JetStream — The Color of Clouds",
+      "url": "https://www.noaa.gov/jetstream/clouds/color-of-clouds"
+    },
+    {
+      "name": "NASA/JPL — Sunset in Mars’ Gale Crater (PIA19400)",
+      "url": "https://science.nasa.gov/photojournal/sunset-in-mars-gale-crater/"
+    }
+  ],
+  "credits": "Filmagens: Al d'Vilas, Joshua, K, Malcoln Oliveira — Pexels License.\nFotografia de Marte: NASA/JPL-Caltech/MSSS/Texas A&M Univ., PIA19400.\nRoteiro, edição, trilha e animações de diagramas: Quase Infinito.\nNarração sintetizada: Thalita (pt-BR). Pico, cenários de pixel art e miniatura: geração de imagem por IA.\nLaboratório ilustrado e esquemas sem escala; não são registros de experimentos realizados ou de medições.",
+  "synthetic_content": {
+    "narration": "síntese de voz Thalita",
+    "illustrations": "Pico, cenários e miniatura com IA",
+    "graphics": "diagramas e animações originais em código",
+    "model": "laboratório ilustrado; sem experimento ou medição anunciados"
+  },
+  "mascot_design_version": 2,
+  "mascot_design_reference": "producao/assets/Pico_Design_v2_16x9.png",
+  "publication_mode": "manual",
+  "description": "O céu azul e o horizonte vermelho parecem dois mistérios. O Pico descobre que eles fazem parte da mesma viagem: o caminho da luz pela atmosfera.\n\nPrismas, ondas, moléculas, nuvens e um laboratório ilustrado ajudam a comparar a luz que se espalha com a luz que continua viajando. A investigação termina com uma fotografia real de um pôr do sol em Marte, registrada pelo rover Curiosity.\n\nUm novo episódio do Quase Infinito, com a voz Thalita, o Pico v2, pixel art detalhada, filmagens reais e animações próprias. Este vídeo não tem legendas na tela.\n\nQue pergunta do cotidiano você quer investigar na próxima viagem?\nCada pergunta abre outra viagem.\n\nCAPÍTULOS\n00:00 O mesmo lugar, duas cores\n00:39 As cores dentro da luz\n01:22 O ar também participa\n02:06 O caminho até os olhos\n02:43 E se tirássemos a atmosfera?\n03:19 A virada do pôr do sol\n03:38 Uma travessia maior\n04:42 O laboratório imaginado do Pico\n05:23 Onde a analogia termina\n05:45 Por que as nuvens são brancas?\n06:28 Um pôr do sol em Marte\n07:10 Três perguntas para seguir a luz\n07:50 Cada pergunta abre outra viagem\n\nFONTES E LEITURA\nNASA Space Place — Why Is the Sky Blue?\nhttps://spaceplace.nasa.gov/blue-sky/en/\nNASA Science — Visible Light\nhttps://science.nasa.gov/ems/09_visiblelight/\nUCAR — The Appearance of the Sky\nhttps://scied.ucar.edu/learning-zone/atmosphere/appearance-sky\nNOAA/NWS — Astronomical Information\nhttps://www.weather.gov/fsd/astro\nUCAR — Blue Skies and Red Sunsets\nhttps://scied.ucar.edu/activity/blue-skies-and-red-sunsets\nNOAA JetStream — The Color of Clouds\nhttps://www.noaa.gov/jetstream/clouds/color-of-clouds\nNASA/JPL — Sunset in Mars’ Gale Crater (PIA19400)\nhttps://science.nasa.gov/photojournal/sunset-in-mars-gale-crater/\n\nCRÉDITOS\nFilmagens: Al d'Vilas, Joshua, K, Malcoln Oliveira — Pexels License.\nFotografia de Marte: NASA/JPL-Caltech/MSSS/Texas A&M Univ., PIA19400.\nRoteiro, edição, trilha e animações de diagramas: Quase Infinito.\nNarração sintetizada: Thalita (pt-BR). Pico, cenários de pixel art e miniatura: geração de imagem por IA.\nLaboratório ilustrado e esquemas sem escala; não são registros de experimentos realizados ou de medições.\n\n#QuaseInfinito #Curiosidades #Ciencia\n"
+}

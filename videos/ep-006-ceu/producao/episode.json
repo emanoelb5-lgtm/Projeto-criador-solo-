@@ -1,0 +1,356 @@
+[
+  {
+    "index": 0,
+    "title": "O mesmo lugar, duas cores",
+    "action": "question",
+    "scenes": [
+      "sky_real",
+      "day_lookout",
+      "sunset_real"
+    ],
+    "weights": [
+      0.25,
+      0.35,
+      0.4
+    ],
+    "text": "De manhã, você olha pela janela e encontra um céu azul. Algumas horas depois, o mesmo lugar ganha um horizonte laranja, às vezes quase vermelho. O Sol não foi trocado. O ar continua ali. Então, quem mudou as cores? Hoje, o Pico vai seguir a luz por dois caminhos. No fim, as duas paisagens vão fazer parte da mesma resposta."
+  },
+  {
+    "index": 1,
+    "title": "A pergunta que une as paisagens",
+    "action": "point",
+    "scenes": [
+      "opening_split",
+      "light_route"
+    ],
+    "weights": [
+      0.45,
+      0.55
+    ],
+    "text": "Por que o céu é azul, mas o pôr do sol é vermelho? A pista principal não está numa tinta escondida nas nuvens. Está no encontro entre a luz e a atmosfera. E há uma diferença que costuma passar despercebida: olhar para o céu é receber luz espalhada pelo ar. Olhar na direção do horizonte iluminado envolve outro percurso."
+  },
+  {
+    "index": 2,
+    "title": "As cores dentro da luz",
+    "action": "inspect",
+    "scenes": [
+      "lab_intro",
+      "prism"
+    ],
+    "weights": [
+      0.3,
+      0.7
+    ],
+    "text": "Vamos começar antes de a luz entrar nessa viagem. A luz solar reúne muitas cores que, combinadas, percebemos como uma luz quase branca. Um prisma consegue separar parte dessa mistura: vermelho, laranja, amarelo, verde, azul e violeta aparecem em posições diferentes. O vidro não fabrica um arco-íris novo. Ele desvia cada faixa de um jeito diferente e revela o que já estava junto."
+  },
+  {
+    "index": 3,
+    "title": "Ondas com intervalos diferentes",
+    "action": "point",
+    "scenes": [
+      "wavelengths",
+      "spectrum"
+    ],
+    "weights": [
+      0.62,
+      0.38
+    ],
+    "text": "Essas cores correspondem a diferentes comprimentos de onda. O intervalo entre duas cristas representa esse comprimento. A onda azul tem intervalos menores que a vermelha. As linhas são um desenho para compará-las; a luz não é uma cordinha colorida atravessando o espaço. Guarde essa diferença. Ela será importante quando o ar entrar em cena."
+  },
+  {
+    "index": 4,
+    "title": "Um ar transparente que participa",
+    "action": "inspect",
+    "scenes": [
+      "sky_real",
+      "air_zoom",
+      "molecules"
+    ],
+    "weights": [
+      0.23,
+      0.37,
+      0.4
+    ],
+    "text": "O ar parece vazio, mas está cheio de moléculas, principalmente de nitrogênio e oxigênio. Elas são muito menores que os comprimentos de onda da luz visível. Quando a luz interage com essas moléculas, parte dela muda de direção. Chamamos isso de espalhamento. A atmosfera deixa muita luz passar e, ao mesmo tempo, redistribui uma pequena parte dela pelo espaço."
+  },
+  {
+    "index": 5,
+    "title": "O azul se espalha mais",
+    "action": "point",
+    "scenes": [
+      "rayleigh",
+      "scatter_compare"
+    ],
+    "weights": [
+      0.58,
+      0.42
+    ],
+    "text": "Nesse encontro com moléculas tão pequenas, as cores não se espalham com a mesma intensidade. As ondas mais curtas, como as azuis, se espalham mais que as ondas vermelhas, que são mais longas. Esse comportamento é conhecido como espalhamento de Rayleigh. Não significa que o vermelho nunca muda de direção. Significa que, nessas condições, a redistribuição favorece muito mais o azul."
+  },
+  {
+    "index": 6,
+    "title": "O caminho até os seus olhos",
+    "action": "question",
+    "scenes": [
+      "side_observer",
+      "blue_routes"
+    ],
+    "weights": [
+      0.63,
+      0.37
+    ],
+    "text": "Agora imagine um raio de luz vindo do Sol. Uma parte segue adiante. Outra parte é espalhada e chega aos seus olhos por uma direção diferente. Quando você observa um pedaço de céu longe do Sol, recebe justamente muita dessa luz desviada. Como o azul se espalha mais, ele ganha destaque na luz que vem dessas regiões do céu."
+  },
+  {
+    "index": 7,
+    "title": "Um céu inteiro iluminado",
+    "action": "flying",
+    "scenes": [
+      "blue_routes",
+      "day_flight",
+      "sky_real"
+    ],
+    "weights": [
+      0.42,
+      0.33,
+      0.25
+    ],
+    "text": "Há uma enorme quantidade de moléculas em muitas direções. A luz espalhada chega de diferentes partes da atmosfera, formando aquele fundo luminoso acima de nós. O Pico pode virar para os dois lados e continuar encontrando céu azul. O ar virou um grande distribuidor de luz, mesmo sem parecer uma parede."
+  },
+  {
+    "index": 8,
+    "title": "E se tirássemos a atmosfera?",
+    "action": "surprise",
+    "scenes": [
+      "atmosphere_toggle",
+      "space_routes"
+    ],
+    "weights": [
+      0.58,
+      0.42
+    ],
+    "text": "Vamos fazer uma mudança impossível só na animação: desligar a atmosfera. O Sol ainda ilumina os objetos que recebem seus raios, mas desaparece o ar que espalhava luz pelo céu. O fundo fica escuro. Essa comparação separa duas coisas: receber iluminação e ter um céu luminoso dependem de caminhos diferentes."
+  },
+  {
+    "index": 9,
+    "title": "O horizonte também tem uma pista",
+    "action": "inspect",
+    "scenes": [
+      "horizon_gradient",
+      "haze_real"
+    ],
+    "weights": [
+      0.6,
+      0.4
+    ],
+    "text": "Reparou que o azul pode ficar mais pálido perto do horizonte? Naquela direção, a luz atravessa uma porção maior da atmosfera. O espalhamento ao longo do caminho e a mistura de luz que vem de outras direções mudam o resultado. O céu não é uma chapa azul uniforme. Ele guarda diferenças de percurso."
+  },
+  {
+    "index": 10,
+    "title": "A virada do pôr do sol",
+    "action": "question",
+    "scenes": [
+      "sunset_real",
+      "sunset_lookout",
+      "route_question"
+    ],
+    "weights": [
+      0.3,
+      0.3,
+      0.4
+    ],
+    "text": "Até aqui, acompanhamos o azul que se espalha e chega de lado. Mas o que acontece com a luz que continua viajando na direção do observador? É essa pergunta que nos leva ao pôr do sol. O segredo não é o Sol esfriar rapidamente no fim da tarde. É o caminho pela atmosfera ficar maior quando ele aparece baixo no horizonte."
+  },
+  {
+    "index": 11,
+    "title": "Um atalho e uma longa travessia",
+    "action": "point",
+    "scenes": [
+      "earth_high",
+      "earth_low",
+      "path_compare"
+    ],
+    "weights": [
+      0.3,
+      0.38,
+      0.32
+    ],
+    "text": "Olhe para este corte esquemático da Terra. Com o Sol alto, a luz atravessa o ar por um caminho relativamente curto. Com o Sol perto do horizonte, os raios chegam inclinados em relação à superfície e percorrem mais atmosfera. A camada está exagerada no desenho para ficar visível. Não criamos mais ar no fim do dia. Mudamos o trajeto que a luz precisa atravessar."
+  },
+  {
+    "index": 12,
+    "title": "O que sobra no feixe direto",
+    "action": "point",
+    "scenes": [
+      "beam_short",
+      "beam_long",
+      "red_arrival"
+    ],
+    "weights": [
+      0.27,
+      0.43,
+      0.3
+    ],
+    "text": "Durante essa travessia mais longa, uma parcela maior da luz azul é espalhada para fora do feixe que vinha diretamente na nossa direção. A luz que segue até o observador fica relativamente mais rica em tons quentes, como o laranja e o vermelho. Não é preciso transformar cada onda azul numa onda vermelha. A mistura mudou porque as cores foram redistribuídas de maneiras diferentes."
+  },
+  {
+    "index": 13,
+    "title": "Duas cores, o mesmo processo",
+    "action": "surprise",
+    "scenes": [
+      "two_observers",
+      "sunset_real"
+    ],
+    "weights": [
+      0.68,
+      0.32
+    ],
+    "text": "Aqui está a ligação entre as duas perguntas. O azul que sai de um feixe pode contribuir para a luz espalhada em outra direção. Ao mesmo tempo, o feixe que atravessa muito ar perde mais azul e chega com uma mistura mais avermelhada. Por isso, um horizonte quente pode coexistir com regiões ainda azuladas acima dele. São dois pontos de vista sobre a mesma viagem."
+  },
+  {
+    "index": 14,
+    "title": "O laboratório imaginado do Pico",
+    "action": "inspect",
+    "scenes": [
+      "lab_intro",
+      "tank_setup"
+    ],
+    "weights": [
+      0.25,
+      0.75
+    ],
+    "text": "Para tornar esses caminhos mais fáceis de visualizar, o Pico montou um laboratório imaginado. Temos uma fonte de luz branca e um recipiente com partículas pequenas suspensas. É uma simulação didática, não uma filmagem de um experimento realizado. Vamos acompanhar a luz por dentro e comparar o que aparece para um observador ao lado e para outro na saída do feixe."
+  },
+  {
+    "index": 15,
+    "title": "Olhar de lado ou olhar a saída",
+    "action": "point",
+    "scenes": [
+      "tank_side",
+      "tank_end",
+      "tank_compare"
+    ],
+    "weights": [
+      0.35,
+      0.35,
+      0.3
+    ],
+    "text": "O observador lateral recebe luz que foi desviada do caminho principal. O observador na saída recebe a parte que continuou atravessando o recipiente. Quando o percurso aumenta no nosso modelo, o feixe transmitido perde proporcionalmente mais azul e muda de aparência. Não mudamos a lâmpada entre as duas posições. Mudamos qual parte da luz estamos acompanhando e por onde ela passou."
+  },
+  {
+    "index": 16,
+    "title": "Onde a analogia termina",
+    "action": "question",
+    "scenes": [
+      "analogy_limits",
+      "molecules"
+    ],
+    "weights": [
+      0.62,
+      0.38
+    ],
+    "text": "Uma boa analogia também precisa mostrar seu limite. Partículas num recipiente não são iguais às moléculas de uma atmosfera. Tamanho, quantidade e material alteram o espalhamento. Nosso laboratório ajuda a enxergar a diferença entre luz espalhada e transmitida; não mede a cor exata do céu. O desenho simplifica o processo, sem substituir uma observação ou uma medida."
+  },
+  {
+    "index": 17,
+    "title": "Então por que as nuvens são brancas?",
+    "action": "inspect",
+    "scenes": [
+      "clouds_real",
+      "cloud_droplets",
+      "cloud_paths"
+    ],
+    "weights": [
+      0.33,
+      0.4,
+      0.27
+    ],
+    "text": "Se o ar favorece o azul, por que tantas nuvens parecem brancas? Porque uma nuvem contém gotículas de água muito maiores que as moléculas do ar. Elas espalham as diferentes cores de forma muito menos seletiva, e a luz também pode passar por vários encontros dentro da nuvem. Quando uma mistura ampla de cores chega aos nossos olhos, percebemos branco. O tamanho de quem interage com a luz faz diferença."
+  },
+  {
+    "index": 18,
+    "title": "Nenhum pôr do sol é uma cópia",
+    "action": "question",
+    "scenes": [
+      "urban_sunset",
+      "sunset_variations"
+    ],
+    "weights": [
+      0.55,
+      0.45
+    ],
+    "text": "Nem todo fim de tarde terá o mesmo vermelho. Nuvens, poeira e outras partículas alteram os caminhos da luz. A travessia maior pela atmosfera continua sendo a explicação principal, mas o ambiente acrescenta variações. Um céu muito colorido, sozinho, não permite diagnosticar a qualidade do ar. Uma imagem bonita não conta tudo."
+  },
+  {
+    "index": 19,
+    "title": "Um pôr do sol em outro planeta",
+    "action": "surprise",
+    "scenes": [
+      "mars_photo",
+      "mars_photo_detail"
+    ],
+    "weights": [
+      0.57,
+      0.43
+    ],
+    "text": "Agora vem uma surpresa registrada de verdade. Esta imagem foi feita pelo rover Curiosity, em Marte, no dia quinze de abril de dois mil e quinze. O azul aparece perto da região do Sol, numa cena bem diferente do nosso horizonte avermelhado. A fotografia teve as cores calibradas pela equipe da missão. Não é um céu terrestre recolorido nem uma paisagem inventada para o vídeo."
+  },
+  {
+    "index": 20,
+    "title": "Outra atmosfera, outra distribuição",
+    "action": "point",
+    "scenes": [
+      "mars_dust",
+      "planet_compare"
+    ],
+    "weights": [
+      0.55,
+      0.45
+    ],
+    "text": "Em Marte, a poeira fina muda a distribuição das cores. A luz azul fica mais concentrada perto da direção do Sol, enquanto tons amarelos e vermelhos se espalham por regiões mais amplas. O exemplo não contradiz a explicação terrestre. Precisamos considerar quem está no caminho: moléculas, gotículas e poeira não produzem sempre o mesmo resultado."
+  },
+  {
+    "index": 21,
+    "title": "Três perguntas para seguir a luz",
+    "action": "point",
+    "scenes": [
+      "recap_routes",
+      "recap_three"
+    ],
+    "weights": [
+      0.58,
+      0.42
+    ],
+    "text": "O Pico pode guardar a investigação em três perguntas. Quais cores estavam na luz? Com o que essa luz interagiu? E qual caminho levou até o observador? No céu azul terrestre, destaca-se a luz curta espalhada pelo ar. No pôr do sol, destaca-se a mistura que resta depois de uma longa travessia. As duas respostas dependem da mesma atenção ao percurso."
+  },
+  {
+    "index": 22,
+    "title": "Uma nova maneira de observar",
+    "action": "inspect",
+    "scenes": [
+      "day_lookout",
+      "horizon_gradient",
+      "sunset_lookout"
+    ],
+    "weights": [
+      0.32,
+      0.36,
+      0.32
+    ],
+    "text": "Na próxima tarde de céu aberto, compare as regiões acima de você e perto do horizonte, sem olhar diretamente para o Sol. Procure diferenças de tonalidade, nuvens iluminadas e mudanças com o tempo. Essa observação não isola todas as causas, mas oferece uma pergunta melhor para a paisagem: por quais caminhos essa luz veio até mim?"
+  },
+  {
+    "index": 23,
+    "title": "Cada pergunta abre outra viagem",
+    "action": "wave",
+    "scenes": [
+      "closing_split",
+      "end_card"
+    ],
+    "weights": [
+      0.6,
+      0.4
+    ],
+    "text": "O céu azul e o pôr do sol vermelho não precisam de dois mistérios separados. Precisam de luz, atmosfera e perspectivas diferentes. Um cenário comum virou uma história de ondas e trajetos. Qual outra coisa do cotidiano você gostaria de investigar com o Pico? Conte nos comentários e acompanhe o Quase Infinito. Cada pergunta abre outra viagem."
+  }
+]

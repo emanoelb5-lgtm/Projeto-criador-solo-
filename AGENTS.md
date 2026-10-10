@@ -17,6 +17,7 @@ Para cada comando de produção:
 3. Escreva um roteiro original e gere narração com a voz definida. Confira termos, datas e pronúncia. Se a voz não funcionar, informe a limitação e não anuncie um vídeo pronto.
 4. Crie cenas que ajudem a explicar o assunto. Use a habilidade imagegen para ilustrações; diagramas exatos devem ser construídos em código. Identifique reconstituições históricas.
 5. Monte o vídeo em Full HD e 16:9, com duração próxima de oito minutos. Confira áudio, legendas, cenas e a transição final. Quando as legendas estiverem fixas nas imagens, use `subtitle_mode: burned_in`, mantenha o MP4 sem faixa de legenda embutida e apresente o SRT como transcrição separada para evitar texto duplicado.
+   Se o usuário pedir um episódio sem legendas na tela, use `subtitle_mode: none`, remova a camada de transcrição dos quadros e exporte sem faixa de legenda embutida. O SRT separado é opcional para o usuário. Rótulos científicos e créditos não são legendas da narração.
 6. Execute prepare_delivery.py quando o MP4 ultrapassar o limite de envio configurado. Confira novamente a qualidade visual e o áudio. Execute package_episode.py. Revise título, descrição, capítulos, fontes e créditos.
 7. Disponibilize o MP4 e o pacote no GitHub e confira a versão remota antes de dizer que a entrega terminou. Preserve alterações de outros colaboradores e atualize a branch sem force push.
 

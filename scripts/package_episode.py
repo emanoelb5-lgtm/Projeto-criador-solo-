@@ -53,8 +53,10 @@ def package(episode: Path, config: dict) -> dict:
     audio = next(s for s in probe["streams"] if s["codec_type"] == "audio")
     subtitle_mode = metadata.get("subtitle_mode", "external")
     embedded_subtitles = sum(s["codec_type"] == "subtitle" for s in probe["streams"])
-    if subtitle_mode == "burned_in" and embedded_subtitles:
-        raise ValueError("O vídeo já tem legendas fixas e contém uma segunda faixa de legenda embutida.")
+    if subtitle_mode not in ("external", "burned_in", "none"):
+        raise ValueError("Modo de legenda desconhecido.")
+    if subtitle_mode in ("burned_in", "none") and embedded_subtitles:
+        raise ValueError("O modo de legenda definido exige um MP4 sem faixa de legenda embutida.")
     duration = float(probe["format"]["duration"])
     target = config["video"]
     fraction = video["avg_frame_rate"].split("/")
@@ -106,8 +108,12 @@ def package(episode: Path, config: dict) -> dict:
               "subtitle_mode": subtitle_mode, "embedded_subtitle_streams": embedded_subtitles,
               "youtube_upload": "manual"}
     (episode / "qa.json").write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    subtitle_step = ("O vídeo já tem legendas fixas. Guarde [legendas.srt](legendas.srt) como transcrição; uma faixa de legenda adicional pode duplicar o texto na tela."
-                     if subtitle_mode == "burned_in" else "Envie [legendas.srt](legendas.srt) como legenda em português.")
+    if subtitle_mode == "none":
+        subtitle_step = "Este episódio não usa legendas na tela. [legendas.srt](legendas.srt) está disponível como transcrição opcional."
+    elif subtitle_mode == "burned_in":
+        subtitle_step = "O vídeo já tem legendas fixas. Guarde [legendas.srt](legendas.srt) como transcrição; uma faixa de legenda adicional pode duplicar o texto na tela."
+    else:
+        subtitle_step = "Envie [legendas.srt](legendas.srt) como legenda em português."
     guide = f"""# Pronto para publicar
 
 **Título:** {title}

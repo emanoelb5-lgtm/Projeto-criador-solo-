@@ -25,14 +25,15 @@ Canal de Emanuel Bonfim sobre ciência, história, natureza, tecnologia e as sur
 
 ## Episódio em destaque
 
-**Por que a chuva tem cheiro? — 8min24s, 1080p, 16:9.**
+**Por que o céu é azul, mas o pôr do sol é vermelho? — 8min12s, 1080p, 16:9.**
 
-![Miniatura do episódio](videos/ep-005-chuva/miniatura.jpg)
+![Miniatura do episódio](videos/ep-006-ceu/miniatura.jpg)
 
-O Pico segue as pistas do cheiro de terra molhada: petricor, geosmina, gotas, bolhas e sinais no solo. São 69 cenas com a voz Thalita, filmagens reais, fotografias em movimento, cenários de pixel art mais detalhados e o novo Pico em seis poses.
+O Pico segue o caminho da luz para ligar o céu azul ao horizonte vermelho. São 57 planos com durações variadas, a voz Thalita, novos cenários detalhados de pixel art, filmagens reais e diagramas animados de prismas, ondas, moléculas e trajetos. Uma fotografia do Curiosity leva a investigação até Marte. **Este episódio não tem legendas na tela.**
 
-- [Vídeo completo e pacote para publicar](videos/ep-005-chuva/PUBLICAR.md)
-- [Título](videos/ep-005-chuva/titulo.txt) · [Descrição com capítulos, fontes e créditos](videos/ep-005-chuva/descricao.txt)
+- [Vídeo completo e pacote para publicar](videos/ep-006-ceu/PUBLICAR.md)
+- [Título](videos/ep-006-ceu/titulo.txt) · [Descrição com capítulos, fontes e créditos](videos/ep-006-ceu/descricao.txt)
+- [Decisões editoriais de qualidade](videos/ep-006-ceu/decisoes-editoriais.md)
 - [Novo design do Pico](docs/identidade/Pico_v2.md)
 - [Todos os episódios](videos/README.md)
 
@@ -54,7 +55,7 @@ A pasta videos/ep-NNN-tema contém:
 - titulo.txt: título pronto para publicar; alternativas nos metadados e no pacote.
 - descricao.txt: texto para colar no YouTube, com capítulos, fontes e créditos.
 - metadata.json: título, descrição, tags, hashtags, idioma e categoria.
-- legendas.srt: transcrição sincronizada; o MP4 já tem legendas fixas e contém somente vídeo e áudio.
+- legendas.srt: transcrição sincronizada separada; o modo de legendas de cada episódio consta nos metadados. No episódio 006, o arquivo é opcional e o MP4 não tem legendas na tela.
 - roteiro.md e narracao.txt: roteiro de produção e texto falado.
 - fontes.md: referências e procedência dos materiais.
 - qa.json e checksums.sha256: verificação técnica e integridade dos arquivos.
@@ -70,13 +71,15 @@ FFmpeg monta o vídeo no ambiente de produção. GitHub guarda o projeto e as en
 
 ## Utilitários de produção
 
-O episódio atual contém os scripts usados na produção, o roteiro por cena, as referências das mídias e as versões das dependências em [producao](videos/ep-005-chuva/producao/README.md).
+O episódio atual contém os scripts usados na produção, o roteiro por cena, as referências das mídias e as versões das dependências em [producao](videos/ep-006-ceu/producao/README.md).
 
-    python -m pip install -r videos/ep-005-chuva/producao/requirements.txt
-    python videos/ep-005-chuva/producao/prepare_media.py
-    python videos/ep-005-chuva/producao/prepare_voice.py
-    python videos/ep-005-chuva/producao/render.py --workers 4
-    python videos/ep-005-chuva/producao/package.py
+    python -m pip install -r videos/ep-006-ceu/producao/requirements.txt
+    python videos/ep-006-ceu/producao/prepare_media.py
+    python videos/ep-006-ceu/producao/prepare_voice.py
+    python videos/ep-006-ceu/producao/render.py --workers 4
+    python videos/ep-006-ceu/producao/package.py --repo-root . --visual-reviewed
+
+Use a opção de revisão visual somente depois de inspecionar o MP4 final. Rótulos científicos e créditos não são transcrições da narração.
 
 A renderização usa FFmpeg, fontes DejaVu e acesso à internet para baixar as mídias e sintetizar a voz. A conferência geral da entrega continua disponível em scripts/package_episode.py. O padrão de 24 fps acompanha o vídeo de referência aprovado; a tolerância de duração é de 30 segundos em torno de oito minutos. O limite de envio mantém margem abaixo do limite de arquivos do GitHub e preserva a qualidade do MP4.
 

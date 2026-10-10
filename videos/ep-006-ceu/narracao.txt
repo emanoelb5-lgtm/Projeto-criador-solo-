@@ -1,0 +1,47 @@
+De manhã, você olha pela janela e encontra um céu azul. Algumas horas depois, o mesmo lugar ganha um horizonte laranja, às vezes quase vermelho. O Sol não foi trocado. O ar continua ali. Então, quem mudou as cores? Hoje, o Pico vai seguir a luz por dois caminhos. No fim, as duas paisagens vão fazer parte da mesma resposta.
+
+Por que o céu é azul, mas o pôr do sol é vermelho? A pista principal não está numa tinta escondida nas nuvens. Está no encontro entre a luz e a atmosfera. E há uma diferença que costuma passar despercebida: olhar para o céu é receber luz espalhada pelo ar. Olhar na direção do horizonte iluminado envolve outro percurso.
+
+Vamos começar antes de a luz entrar nessa viagem. A luz solar reúne muitas cores que, combinadas, percebemos como uma luz quase branca. Um prisma consegue separar parte dessa mistura: vermelho, laranja, amarelo, verde, azul e violeta aparecem em posições diferentes. O vidro não fabrica um arco-íris novo. Ele desvia cada faixa de um jeito diferente e revela o que já estava junto.
+
+Essas cores correspondem a diferentes comprimentos de onda. O intervalo entre duas cristas representa esse comprimento. A onda azul tem intervalos menores que a vermelha. As linhas são um desenho para compará-las; a luz não é uma cordinha colorida atravessando o espaço. Guarde essa diferença. Ela será importante quando o ar entrar em cena.
+
+O ar parece vazio, mas está cheio de moléculas, principalmente de nitrogênio e oxigênio. Elas são muito menores que os comprimentos de onda da luz visível. Quando a luz interage com essas moléculas, parte dela muda de direção. Chamamos isso de espalhamento. A atmosfera deixa muita luz passar e, ao mesmo tempo, redistribui uma pequena parte dela pelo espaço.
+
+Nesse encontro com moléculas tão pequenas, as cores não se espalham com a mesma intensidade. As ondas mais curtas, como as azuis, se espalham mais que as ondas vermelhas, que são mais longas. Esse comportamento é conhecido como espalhamento de Rayleigh. Não significa que o vermelho nunca muda de direção. Significa que, nessas condições, a redistribuição favorece muito mais o azul.
+
+Agora imagine um raio de luz vindo do Sol. Uma parte segue adiante. Outra parte é espalhada e chega aos seus olhos por uma direção diferente. Quando você observa um pedaço de céu longe do Sol, recebe justamente muita dessa luz desviada. Como o azul se espalha mais, ele ganha destaque na luz que vem dessas regiões do céu.
+
+Há uma enorme quantidade de moléculas em muitas direções. A luz espalhada chega de diferentes partes da atmosfera, formando aquele fundo luminoso acima de nós. O Pico pode virar para os dois lados e continuar encontrando céu azul. O ar virou um grande distribuidor de luz, mesmo sem parecer uma parede.
+
+Vamos fazer uma mudança impossível só na animação: desligar a atmosfera. O Sol ainda ilumina os objetos que recebem seus raios, mas desaparece o ar que espalhava luz pelo céu. O fundo fica escuro. Essa comparação separa duas coisas: receber iluminação e ter um céu luminoso dependem de caminhos diferentes.
+
+Reparou que o azul pode ficar mais pálido perto do horizonte? Naquela direção, a luz atravessa uma porção maior da atmosfera. O espalhamento ao longo do caminho e a mistura de luz que vem de outras direções mudam o resultado. O céu não é uma chapa azul uniforme. Ele guarda diferenças de percurso.
+
+Até aqui, acompanhamos o azul que se espalha e chega de lado. Mas o que acontece com a luz que continua viajando na direção do observador? É essa pergunta que nos leva ao pôr do sol. O segredo não é o Sol esfriar rapidamente no fim da tarde. É o caminho pela atmosfera ficar maior quando ele aparece baixo no horizonte.
+
+Olhe para este corte esquemático da Terra. Com o Sol alto, a luz atravessa o ar por um caminho relativamente curto. Com o Sol perto do horizonte, os raios chegam inclinados em relação à superfície e percorrem mais atmosfera. A camada está exagerada no desenho para ficar visível. Não criamos mais ar no fim do dia. Mudamos o trajeto que a luz precisa atravessar.
+
+Durante essa travessia mais longa, uma parcela maior da luz azul é espalhada para fora do feixe que vinha diretamente na nossa direção. A luz que segue até o observador fica relativamente mais rica em tons quentes, como o laranja e o vermelho. Não é preciso transformar cada onda azul numa onda vermelha. A mistura mudou porque as cores foram redistribuídas de maneiras diferentes.
+
+Aqui está a ligação entre as duas perguntas. O azul que sai de um feixe pode contribuir para a luz espalhada em outra direção. Ao mesmo tempo, o feixe que atravessa muito ar perde mais azul e chega com uma mistura mais avermelhada. Por isso, um horizonte quente pode coexistir com regiões ainda azuladas acima dele. São dois pontos de vista sobre a mesma viagem.
+
+Para tornar esses caminhos mais fáceis de visualizar, o Pico montou um laboratório imaginado. Temos uma fonte de luz branca e um recipiente com partículas pequenas suspensas. É uma simulação didática, não uma filmagem de um experimento realizado. Vamos acompanhar a luz por dentro e comparar o que aparece para um observador ao lado e para outro na saída do feixe.
+
+O observador lateral recebe luz que foi desviada do caminho principal. O observador na saída recebe a parte que continuou atravessando o recipiente. Quando o percurso aumenta no nosso modelo, o feixe transmitido perde proporcionalmente mais azul e muda de aparência. Não mudamos a lâmpada entre as duas posições. Mudamos qual parte da luz estamos acompanhando e por onde ela passou.
+
+Uma boa analogia também precisa mostrar seu limite. Partículas num recipiente não são iguais às moléculas de uma atmosfera. Tamanho, quantidade e material alteram o espalhamento. Nosso laboratório ajuda a enxergar a diferença entre luz espalhada e transmitida; não mede a cor exata do céu. O desenho simplifica o processo, sem substituir uma observação ou uma medida.
+
+Se o ar favorece o azul, por que tantas nuvens parecem brancas? Porque uma nuvem contém gotículas de água muito maiores que as moléculas do ar. Elas espalham as diferentes cores de forma muito menos seletiva, e a luz também pode passar por vários encontros dentro da nuvem. Quando uma mistura ampla de cores chega aos nossos olhos, percebemos branco. O tamanho de quem interage com a luz faz diferença.
+
+Nem todo fim de tarde terá o mesmo vermelho. Nuvens, poeira e outras partículas alteram os caminhos da luz. A travessia maior pela atmosfera continua sendo a explicação principal, mas o ambiente acrescenta variações. Um céu muito colorido, sozinho, não permite diagnosticar a qualidade do ar. Uma imagem bonita não conta tudo.
+
+Agora vem uma surpresa registrada de verdade. Esta imagem foi feita pelo rover Curiosity, em Marte, no dia quinze de abril de dois mil e quinze. O azul aparece perto da região do Sol, numa cena bem diferente do nosso horizonte avermelhado. A fotografia teve as cores calibradas pela equipe da missão. Não é um céu terrestre recolorido nem uma paisagem inventada para o vídeo.
+
+Em Marte, a poeira fina muda a distribuição das cores. A luz azul fica mais concentrada perto da direção do Sol, enquanto tons amarelos e vermelhos se espalham por regiões mais amplas. O exemplo não contradiz a explicação terrestre. Precisamos considerar quem está no caminho: moléculas, gotículas e poeira não produzem sempre o mesmo resultado.
+
+O Pico pode guardar a investigação em três perguntas. Quais cores estavam na luz? Com o que essa luz interagiu? E qual caminho levou até o observador? No céu azul terrestre, destaca-se a luz curta espalhada pelo ar. No pôr do sol, destaca-se a mistura que resta depois de uma longa travessia. As duas respostas dependem da mesma atenção ao percurso.
+
+Na próxima tarde de céu aberto, compare as regiões acima de você e perto do horizonte, sem olhar diretamente para o Sol. Procure diferenças de tonalidade, nuvens iluminadas e mudanças com o tempo. Essa observação não isola todas as causas, mas oferece uma pergunta melhor para a paisagem: por quais caminhos essa luz veio até mim?
+
+O céu azul e o pôr do sol vermelho não precisam de dois mistérios separados. Precisam de luz, atmosfera e perspectivas diferentes. Um cenário comum virou uma história de ondas e trajetos. Qual outra coisa do cotidiano você gostaria de investigar com o Pico? Conte nos comentários e acompanhe o Quase Infinito. Cada pergunta abre outra viagem.
