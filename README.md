@@ -14,7 +14,7 @@ Canal de Emanuel Bonfim sobre ciência, história, natureza, tecnologia e as sur
 | --- | --- |
 | Nome | **Quase Infinito** |
 | Proposta | Histórias e descobertas que fazem olhar o mundo com outros olhos |
-| Mascote | **Pico**, pequeno explorador voador em pixel art que investiga, aponta e participa das cenas |
+| Mascote | **Pico v2**, explorador voador com seis poses, olhos expressivos e acabamento detalhado; investiga, aponta e participa das cenas |
 | Narração | **Thalita**, em português brasileiro, com expressão e clareza; gravações de Emanuel são usadas quando enviadas |
 | Visual | Azul escuro, verde água e dourado; fotografias em movimento, filmagens reais e pixel art animada |
 | Moldura | Persistente em imagens e filmagens |
@@ -25,15 +25,15 @@ Canal de Emanuel Bonfim sobre ciência, história, natureza, tecnologia e as sur
 
 ## Episódio em destaque
 
-**Por que a Lua parece seguir você? — 8min24s, 1080p, 16:9.**
+**Por que a chuva tem cheiro? — 8min24s, 1080p, 16:9.**
 
-![Miniatura do episódio](videos/ep-004-lua/miniatura.jpg)
+![Miniatura do episódio](videos/ep-005-chuva/miniatura.jpg)
 
-Uma viagem pela astronomia e pela percepção, com 69 cenas, filmagens reais, fotografia em movimento, diagramas em pixel art, a voz Thalita e o Pico.
+O Pico segue as pistas do cheiro de terra molhada: petricor, geosmina, gotas, bolhas e sinais no solo. São 69 cenas com a voz Thalita, filmagens reais, fotografias em movimento, cenários de pixel art mais detalhados e o novo Pico em seis poses.
 
-- [Vídeo e pacote para publicar](videos/ep-004-lua/PUBLICAR.md)
-- [Título do vídeo](videos/ep-004-lua/titulo.txt)
-- [Descrição com capítulos, fontes e créditos](videos/ep-004-lua/descricao.txt)
+- [Vídeo completo e pacote para publicar](videos/ep-005-chuva/PUBLICAR.md)
+- [Título](videos/ep-005-chuva/titulo.txt) · [Descrição com capítulos, fontes e créditos](videos/ep-005-chuva/descricao.txt)
+- [Novo design do Pico](docs/identidade/Pico_v2.md)
 - [Todos os episódios](videos/README.md)
 
 ## Como pedir um vídeo
@@ -49,6 +49,7 @@ Também é possível informar um tema. Cada episódio recebe pesquisa, roteiro, 
 A pasta videos/ep-NNN-tema contém:
 
 - video.mp4: arquivo final com narração e imagens.
+- publicacao.zip: materiais para publicação, áudio da narração, assets do Pico e cenários, prompts e código de produção.
 - miniatura.jpg e miniatura.png: miniatura pronta em 16:9; o JPG também atende ao limite de tamanho para envio por celular.
 - titulo.txt: título pronto para publicar; alternativas nos metadados e no pacote.
 - descricao.txt: texto para colar no YouTube, com capítulos, fontes e créditos.
@@ -59,7 +60,7 @@ A pasta videos/ep-NNN-tema contém:
 - qa.json e checksums.sha256: verificação técnica e integridade dos arquivos.
 - PUBLICAR.md: links dos arquivos e instruções de envio.
 
-O vídeo só deve ser anunciado como entregue depois que o MP4 e os materiais estiverem acessíveis no GitHub. Arquivos acima do limite do Git comum precisam ser distribuídos por uma Release; o assistente deve conferir a ferramenta de upload disponível antes de prometer esse caminho. O histórico Git não deve acumular arquivos intermediários ou modelos de voz.
+O vídeo só deve ser anunciado como entregue depois que o MP4 e os materiais estiverem acessíveis no GitHub. Arquivos acima do limite do Git comum precisam ser distribuídos por uma Release; o assistente deve conferir a ferramenta de upload disponível antes de prometer esse caminho. O histórico Git não deve acumular arquivos intermediários ou modelos de voz. A preparação preserva a faixa de áudio e exige nova revisão visual quando há compressão. Se a API recusar um arquivo grande, enviar os mesmos bytes em partes menores. O workflow finalizar-entrega.yml recompõe o MP4 e confere o SHA-256 dos metadados antes de disponibilizar o arquivo único. Essa etapa apenas conclui o envio, sem gerar voz, produzir cenas ou recomprimir o vídeo.
 
 ## Recursos
 
@@ -69,13 +70,13 @@ FFmpeg monta o vídeo no ambiente de produção. GitHub guarda o projeto e as en
 
 ## Utilitários de produção
 
-O episódio atual contém os scripts usados na produção, o roteiro por cena, as referências das mídias e as versões das dependências em [producao](videos/ep-004-lua/producao/README.md).
+O episódio atual contém os scripts usados na produção, o roteiro por cena, as referências das mídias e as versões das dependências em [producao](videos/ep-005-chuva/producao/README.md).
 
-    python -m pip install -r videos/ep-004-lua/producao/requirements.txt
-    python videos/ep-004-lua/producao/prepare_media.py
-    python videos/ep-004-lua/producao/prepare_voice.py
-    python videos/ep-004-lua/producao/render.py --workers 3
-    python videos/ep-004-lua/producao/package.py
+    python -m pip install -r videos/ep-005-chuva/producao/requirements.txt
+    python videos/ep-005-chuva/producao/prepare_media.py
+    python videos/ep-005-chuva/producao/prepare_voice.py
+    python videos/ep-005-chuva/producao/render.py --workers 4
+    python videos/ep-005-chuva/producao/package.py
 
 A renderização usa FFmpeg, fontes DejaVu e acesso à internet para baixar as mídias e sintetizar a voz. A conferência geral da entrega continua disponível em scripts/package_episode.py. O padrão de 24 fps acompanha o vídeo de referência aprovado; a tolerância de duração é de 30 segundos em torno de oito minutos. O limite de envio mantém margem abaixo do limite de arquivos do GitHub e preserva a qualidade do MP4.
 

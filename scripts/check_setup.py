@@ -18,7 +18,7 @@ def inspect(config: dict) -> list[tuple[str, bool]]:
     return [
         ("Nome e nicho definidos", all(isinstance(config.get(k), str) and config[k].strip() for k in ("name", "topic"))),
         ("Produção iniciada por mensagem no chat", config.get("mode") == "chat_command" and execution.get("trigger") == "user_message" and execution.get("production") == "interactive_workspace" and ai.get("auth_mode") == "chat_work"),
-        ("Vídeo Full HD, 16:9 e 30 fps", video.get("width") == 1920 and video.get("height") == 1080 and video.get("aspect_ratio") == "16:9" and video.get("fps") == 30),
+        ("Vídeo Full HD, 16:9 e 24 fps", video.get("width") == 1920 and video.get("height") == 1080 and video.get("aspect_ratio") == "16:9" and video.get("fps") == 24),
         ("Meta de oito minutos", video.get("duration_seconds") == 480),
         ("Voz Thalita brasileira definida", voice.get("engine") == "edge_tts" and voice.get("language") == "pt-BR" and voice.get("name") == "pt-BR-ThalitaMultilingualNeural"),
         ("Entrega no GitHub", delivery.get("destination") == "github" and delivery.get("repository") == "emanoelb5-lgtm/Projeto-criador-solo-" and delivery.get("publication_by") == "user"),

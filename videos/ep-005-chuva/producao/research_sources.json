@@ -1,0 +1,134 @@
+[
+  {
+    "name": "CSIRO — origem do petricor",
+    "url": "https://www.csiro.au/en/news/all/articles/2015/march/the-smell-of-rain-how-our-scientists-invented-a-new-word",
+    "date": "2015-03-31",
+    "accessed": "2026-10-10",
+    "topics": [
+      "origem do termo em 1964",
+      "mistura oleosa",
+      "umidade e liberação de aroma",
+      "cheiro antes da chuva local"
+    ],
+    "blocks": [
+      2,
+      3,
+      4,
+      13,
+      18,
+      19
+    ],
+    "verification": "Texto da instituição de pesquisa lido; Bear e Thomas identificaram óleo liberado de materiais por umidade. A analogia das gavetas e a cena da varanda são originais."
+  },
+  {
+    "name": "Bear e Thomas — Nature of Argillaceous Odour (1964)",
+    "url": "https://www.nature.com/articles/201993a0",
+    "date": "1964-03-07",
+    "accessed": "2026-10-10",
+    "topics": [
+      "autoria, data e título do estudo original"
+    ],
+    "blocks": [
+      3
+    ],
+    "verification": "Registro bibliográfico confirmado no editor e no CSIRO; o texto integral no editor não estava disponível. A explicação histórica se apoia no texto aberto do CSIRO."
+  },
+  {
+    "name": "John Innes Centre — geosmina e sinais no solo",
+    "url": "https://jic.ac.uk/press-release/research-unearths-the-science-behind-the-smell-of-spring/",
+    "date": "2020-04-06",
+    "accessed": "2026-10-10",
+    "topics": [
+      "geosmina e aroma terroso",
+      "produção por Streptomyces",
+      "percepção em baixas concentrações",
+      "atração de colêmbolos"
+    ],
+    "blocks": [
+      5,
+      6,
+      14,
+      15
+    ],
+    "verification": "Texto da equipe de pesquisa lido. Evitados limiar numérico, comparação com tubarões e afirmações evolutivas absolutas."
+  },
+  {
+    "name": "Becher et al. — geosmina, colêmbolos e dispersão de esporos",
+    "url": "https://jic.ac.uk/research-impact/publications/developmentally-regulated-volatiles-geosmin-and-2-methylisoborneol-attract-a-soil-arthropod-to-streptomyces-bacteria-promoting-spore-dispersal/",
+    "date": "2020-04-06",
+    "accessed": "2026-10-10",
+    "topics": [
+      "resultados de experimentos no campo e laboratório",
+      "atração por geosmina e 2-MIB",
+      "esporos no corpo e em fezes",
+      "benefício mútuo"
+    ],
+    "blocks": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "verification": "Resumo da publicação primária lido na instituição de seus autores. DOI confirmado: 10.1038/s41564-020-0697-x. Colêmbolos descritos como artrópodes."
+  },
+  {
+    "name": "MIT — gotas, bolhas e aerossóis",
+    "url": "https://news.mit.edu/2015/rainfall-can-release-aerosols-0114",
+    "date": "2015-01-14",
+    "accessed": "2026-10-10",
+    "topics": [
+      "câmeras de alta velocidade",
+      "bolhas aprisionadas em gotas",
+      "gotículas emitidas por ruptura de bolhas",
+      "impacto, superfície e dispersão",
+      "interpretação ligada ao cheiro"
+    ],
+    "blocks": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "verification": "Texto institucional lido. O transporte de partículas foi observado; o papel no cheiro foi apresentado como interpretação dos pesquisadores, não como medição direta de olfato."
+  },
+  {
+    "name": "Joung e Buie — Aerosol generation by raindrop impact on soil",
+    "url": "https://dspace.mit.edu/entities/publication/04a89902-bea5-41d4-8402-3293b7a95729",
+    "date": "2015-01-14",
+    "accessed": "2026-10-10",
+    "topics": [
+      "gotas sobre meios porosos",
+      "condições de impacto e molhabilidade",
+      "transporte de materiais do meio poroso"
+    ],
+    "blocks": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "verification": "Resumo primário e metadados lidos no repositório MIT; DOI 10.1038/ncomms7083. Os resultados não são generalizados para toda chuva ou todo solo."
+  },
+  {
+    "name": "Joung, Ge e Buie — Bioaerosol generation by raindrops on soil",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5344306/",
+    "date": "2017-03-07",
+    "accessed": "2026-10-10",
+    "topics": [
+      "geração de aerossóis depende da superfície",
+      "absorção rápida pode reduzir formação de bolhas",
+      "solo seco e película de água representam condições diferentes"
+    ],
+    "blocks": [
+      10,
+      11,
+      12,
+      17,
+      21
+    ],
+    "verification": "Texto primário aberto lido. Não se fazem promessas sobre saúde, nem se identifica qualidade do solo pelo cheiro."
+  }
+]

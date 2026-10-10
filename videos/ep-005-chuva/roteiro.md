@@ -1,0 +1,139 @@
+# Por que a chuva tem cheiro? | Quase Infinito
+
+## 00:00 — O perfume que aparece do nada
+
+O dia estava seco. O chão quente, as folhas paradas. Então caem as primeiras gotas e aparece aquele cheiro de terra molhada. Você reconhece antes mesmo de olhar pela janela. Mas de onde ele veio? A água trouxe um perfume escondido nas nuvens? O Pico abriu o caderno de investigação. E a primeira pista está bem debaixo dos nossos pés.
+
+Cenas: garden_before, real_rain_ground, garden_scent. Pico: question.
+
+## 00:22 — Três pistas para uma pergunta
+
+Essa história tem três personagens principais: o chão, uma gota e o ar. O chão guarda substâncias. A gota pode ajudar a soltá-las. E o ar faz a viagem até o nosso nariz. Parece uma explicação pequena para uma sensação tão familiar. Só que, quando aproximamos a câmera, aparece um mundo inteiro trabalhando para produzir o cheiro que chamamos de chuva.
+
+Cenas: forest_wind, real_window, opening_map. Pico: inspect.
+
+## 00:45 — A água ou o encontro?
+
+Aquele aroma de terra não nasce simplesmente porque a água caiu do céu. Ele depende do encontro da água com o ambiente. Uma calçada, um jardim e uma floresta oferecem ingredientes diferentes. Por isso, duas chuvas podem molhar tudo e ainda assim parecer completamente diferentes para o nosso nariz.
+
+Cenas: pure_water, compare_surfaces, real_leaf_photo. Pico: point.
+
+## 01:04 — Um nome para a terra molhada
+
+Esse cheiro ganhou um nome curioso: petricor. Em mil novecentos e sessenta e quatro, os pesquisadores australianos Isabel Bear e Richard Thomas investigaram o aroma liberado por materiais secos quando recebiam umidade. Eles encontraram uma mistura oleosa associada ao cheiro. A palavra combina raízes gregas ligadas à pedra e ao fluido dos deuses. Um nome poético para uma pergunta muito concreta.
+
+Cenas: old_lab, petrichor_word, garden_plants. Pico: wave.
+
+## 01:28 — O chão guarda ingredientes
+
+Parte dessa história envolve compostos aromáticos de plantas que podem se acumular na terra e nas pedras. Imagine o chão como uma superfície cheia de pequenas gavetas: poros, grãos e frestas. Não são gavetas de verdade. Quando chega a umidade, muda a maneira como essas substâncias podem sair e alcançar o ar.
+
+Cenas: plant_oils, soil_storage, real_leaves. Pico: inspect.
+
+## 01:47 — Uma fábrica invisível
+
+No solo vivem microrganismos. Entre eles estão bactérias do grupo dos estreptomicetos, capazes de produzir uma substância chamada geosmina. Ela tem um aroma terroso característico. O que parecia só barro e pedrinhas também é um ambiente vivo. Ali, organismos minúsculos produzem moléculas que acabam participando da nossa experiência da paisagem.
+
+Cenas: soil_world, bacteria_colony, molecule_hint. Pico: flying.
+
+## 02:09 — Uma molécula, um cheiro conhecido
+
+A geosmina é uma das peças do cheiro de terra molhada. Nosso nariz consegue percebê-la em concentrações muito pequenas. Mas ela não é o único ingrediente de toda chuva. Petricor é um nome usado para o aroma associado à terra e à umidade. Geosmina é uma substância específica: um dos ingredientes, não a receita inteira.
+
+Cenas: geosmin, concentration, real_moss_photo. Pico: surprise.
+
+## 02:29 — Falta descobrir a viagem
+
+Encontrar o ingrediente resolve só metade do mistério. Se essas moléculas estão perto do chão, como chegam até o rosto de alguém parado na varanda? Precisamos acompanhar a viagem. Imagine uma gota caindo sobre uma superfície porosa. Ela parece um ponto simples visto de longe. De perto, o impacto pode virar um pequeno evento cheio de movimentos que o olho não consegue separar.
+
+Cenas: clue_chain, soil_zoom, drop_fall. Pico: question.
+
+## 02:53 — Uma câmera mais rápida que o olhar
+
+Em dois mil e quinze, pesquisadores do Instituto de Tecnologia de Massachusetts usaram câmeras de alta velocidade para observar esse encontro. Eles acompanharam gotas atingindo diferentes superfícies e enxergaram uma etapa que passava despercebida: pequenas bolhas de ar aparecendo dentro da gota. Nosso desenho está ampliado e desacelerado, para conseguirmos acompanhar cada parte.
+
+Cenas: real_rain_ground, camera_lab, drop_contact. Pico: point.
+
+## 03:15 — Bolhas dentro da gota
+
+A gota toca o chão e se espalha. No contato com a superfície, pode aprisionar pequenas bolhas de ar. Essas bolhas sobem dentro da água e rompem a superfície. Quando estouram, lançam gotículas menores para fora. É parecido com o que acontece quando bolhas chegam ao alto de uma bebida com gás. Aqui, porém, o palco é uma gota encostada no solo.
+
+Cenas: bubble_birth, bubble_rise, bubble_burst. Pico: inspect.
+
+## 03:37 — O chão ganha uma saída para o ar
+
+Essas gotículas suspensas no ar são aerossóis. Elas podem carregar materiais da superfície atingida. O mecanismo ajuda a explicar o transporte de substâncias associadas ao aroma da terra. O estudo observou a formação e o transporte de partículas; a ligação com o cheiro é uma interpretação dos pesquisadores. Uma brisa pode continuar essa viagem.
+
+Cenas: aerosols, wind_transfer, forest_rain. Pico: flying.
+
+## 03:59 — Mais chuva nem sempre é mais perfume
+
+Nas condições investigadas, impactos ligados a chuva leve ou moderada produziram mais aerossóis do que impactos muito rápidos. Uma pancada mais forte não dá necessariamente mais tempo para as bolhas se formarem e escaparem. Também importam as propriedades da superfície. Não existe um botão universal de perfume controlado só pela quantidade de água.
+
+Cenas: compare_rain, surface_porosity, real_heavy_ground. Pico: question.
+
+## 04:20 — A superfície muda a história
+
+Uma superfície que absorve água depressa não se comporta como outra que a retém por mais tempo. E um chão seco não é igual a um chão coberto por uma película de água. Cada situação pode produzir movimentos diferentes. O esquema das bolhas mostra um mecanismo observado, não uma regra dizendo que toda gota faz exatamente a mesma coisa.
+
+Cenas: soil_absorb, surface_wet, forest_wet. Pico: point.
+
+## 04:40 — Como sentir antes de chover aqui?
+
+Talvez você já tenha sentido cheiro de chuva quando o chão perto de você ainda estava seco. Isso também cabe na investigação. A umidade pode favorecer a liberação de compostos antes das primeiras gotas locais. E o vento pode trazer ar de uma área onde já choveu. O nariz recebe uma amostra do ar que chegou, não uma mensagem indicando o momento exato em que a chuva vai começar.
+
+Cenas: garden_wind, rain_elsewhere, real_window. Pico: flying.
+
+## 05:02 — O cheiro tem outros ouvintes
+
+Para nós, o cheiro pode lembrar um passeio. Para outros seres, moléculas do solo podem funcionar como sinais. A geosmina não existe para perfumar o nosso fim de semana. Ela participa de relações entre organismos. O Pico seguiu a trilha até encontrar um pequeno habitante que também presta atenção nesse tipo de mensagem.
+
+Cenas: story_network, real_forest_floor, habitat. Pico: inspect.
+
+## 05:22 — Uma carona escondida na terra
+
+Ele se chama colêmbolo. É um pequeno artrópode encontrado no solo. Pesquisas mostraram que esses animais podem ser atraídos por geosmina e por outro composto produzido pelos estreptomicetos. Ao se alimentar nas colônias, eles também podem espalhar esporos das bactérias, carregando-os no corpo ou eliminando-os depois. Uma relação de alimento e transporte que acontece numa escala bem menor do que a nossa.
+
+Cenas: springtail, scent_trail, spores_ride. Pico: surprise.
+
+## 05:46 — A pista foi testada
+
+Os pesquisadores testaram essa ideia com experiências no campo e no laboratório, comparando a atração por diferentes cheiros. A associação entre os compostos, os colêmbolos e a dispersão dos esporos revelou o papel dessa comunicação. Quando dizemos que o solo é vivo, falamos também de interações que raramente entram no enquadramento de uma fotografia.
+
+Cenas: micro_lab, y_tube, soil_network. Pico: point.
+
+## 06:06 — Duas histórias se encontram
+
+Agora temos duas histórias que se cruzam. Uma é biológica: organismos produzem substâncias e respondem a elas. A outra é física: água, superfícies e movimentos do ar ajudam a espalhar materiais. O cheiro que você sente junta partes desse cenário. Ele não permite identificar sozinho tudo que existe no chão. Mas pode ser o começo de uma boa pergunta sobre a paisagem ao redor.
+
+Cenas: field_layers, rain_recap, real_fern. Pico: wave.
+
+## 06:30 — Cada lugar oferece uma mistura
+
+A chuva na rua da sua casa pode lembrar uma coisa, e numa trilha pode lembrar outra. Plantas, materiais da superfície, umidade e circulação do ar entram nessa mistura. Chamar tudo de cheiro de chuva é útil no cotidiano. Para investigar, precisamos separar o aroma terroso das outras notas que aquele ambiente oferece.
+
+Cenas: street_vs_forest, rain_cities, real_heavy_ground. Pico: inspect.
+
+## 06:49 — Uma paisagem que o nariz percebe
+
+Você não vê a geosmina passando. Não acompanha cada bolha. Mesmo assim, percebe uma mudança no ambiente. O cheiro vira uma pista sensorial de um processo acontecendo fora do seu campo de visão. A ciência não precisa tirar a poesia dessa experiência. Pode acrescentar detalhes que deixam a cena ainda mais interessante.
+
+Cenas: aroma_memory, porch_memory, real_leaf_photo. Pico: question.
+
+## 07:09 — Uma observação para a próxima chuva
+
+Na próxima chuva, experimente observar de um lugar protegido. O cheiro apareceu antes das gotas perto de você ou depois? O vento mudou? O ambiente tinha muita vegetação ou principalmente piso e paredes? Não é uma medição de laboratório, e uma observação sozinha não prova a causa. É um jeito de transformar uma sensação familiar em anotações, comparações e novas perguntas sobre o mesmo lugar.
+
+Cenas: observation, garden_first, real_rain_ground. Pico: point.
+
+## 07:34 — O mistério cabe em três palavras
+
+O Pico fechou o caderno com três palavras: produção, liberação e transporte. O solo e os seres que vivem nele oferecem ingredientes. A umidade e o encontro das gotas com certas superfícies ajudam a liberá-los. O ar transporta essa mistura até nós. O perfume não precisa estar guardado numa nuvem. Ele pode nascer do encontro entre a chuva e um mundo que já estava aqui embaixo.
+
+Cenas: three_keys, recap_particles, forest_glow. Pico: surprise.
+
+## 07:59 — Cada pergunta abre outra viagem
+
+Aquela primeira gota parecia o começo de tudo. Agora ela parece a visita de alguém a uma casa que já estava cheia de histórias. Bactérias, plantas, grãos, bolhas e vento entraram no mesmo episódio. Qual lugar tem o cheiro de chuva mais marcante para você? Conte nos comentários e acompanhe o Quase Infinito. O Pico já está escolhendo a próxima pista. Cada pergunta abre outra viagem.
+
+Cenas: end_wave, end_question, end_card. Pico: wave.

@@ -25,11 +25,13 @@ A voz padrão é **Thalita** (`pt-BR-ThalitaMultilingualNeural`), em português 
 
 ## Pico
 
-Pico é o mascote recorrente: um pequeno explorador voador em pixel art, com capacete dourado, óculos verde água, traje turquesa e cachecol coral. Ele participa da narrativa, investigando, apontando, carregando objetos e reagindo às descobertas. Preservar seu desenho entre episódios.
+Pico é o mascote recorrente: um pequeno explorador voador em pixel art, com capacete dourado, óculos verde água, traje turquesa e cachecol coral. Ele participa da narrativa, investigando, apontando, carregando objetos e reagindo às descobertas. A partir do episódio 005, o desenho foi aprimorado a pedido de Emanuel, mantendo essas características. O Pico v2 tem olhos expressivos, contornos definidos, detalhes no capacete e na roupa e seis poses: acenar, apontar, pensar, investigar, surpreender-se e voar. Usar esta referência nos próximos episódios: [Pico v2](identidade/Pico_v2.md).
 
 ## Imagem e montagem
 
 Combinar filmagens reais da internet, fotografias e arquivos históricos com pixel art animada. Fotografias recebem movimento. Uma moldura persistente acompanha imagens e filmagens.
+
+A pixel art deve ter textura, profundidade, luz e movimentos visíveis, com chuva, reflexos, folhas ou partículas quando fizerem sentido para a história. Evitar voltar ao Pico simplificado dos primeiros episódios.
 
 A paleta usa azul escuro, verde água, dourado e pequenos detalhes coral. Todas as imagens geradas, miniaturas e cenas são **16:9**. O formato principal é Full HD horizontal, com duração próxima de oito minutos. Os episódios seguem a referência aprovada de 24 fps; a configuração atual do canal também usa 24 fps.
 

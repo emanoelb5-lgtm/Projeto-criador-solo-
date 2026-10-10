@@ -1,0 +1,192 @@
+{
+  "voice": "pt-BR-ThalitaMultilingualNeural",
+  "engine": "edge_tts",
+  "edge_tts_version": "7.2.8",
+  "text_sha256": "507fbd6b5a3a2fc3e485aab1a3296935b2fee6e1461365545a16e0fbde0380d3",
+  "segments": [
+    {
+      "index": 0,
+      "start_seconds": 0.0,
+      "duration_seconds": 22.166666666666668,
+      "tempo_factor": 1.0808823529411764,
+      "source_audio_sha256": "f5379fac10819005c1d9147c8c382031be1ebf168efecd55148fd04f24fb01cc",
+      "tts_rate": "+0%"
+    },
+    {
+      "index": 1,
+      "start_seconds": 22.166666666666668,
+      "duration_seconds": 23.375,
+      "tempo_factor": 1.080306245772266,
+      "source_audio_sha256": "c3c602e882d5d6ed2055856796baef84ca6ef4412af71a98a24bca90db3d6464",
+      "tts_rate": "-3%"
+    },
+    {
+      "index": 2,
+      "start_seconds": 45.541666666666664,
+      "duration_seconds": 18.708333333333332,
+      "tempo_factor": 1.0801999048072348,
+      "source_audio_sha256": "a63ad950c5bed68de3dd9d8940388da5e058b22b7df0edd08739e1700013ddd6",
+      "tts_rate": "+0%"
+    },
+    {
+      "index": 3,
+      "start_seconds": 64.25,
+      "duration_seconds": 24.041666666666668,
+      "tempo_factor": 1.0802626778547975,
+      "source_audio_sha256": "a5f3eb22d0667fe3125da5e20bf29253ebb338ce69599862d19a9512ed7cca47",
+      "tts_rate": "+0%"
+    },
+    {
+      "index": 4,
+      "start_seconds": 88.29166666666667,
+      "duration_seconds": 19.125,
+      "tempo_factor": 1.0801952580195258,
+      "source_audio_sha256": "7ce1d5f6b913e27a8957dceef1b06e1687a4880e40160c7cc0ba31fdf033f5bb",
+      "tts_rate": "+0%"
+    },
+    {
+      "index": 5,
+      "start_seconds": 107.41666666666667,
+      "duration_seconds": 21.958333333333332,
+      "tempo_factor": 1.0802890405459655,
+      "source_audio_sha256": "1b44a2100716b63ad3a466c1c523bdc267066cca37a3720ed571fcd400aabcf3",
+      "tts_rate": "+0%"
+    },
+    {
+      "index": 6,
+      "start_seconds": 129.375,
+      "duration_seconds": 20.541666666666668,
+      "tempo_factor": 1.0812149935372684,
+      "source_audio_sha256": "df8ceb8e0c5d418ef25f09e634af131c5f785711e1b9fe006cdd597f14809083",
+      "tts_rate": "+0%"
+    },
+    {
+      "index": 7,
+      "start_seconds": 149.91666666666666,
+      "duration_seconds": 23.25,
+      "tempo_factor": 1.0804988662131518,
+      "source_audio_sha256": "b778c16409ba063d6af46a5d558400541452956582ce94fba2aca4fa78e310e4",
+      "tts_rate": "+0%"
+    },
+    {
+      "index": 8,
+      "start_seconds": 173.16666666666666,
+      "duration_seconds": 22.333333333333332,
+      "tempo_factor": 1.0794558359621451,
+      "source_audio_sha256": "b4dfda06989483a0cf5601202428b077c4f1b43dfbc115a736cd29a13c6c1318",
+      "tts_rate": "+0%"
+    },
+    {
+      "index": 9,
+      "start_seconds": 195.5,
+      "duration_seconds": 22.0,
+      "tempo_factor": 1.0799278846153846,
+      "source_audio_sha256": "67d4ede5b845828f58bdc21941f97e6866ac5edf48bd2ef5b4ed7da72c14d555",
+      "tts_rate": "+0%"
+    },
+    {
+      "index": 10,
+      "start_seconds": 217.5,
+      "duration_seconds": 21.75,
+      "tempo_factor": 1.0802919708029197,
+      "source_audio_sha256": "f66a96cb6a7dc4633ea19f92bf187ea3760271c623be8491abefcd2a0cdb748e",
+      "tts_rate": "+0%"
+    },
+    {
+      "index": 11,
+      "start_seconds": 239.25,
+      "duration_seconds": 21.041666666666668,
+      "tempo_factor": 1.0804283914321713,
+      "source_audio_sha256": "0b870704b76a46ab57c52669fa2d87c240b7cfa9b04189443cf7a504759b2457",
+      "tts_rate": "+0%"
+    },
+    {
+      "index": 12,
+      "start_seconds": 260.2916666666667,
+      "duration_seconds": 20.458333333333332,
+      "tempo_factor": 1.0799782951103418,
+      "source_audio_sha256": "6a6b66446aad2063c3446f0f8267058f7456c33c94ac089625bc89650fe17a38",
+      "tts_rate": "-3%"
+    },
+    {
+      "index": 13,
+      "start_seconds": 280.75,
+      "duration_seconds": 21.875,
+      "tempo_factor": 1.0810157194679566,
+      "source_audio_sha256": "54e8340f9fa821d1783f8d1914db4218bc910848f2d504ceba774f9e814c6918",
+      "tts_rate": "+0%"
+    },
+    {
+      "index": 14,
+      "start_seconds": 302.625,
+      "duration_seconds": 19.875,
+      "tempo_factor": 1.0796519410977243,
+      "source_audio_sha256": "a5e20b540e1d95418f34025be44a8534ffacbf19fe46428aea8abea34b5eca8f",
+      "tts_rate": "+0%"
+    },
+    {
+      "index": 15,
+      "start_seconds": 322.5,
+      "duration_seconds": 23.625,
+      "tempo_factor": 1.0797101449275361,
+      "source_audio_sha256": "70c0e4629e9918a40f3c051aff4e8d4ad01bdaa635d20a6ab79a62a50397e2eb",
+      "tts_rate": "+0%"
+    },
+    {
+      "index": 16,
+      "start_seconds": 346.125,
+      "duration_seconds": 20.5,
+      "tempo_factor": 1.0803108808290156,
+      "source_audio_sha256": "e61428584ca85fac4f4a2a7f758d6e27fab3f2c0d493bece77b333edeb205643",
+      "tts_rate": "+0%"
+    },
+    {
+      "index": 17,
+      "start_seconds": 366.625,
+      "duration_seconds": 23.583333333333332,
+      "tempo_factor": 1.081161578555473,
+      "source_audio_sha256": "d09f490998d76327e37c55d35b2407fc12c0d501fbee24438f666f8190cd5252",
+      "tts_rate": "+0%"
+    },
+    {
+      "index": 18,
+      "start_seconds": 390.2083333333333,
+      "duration_seconds": 19.75,
+      "tempo_factor": 1.0808625336927224,
+      "source_audio_sha256": "577e074c8e0311e1b9b354b35840964f85a365adfaf3ace17349949a620f996a",
+      "tts_rate": "+0%"
+    },
+    {
+      "index": 19,
+      "start_seconds": 409.9583333333333,
+      "duration_seconds": 19.75,
+      "tempo_factor": 1.0795148247978434,
+      "source_audio_sha256": "a6fddbe28df8ad4ab6cb8a874ec0e88acb081403bf54eeaf1bf85e3429dd711a",
+      "tts_rate": "+0%"
+    },
+    {
+      "index": 20,
+      "start_seconds": 429.7083333333333,
+      "duration_seconds": 24.833333333333332,
+      "tempo_factor": 1.080571227080395,
+      "source_audio_sha256": "8b91fefb4fa414674eb3d0b21c065a346919742a3449230697a455396b7770dc",
+      "tts_rate": "+0%"
+    },
+    {
+      "index": 21,
+      "start_seconds": 454.5416666666667,
+      "duration_seconds": 24.583333333333332,
+      "tempo_factor": 1.0806948966500356,
+      "source_audio_sha256": "4c05010919dbfacd61f222ba52ba27c5da50c1e535b1ff593307b948b41e7598",
+      "tts_rate": "-3%"
+    },
+    {
+      "index": 22,
+      "start_seconds": 479.125,
+      "duration_seconds": 24.875,
+      "tempo_factor": 1.0793717001055965,
+      "source_audio_sha256": "8a8ffbc74277b418be8f3b4cd047cf3db42e75dd690321fce82fff3cf7e062ef",
+      "tts_rate": "-3%"
+    }
+  ]
+}

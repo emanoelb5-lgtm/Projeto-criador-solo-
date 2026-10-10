@@ -4,6 +4,7 @@ Cada pasta reúne um episódio completo e os materiais para publicação manual 
 
 | Episódio | Tema | Duração | Materiais |
 | --- | --- | --- | --- |
+| 005 | Por que a chuva tem cheiro? | 8min24s | [Vídeo e pacote de publicação](ep-005-chuva/PUBLICAR.md) |
 | 004 | Por que a Lua parece seguir você? | 8min24s | [Vídeo e pacote de publicação](ep-004-lua/PUBLICAR.md) |
 | 003 | Por que o sabão tira a gordura? | 8min24s | [Vídeo e pacote de publicação](ep-003-sabao/PUBLICAR.md) |
 | 002 | Quem decidiu que o dia tem 24 horas? | 8min24s | [Vídeo e pacote de publicação](ep-002-24-horas/PUBLICAR.md) |

@@ -35,7 +35,8 @@
     "episodes_directory": "videos",
     "publication_by": "user",
     "max_git_file_bytes": 99614720,
-    "max_video_file_bytes": 95000000
+    "max_video_file_bytes": 95000000,
+    "max_blob_api_file_bytes": 30000000
   },
   "schedule": {
     "enabled": false,
@@ -56,14 +57,16 @@
   "branding": {
     "mascot": {
       "name": "Pico",
-      "description": "Pequeno explorador voador recorrente em pixel art, com capacete dourado, óculos verde água, traje turquesa e cachecol coral.",
+      "description": "Pequeno explorador voador em pixel art detalhada, capacete dourado com asas mint, óculos verde-água expressivos, traje turquesa, cachecol coral, luvas e botas marrons; seis poses coerentes.",
       "participation": [
         "voar pelas cenas",
         "investigar",
         "apontar elementos",
         "carregar objetos",
         "reagir às descobertas"
-      ]
+      ],
+      "design_version": 2,
+      "design_reference": "docs/identidade/Pico_Design_v2_16x9.png"
     },
     "palette": {
       "navy": "#071A2B",
@@ -78,6 +81,7 @@
       "pixel art animada"
     ],
     "images_aspect_ratio": "16:9",
-    "channel_description": "Uma pergunta simples pode levar muito longe.\n\nNo Quase Infinito, exploramos ciência, história, natureza, tecnologia e as surpresas escondidas no cotidiano. Do objeto que você usa todos os dias aos acontecimentos que mudaram o mundo, cada vídeo é uma viagem para olhar o conhecido com outros olhos.\n\nImagens reais, animações em pixel art e a companhia do Pico, nosso pequeno explorador voador, ajudam a transformar perguntas em descobertas.\n\nSe você gosta de entender como as coisas funcionam, de onde vieram e por que fazem diferença, venha explorar com a gente.\n\nCada pergunta abre outra viagem."
+    "channel_description": "Uma pergunta simples pode levar muito longe.\n\nNo Quase Infinito, exploramos ciência, história, natureza, tecnologia e as surpresas escondidas no cotidiano. Do objeto que você usa todos os dias aos acontecimentos que mudaram o mundo, cada vídeo é uma viagem para olhar o conhecido com outros olhos.\n\nImagens reais, animações em pixel art e a companhia do Pico, nosso pequeno explorador voador, ajudam a transformar perguntas em descobertas.\n\nSe você gosta de entender como as coisas funcionam, de onde vieram e por que fazem diferença, venha explorar com a gente.\n\nCada pergunta abre outra viagem.",
+    "pixel_art_quality": "Cenários com textura, profundidade e luz; contornos definidos e movimentos na composição."
   }
 }

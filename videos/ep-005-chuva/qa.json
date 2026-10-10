@@ -1,0 +1,36 @@
+{
+  "status": "technically_validated",
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 24.0,
+    "duration_seconds": 504.0,
+    "codec": "h264",
+    "size_bytes": 66639940
+  },
+  "audio": {
+    "codec": "aac",
+    "sample_rate": 48000,
+    "channels": 2,
+    "integrated_loudness_lufs": -13.8,
+    "true_peak_dbtp": -2.0,
+    "loudness_range_lu": 2.4
+  },
+  "voice": "pt-BR-ThalitaMultilingualNeural",
+  "thumbnail_size": [
+    1920,
+    1080
+  ],
+  "subtitle_cues": 213,
+  "chapters": 12,
+  "full_decode": "passed",
+  "subtitle_mode": "burned_in",
+  "embedded_subtitle_streams": 0,
+  "youtube_upload": "manual",
+  "sha256": "c422e648ae41e3a0c6e3a058e724021b68d996decc529314c316d072a7fbde1c",
+  "video_frames": 12096,
+  "shots": 69,
+  "visual_review": "decoded final MP4 frames reviewed: detailed pixel art, Pico v2, subtitles, real footage and ending",
+  "mascot_design_version": 2,
+  "research_review": "primary sources checked; aerosol mechanism and interpretation distinguished"
+}
