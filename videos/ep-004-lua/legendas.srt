@@ -1,0 +1,855 @@
+1
+00:00:00,398 --> 00:00:02,313
+Você está numa viagem à noite.
+
+2
+00:00:02,468 --> 00:00:04,928
+Os postes passam, as casas ficam para
+
+3
+00:00:04,948 --> 00:00:07,345
+trás, e uma luz aparece pela janela.
+
+4
+00:00:07,500 --> 00:00:09,586
+É a Lua. Você muda de rua,
+
+5
+00:00:09,606 --> 00:00:11,127
+olha de novo... e ela ainda está
+
+6
+00:00:11,147 --> 00:00:13,197
+ali. Quando a gente é criança, isso
+
+7
+00:00:13,217 --> 00:00:15,725
+parece uma perseguição. Mas como a mesma
+
+8
+00:00:15,745 --> 00:00:18,132
+Lua consegue acompanhar tanta gente ao mesmo
+
+9
+00:00:18,152 --> 00:00:18,695
+tempo?
+
+10
+00:00:19,775 --> 00:00:22,972
+Imagine dois carros seguindo por ruas diferentes.
+
+11
+00:00:23,149 --> 00:00:25,164
+Dentro de cada um, alguém acha que
+
+12
+00:00:25,184 --> 00:00:26,893
+a Lua está viajando junto.
+
+13
+00:00:27,070 --> 00:00:28,555
+Ela escolheu os dois?
+
+14
+00:00:28,720 --> 00:00:30,735
+A pista para resolver o mistério está
+
+15
+00:00:30,755 --> 00:00:34,147
+justamente nessa contradição. O Pico vai observar
+
+16
+00:00:34,167 --> 00:00:35,739
+uma coisa bem mais perto:
+
+17
+00:00:35,780 --> 00:00:37,571
+o que acontece com a paisagem quando
+
+18
+00:00:37,591 --> 00:00:38,778
+nós mudamos de lugar.
+
+19
+00:00:39,856 --> 00:00:41,678
+Pela janela, o poste ao lado da
+
+20
+00:00:41,698 --> 00:00:44,891
+estrada desaparece depressa. As árvores um pouco
+
+21
+00:00:44,911 --> 00:00:46,913
+mais longe atravessam o campo de visão
+
+22
+00:00:46,933 --> 00:00:49,043
+com menos pressa. E a serra lá
+
+23
+00:00:49,063 --> 00:00:50,954
+no fundo parece quase parada.
+
+24
+00:00:51,121 --> 00:00:53,159
+A mesma paisagem passa pelos seus olhos
+
+25
+00:00:53,179 --> 00:00:56,023
+de jeitos diferentes. O segredo começa na
+
+26
+00:00:56,043 --> 00:00:58,403
+distância entre você e cada objeto.
+
+27
+00:00:59,482 --> 00:01:01,687
+A árvore não precisou sair do chão.
+
+28
+00:01:01,842 --> 00:01:03,458
+Quem se deslocou foi você.
+
+29
+00:01:03,613 --> 00:01:05,858
+No começo do trecho, ela estava numa
+
+30
+00:01:05,878 --> 00:01:08,965
+direção. Mais adiante, você precisa olhar para
+
+31
+00:01:08,985 --> 00:01:10,276
+outro lado para vê-la.
+
+32
+00:01:10,431 --> 00:01:11,905
+O que mudou foi a direção da
+
+33
+00:01:11,925 --> 00:01:13,191
+sua linha de visão.
+
+34
+00:01:13,346 --> 00:01:15,350
+Com um objeto próximo, essa mudança é
+
+35
+00:01:15,370 --> 00:01:18,168
+grande. Com um objeto distante, ela fica
+
+36
+00:01:18,188 --> 00:01:19,153
+muito menor.
+
+37
+00:01:20,232 --> 00:01:22,619
+Agora coloque a Lua nessa comparação.
+
+38
+00:01:22,786 --> 00:01:24,598
+Sua distância média à Terra é de
+
+39
+00:01:24,618 --> 00:01:27,249
+aproximadamente trezentos e oitenta e quatro mil
+
+40
+00:01:27,269 --> 00:01:30,671
+e quatrocentos quilômetros. Um espaço suficiente para
+
+41
+00:01:30,691 --> 00:01:32,849
+enfileirar cerca de trinta Terras.
+
+42
+00:01:33,017 --> 00:01:34,901
+Perto disso, o trecho que seu carro
+
+43
+00:01:34,921 --> 00:01:36,910
+percorre numa rua é minúsculo.
+
+44
+00:01:37,078 --> 00:01:39,082
+Para nossos olhos, a direção da Lua
+
+45
+00:01:39,102 --> 00:01:41,778
+mal muda durante esse pequeno deslocamento.
+
+46
+00:01:42,856 --> 00:01:45,388
+Você consegue experimentar essa ideia sem esperar
+
+47
+00:01:45,408 --> 00:01:48,265
+anoitecer. Segure um lápis diante do rosto
+
+48
+00:01:48,285 --> 00:01:49,951
+e escolha um objeto no fundo da
+
+49
+00:01:49,971 --> 00:01:51,958
+sala. Feche um olho.
+
+50
+00:01:52,125 --> 00:01:53,959
+Depois abra esse olho e feche o
+
+51
+00:01:53,979 --> 00:01:56,475
+outro. O lápis parece trocar de posição
+
+52
+00:01:56,495 --> 00:01:58,570
+em relação ao fundo, mesmo sem você
+
+53
+00:01:58,590 --> 00:02:01,134
+mexê-lo. Você acabou de observar a mesma
+
+54
+00:02:01,154 --> 00:02:03,153
+coisa a partir de dois lugares.
+
+55
+00:02:04,232 --> 00:02:06,184
+Repita com o lápis mais perto.
+
+56
+00:02:06,339 --> 00:02:08,231
+O salto aparente fica maior.
+
+57
+00:02:08,398 --> 00:02:10,895
+Afaste o lápis, mantendo a comparação com
+
+58
+00:02:10,915 --> 00:02:13,494
+o mesmo fundo. O salto diminui.
+
+59
+00:02:13,661 --> 00:02:16,266
+Essa mudança aparente de posição, causada pela
+
+60
+00:02:16,286 --> 00:02:18,891
+mudança do ponto de observação, tem nome:
+
+61
+00:02:18,911 --> 00:02:21,408
+paralaxe. A palavra é nova para muita
+
+62
+00:02:21,428 --> 00:02:24,166
+gente, mas o efeito acompanha nossas viagens,
+
+63
+00:02:24,186 --> 00:02:25,936
+nossos passos e até a maneira de
+
+64
+00:02:25,956 --> 00:02:26,403
+olhar.
+
+65
+00:02:27,482 --> 00:02:29,326
+Vamos enxergar isso de cima.
+
+66
+00:02:29,482 --> 00:02:32,052
+O Pico marca dois pontos de observação
+
+67
+00:02:32,072 --> 00:02:33,703
+e traça uma linha de cada ponto
+
+68
+00:02:33,723 --> 00:02:36,197
+até uma árvore. As linhas abrem um
+
+69
+00:02:36,217 --> 00:02:39,246
+ângulo. Agora, no desenho, a árvore vai
+
+70
+00:02:39,266 --> 00:02:41,933
+para bem longe. As linhas ficam quase
+
+71
+00:02:41,953 --> 00:02:45,027
+paralelas. O deslocamento continua igual;
+
+72
+00:02:45,062 --> 00:02:46,919
+a distância do objeto mudou.
+
+73
+00:02:47,074 --> 00:02:49,112
+Esse é o coração da explicação.
+
+74
+00:02:50,190 --> 00:02:52,025
+A Lua está tão longe que, numa
+
+75
+00:02:52,045 --> 00:02:54,638
+viagem curta, essas linhas de visão apontam
+
+76
+00:02:54,658 --> 00:02:56,755
+praticamente para a mesma direção.
+
+77
+00:02:56,910 --> 00:02:59,781
+Isso não significa uma mudança exatamente igual
+
+78
+00:02:59,801 --> 00:03:02,948
+a zero. Significa uma mudança pequena demais
+
+79
+00:03:02,968 --> 00:03:04,849
+para percebermos nessa situação.
+
+80
+00:03:05,016 --> 00:03:07,501
+No desenho, nós aumentamos os ângulos para
+
+81
+00:03:07,521 --> 00:03:08,968
+você enxergar a ideia.
+
+82
+00:03:09,135 --> 00:03:11,608
+A escala real seria impossível de mostrar
+
+83
+00:03:11,628 --> 00:03:13,195
+direito nesta pequena tela.
+
+84
+00:03:14,273 --> 00:03:16,542
+Imagine agora uma Lua de brinquedo presa
+
+85
+00:03:16,562 --> 00:03:18,309
+numa árvore perto da estrada.
+
+86
+00:03:18,477 --> 00:03:20,311
+Conforme o carro passa, ela vai da
+
+87
+00:03:20,331 --> 00:03:21,985
+frente para o lado e depois fica
+
+88
+00:03:22,005 --> 00:03:24,765
+para trás. Nada de companhia constante.
+
+89
+00:03:24,920 --> 00:03:27,429
+A Lua verdadeira produz outra impressão porque
+
+90
+00:03:27,449 --> 00:03:29,751
+está imensamente mais distante.
+
+91
+00:03:29,918 --> 00:03:32,175
+Imagine um detalhe diferente e a cena
+
+92
+00:03:32,195 --> 00:03:33,653
+revela seu mecanismo.
+
+93
+00:03:34,731 --> 00:03:36,562
+Voltemos aos dois carros.
+
+94
+00:03:36,717 --> 00:03:38,875
+Eles podem mudar de posição e continuar
+
+95
+00:03:38,895 --> 00:03:41,077
+vendo a Lua quase na mesma direção,
+
+96
+00:03:41,097 --> 00:03:42,591
+cada um pela sua janela.
+
+97
+00:03:42,758 --> 00:03:45,132
+Para cada passageiro, ela parece conservar seu
+
+98
+00:03:45,152 --> 00:03:47,347
+lugar no céu enquanto a paisagem próxima
+
+99
+00:03:47,367 --> 00:03:50,535
+desliza. Não existe uma Lua particular esperando
+
+100
+00:03:50,555 --> 00:03:53,869
+cada pessoa. Existe um objeto distante observado
+
+101
+00:03:53,889 --> 00:03:55,505
+por pessoas que estão se movendo aqui
+
+102
+00:03:55,525 --> 00:03:56,237
+embaixo.
+
+103
+00:03:57,315 --> 00:03:59,380
+Esse tipo de impressão também aparece com
+
+104
+00:03:59,400 --> 00:04:03,164
+montanhas distantes. Elas podem parecer viajar junto
+
+105
+00:04:03,184 --> 00:04:04,849
+durante um trecho da estrada.
+
+106
+00:04:05,016 --> 00:04:07,718
+Com nuvens, a situação pede mais cuidado:
+
+107
+00:04:07,764 --> 00:04:10,034
+além da distância, entra o movimento delas
+
+108
+00:04:10,054 --> 00:04:12,505
+com o vento. A paralaxe também existe
+
+109
+00:04:12,525 --> 00:04:13,816
+num mundo em movimento.
+
+110
+00:04:13,972 --> 00:04:16,615
+Precisamos apenas distinguir o movimento do objeto
+
+111
+00:04:16,635 --> 00:04:18,987
+da mudança causada pelo observador.
+
+112
+00:04:20,066 --> 00:04:22,320
+Então a Lua fica parada no céu?
+
+113
+00:04:22,485 --> 00:04:25,409
+Não. Se você observa por bastante tempo,
+
+114
+00:04:25,462 --> 00:04:28,059
+sua posição muda. A rotação da Terra
+
+115
+00:04:28,079 --> 00:04:30,267
+participa do movimento que vemos ao longo
+
+116
+00:04:30,287 --> 00:04:32,673
+do céu. A Lua também percorre sua
+
+117
+00:04:32,693 --> 00:04:34,414
+órbita ao redor da Terra.
+
+118
+00:04:34,579 --> 00:04:36,791
+Esses movimentos têm outra escala de tempo
+
+119
+00:04:36,811 --> 00:04:39,830
+e precisam ser separados daquela sensação imediata
+
+120
+00:04:39,850 --> 00:04:41,695
+de companhia durante uma viagem.
+
+121
+00:04:42,785 --> 00:04:44,943
+Pense em dois vídeos diferentes.
+
+122
+00:04:45,098 --> 00:04:47,752
+No primeiro, você acompanha alguns segundos pela
+
+123
+00:04:47,772 --> 00:04:50,642
+janela. No segundo, uma câmera registra o
+
+124
+00:04:50,662 --> 00:04:52,988
+céu durante horas, do mesmo lugar.
+
+125
+00:04:53,144 --> 00:04:56,325
+Eles comparam situações e mudanças diferentes.
+
+126
+00:04:56,480 --> 00:04:58,435
+A Lua não obedece ao volante do
+
+127
+00:04:58,455 --> 00:05:01,396
+carro. O céu segue sua própria dinâmica.
+
+128
+00:05:01,551 --> 00:05:03,988
+Nossa pergunta envolve a impressão que nasce
+
+129
+00:05:04,008 --> 00:05:06,153
+quando mudamos de posição numa paisagem.
+
+130
+00:05:07,232 --> 00:05:08,899
+E há um segundo mistério que costuma
+
+131
+00:05:08,919 --> 00:05:10,559
+aparecer na mesma viagem:
+
+132
+00:05:10,593 --> 00:05:12,815
+perto do horizonte, a Lua pode parecer
+
+133
+00:05:12,835 --> 00:05:15,583
+enorme. Lá em cima, parece menor.
+
+134
+00:05:15,763 --> 00:05:18,078
+Essa é a chamada ilusão da Lua.
+
+135
+00:05:18,245 --> 00:05:19,659
+Só que ela não é a mesma
+
+136
+00:05:19,679 --> 00:05:21,813
+coisa que a sensação de ser seguido.
+
+137
+00:05:21,981 --> 00:05:23,901
+Uma pergunta trata da direção em que
+
+138
+00:05:23,921 --> 00:05:26,299
+vemos o objeto; a outra, do tamanho
+
+139
+00:05:26,319 --> 00:05:27,320
+que percebemos.
+
+140
+00:05:28,398 --> 00:05:30,125
+Uma forma de investigar é fotografar a
+
+141
+00:05:30,145 --> 00:05:32,353
+Lua perto do horizonte e, na mesma
+
+142
+00:05:32,373 --> 00:05:34,545
+noite, mais alta no céu, mantendo o
+
+143
+00:05:34,565 --> 00:05:36,590
+mesmo equipamento e o mesmo zoom.
+
+144
+00:05:36,745 --> 00:05:39,071
+Compare sua largura nas imagens.
+
+145
+00:05:39,226 --> 00:05:41,952
+Ela fica praticamente igual, apesar da impressão
+
+146
+00:05:41,972 --> 00:05:43,744
+de um tamanho muito diferente.
+
+147
+00:05:43,900 --> 00:05:46,505
+Uma observação merece ser conferida antes de
+
+148
+00:05:46,525 --> 00:05:47,695
+virar conclusão.
+
+149
+00:05:48,773 --> 00:05:51,232
+A percepção e o contexto visual participam
+
+150
+00:05:51,252 --> 00:05:53,976
+dessa ilusão, mas a explicação completa ainda
+
+151
+00:05:53,996 --> 00:05:56,681
+é discutida. Podemos reconhecer isso.
+
+152
+00:05:56,836 --> 00:05:58,681
+Para o efeito da Lua acompanhando o
+
+153
+00:05:58,701 --> 00:06:01,172
+carro, a geometria da distância explica o
+
+154
+00:06:01,192 --> 00:06:03,314
+mecanismo. Para a impressão de uma Lua
+
+155
+00:06:03,334 --> 00:06:06,022
+gigante no horizonte, não precisamos fingir que
+
+156
+00:06:06,042 --> 00:06:07,644
+toda a investigação terminou.
+
+157
+00:06:07,799 --> 00:06:10,102
+A ciência também avança quando uma pergunta
+
+158
+00:06:10,122 --> 00:06:11,278
+permanece aberta.
+
+159
+00:06:12,357 --> 00:06:14,622
+Agora vem a parte mais surpreendente:
+
+160
+00:06:14,693 --> 00:06:16,323
+aquela experiência com o lápis ajuda a
+
+161
+00:06:16,343 --> 00:06:18,922
+entender como medimos distâncias no espaço.
+
+162
+00:06:19,089 --> 00:06:21,900
+Para observar estrelas, nossos dois olhos estão
+
+163
+00:06:21,920 --> 00:06:25,658
+próximos demais. Astrônomos usam posições diferentes da
+
+164
+00:06:25,678 --> 00:06:27,561
+Terra em sua órbita ao redor do
+
+165
+00:06:27,581 --> 00:06:29,642
+Sol como pontos de observação.
+
+166
+00:06:29,797 --> 00:06:32,234
+A mudança aparente é minúscula, mas instrumentos
+
+167
+00:06:32,254 --> 00:06:34,920
+precisos conseguem medi-la em relação a estrelas
+
+168
+00:06:34,940 --> 00:06:36,278
+mais distantes.
+
+169
+00:06:37,357 --> 00:06:38,950
+Sabendo o tamanho do caminho entre os
+
+170
+00:06:38,970 --> 00:06:41,443
+pontos de observação e medindo essa mudança
+
+171
+00:06:41,463 --> 00:06:44,006
+de direção, podemos calcular a distância.
+
+172
+00:06:44,161 --> 00:06:46,465
+É como transformar o passeio do observador
+
+173
+00:06:46,485 --> 00:06:48,946
+numa régua. Missões como a Gaia usaram
+
+174
+00:06:48,966 --> 00:06:51,643
+medições de paralaxe para estudar distâncias de
+
+175
+00:06:51,663 --> 00:06:54,449
+estrelas. Uma ideia que cabe numa sala,
+
+176
+00:06:54,469 --> 00:06:56,569
+com um lápis, alcança objetos que estão
+
+177
+00:06:56,589 --> 00:06:58,445
+muito além do nosso Sistema Solar.
+
+178
+00:06:59,523 --> 00:07:01,163
+Na próxima vez que você estiver como
+
+179
+00:07:01,183 --> 00:07:03,846
+passageiro, compare um objeto perto da estrada
+
+180
+00:07:03,866 --> 00:07:05,552
+com outro bem distante.
+
+181
+00:07:05,706 --> 00:07:08,691
+Observe qual muda de direção mais depressa.
+
+182
+00:07:08,846 --> 00:07:10,460
+Você também pode fazer isso a pé,
+
+183
+00:07:10,530 --> 00:07:13,193
+num lugar tranquilo, usando uma árvore próxima
+
+184
+00:07:13,213 --> 00:07:14,682
+e uma construção ao fundo.
+
+185
+00:07:14,849 --> 00:07:16,910
+A paisagem passa a mostrar pistas sobre
+
+186
+00:07:16,930 --> 00:07:18,195
+o espaço ao seu redor.
+
+187
+00:07:19,273 --> 00:07:20,709
+Se você já olhou para a Lua
+
+188
+00:07:20,729 --> 00:07:22,020
+e sentiu que ela estava indo com
+
+189
+00:07:22,040 --> 00:07:24,580
+você, sua observação tinha uma razão.
+
+190
+00:07:24,735 --> 00:07:26,579
+Você percebeu um contraste real entre a
+
+191
+00:07:26,599 --> 00:07:30,005
+paisagem próxima e um objeto extremamente distante.
+
+192
+00:07:30,160 --> 00:07:32,389
+A interpretação de que ela escolheu acompanhar
+
+193
+00:07:32,409 --> 00:07:34,745
+seu caminho era a parte imaginativa.
+
+194
+00:07:34,899 --> 00:07:37,333
+Entender o mecanismo preserva a beleza dessa
+
+195
+00:07:37,353 --> 00:07:38,570
+companhia no céu.
+
+196
+00:07:39,649 --> 00:07:42,324
+Nossa viagem começou numa janela e terminou
+
+197
+00:07:42,344 --> 00:07:44,402
+numa maneira de medir estrelas.
+
+198
+00:07:44,567 --> 00:07:46,898
+No caminho, bastaram três pistas:
+
+199
+00:07:46,976 --> 00:07:49,043
+quem está observando, quanto essa pessoa se
+
+200
+00:07:49,063 --> 00:07:51,481
+desloca e a distância até o objeto.
+
+201
+00:07:51,647 --> 00:07:53,813
+A Lua parece nos seguir porque, para
+
+202
+00:07:53,833 --> 00:07:56,135
+um pequeno trajeto na Terra, sua direção
+
+203
+00:07:56,155 --> 00:07:58,805
+quase não muda. O carro avança, a
+
+204
+00:07:58,825 --> 00:08:01,488
+paisagem passa, e ela continua visível lá
+
+205
+00:08:01,508 --> 00:08:02,237
+longe.
+
+206
+00:08:03,329 --> 00:08:05,172
+Qual foi a primeira pergunta que você
+
+207
+00:08:05,192 --> 00:08:06,455
+fez olhando para o céu?
+
+208
+00:08:06,620 --> 00:08:09,692
+Escreva nos comentários. Se gostou de viajar
+
+209
+00:08:09,712 --> 00:08:12,251
+com o Pico, inscreva-se no Quase Infinito
+
+210
+00:08:12,271 --> 00:08:14,713
+e acompanhe as próximas descobertas.
+
+211
+00:08:14,879 --> 00:08:17,181
+Tem um universo de perguntas escondido nas
+
+212
+00:08:17,201 --> 00:08:18,808
+coisas que a gente vê todos os
+
+213
+00:08:18,828 --> 00:08:22,608
+dias. Quase Infinito. Cada pergunta abre outra
+
+214
+00:08:22,628 --> 00:08:23,320
+viagem.

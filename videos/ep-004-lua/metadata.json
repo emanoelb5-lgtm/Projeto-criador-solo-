@@ -1,0 +1,130 @@
+{
+  "episode": 4,
+  "channel": "Quase Infinito",
+  "repository": "emanoelb5-lgtm/Projeto-criador-solo-",
+  "title": "Por que o Lua parece seguir você? | Quase Infinito",
+  "alternative_titles": [
+    "A Lua está seguindo você? O segredo da distância",
+    "Por que a Lua acompanha o carro?"
+  ],
+  "summary": "Você olha pela janela do carro e a Lua parece viajar junto. Como ela consegue acompanhar tanta gente ao mesmo tempo?\n\nNeste episódio do Quase Infinito, o Pico investiga a diferença entre postes, árvores, montanhas e a Lua. Um teste com um lápis revela a paralaxe, e essa descoberta nos leva até a medição das distâncias de estrelas.\n\nTambém vamos separar essa sensação da ilusão de uma Lua gigante no horizonte. Filmagens reais, fotografia com movimento e animações em pixel art acompanham a viagem.\n\nQual foi a sua primeira pergunta olhando para o céu? Conte nos comentários e inscreva-se no Quase Infinito.\nCada pergunta abre outra viagem.",
+  "language": "pt-BR",
+  "category_id": "27",
+  "category": "Education",
+  "tags": [
+    "por que a Lua parece seguir você",
+    "Lua",
+    "paralaxe",
+    "ilusão da Lua",
+    "astronomia",
+    "Lua na estrada",
+    "distância da Lua",
+    "Lua no horizonte",
+    "ciência",
+    "curiosidades",
+    "Pico",
+    "Quase Infinito"
+  ],
+  "hashtags": [
+    "#QuaseInfinito",
+    "#Curiosidades",
+    "#Astronomia"
+  ],
+  "voice": "pt-BR-ThalitaMultilingualNeural",
+  "duration_seconds": 504.0,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "thumbnail": "miniatura.jpg",
+  "subtitle_file": "legendas.srt",
+  "subtitle_mode": "burned_in",
+  "embedded_subtitle_streams": 0,
+  "video_filename": "video.mp4",
+  "video_sha256": "50c2528823879f185a0f9298e774bf31a2782f57313039ab6ed63ca7cb90bcdf",
+  "chapters": [
+    {
+      "start_seconds": 0.0,
+      "title": "Por que ela parece nos seguir?"
+    },
+    {
+      "start_seconds": 39.458333333333336,
+      "title": "A paisagem tem camadas"
+    },
+    {
+      "start_seconds": 79.83333333333333,
+      "title": "A distância até a Lua"
+    },
+    {
+      "start_seconds": 102.45833333333333,
+      "title": "Um teste com o lápis"
+    },
+    {
+      "start_seconds": 147.08333333333334,
+      "title": "A geometria da paralaxe"
+    },
+    {
+      "start_seconds": 193.875,
+      "title": "E se a Lua estivesse perto?"
+    },
+    {
+      "start_seconds": 259.6666666666667,
+      "title": "Os movimentos reais do céu"
+    },
+    {
+      "start_seconds": 306.8333333333333,
+      "title": "Por que ela parece gigante?"
+    },
+    {
+      "start_seconds": 328.0,
+      "title": "O teste da câmera"
+    },
+    {
+      "start_seconds": 371.9583333333333,
+      "title": "Como medir distâncias de estrelas"
+    },
+    {
+      "start_seconds": 419.125,
+      "title": "Observe durante uma viagem"
+    },
+    {
+      "start_seconds": 482.9166666666667,
+      "title": "Cada pergunta abre outra viagem"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Rice University / OpenStax — Astronomy 2e, Surveying the Stars",
+      "url": "https://openstax.org/books/astronomy-2e/pages/19-2-surveying-the-stars"
+    },
+    {
+      "name": "ESA — Parallax",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/Parallax"
+    },
+    {
+      "name": "NASA — Moon Facts",
+      "url": "https://science.nasa.gov/moon/facts/"
+    },
+    {
+      "name": "Rice University / OpenStax — Astronomy 2e, Earth and Sky",
+      "url": "https://openstax.org/books/astronomy-2e/pages/4-1-earth-and-sky"
+    },
+    {
+      "name": "NASA — The Moon Illusion",
+      "url": "https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/"
+    },
+    {
+      "name": "ESA — How does Gaia study the Milky Way?",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/How_does_Gaia_study_the_Milky_Way"
+    }
+  ],
+  "credits": "Orhan Pergel — https://www.pexels.com/video/a-car-driving-down-the-road-at-night-19830542/\nArtHouse Studio — https://www.pexels.com/video/moon-at-night-5087791/\nRDNE Stock project — https://www.pexels.com/video/a-car-passing-by-a-forest-with-tall-trees-8552238/\nJoão Pavese — https://www.pexels.com/video/highway-at-night-11607470/\nRyan Fatalla — https://www.pexels.com/video/zooming-in-to-the-moon-4404510/\nRin Gakusho — https://www.pexels.com/video/the-moon-rises-over-the-city-skyline-at-night-18166206/\n宇 梁 — https://www.pexels.com/video/full-moon-against-a-clear-night-sky-33227817/\nAP Vibes — https://www.pexels.com/video/a-car-is-driving-down-a-road-with-trees-in-the-background-28044007/\nEsra Nur Kalay — https://www.pexels.com/photo/night-sky-with-glowing-moon-with-craters-8852549/\n\nFilmagens e fotografia: Pexels, utilizadas sob a Pexels License.\nRoteiro, trilha instrumental, moldura, Pico e animações: produção original do Quase Infinito.\nNarração: voz sintetizada Thalita, em português brasileiro.\nMiniatura: ilustração criada com geração de imagem por IA.\nDiagramas: linhas de visão, órbitas e deslocamentos esquemáticos ampliados, sem escala. A Lua gigante da miniatura é uma ilustração.",
+  "synthetic_content": {
+    "narration": "síntese de voz Thalita",
+    "thumbnail": "ilustração gerada por IA",
+    "graphics": "animações e diagramas originais em código"
+  },
+  "publication_mode": "manual",
+  "description": "Você olha pela janela do carro e a Lua parece viajar junto. Como ela consegue acompanhar tanta gente ao mesmo tempo?\n\nNeste episódio do Quase Infinito, o Pico investiga a diferença entre postes, árvores, montanhas e a Lua. Um teste com um lápis revela a paralaxe, e essa descoberta nos leva até a medição das distâncias de estrelas.\n\nTambém vamos separar essa sensação da ilusão de uma Lua gigante no horizonte. Filmagens reais, fotografia com movimento e animações em pixel art acompanham a viagem.\n\nQual foi a sua primeira pergunta olhando para o céu? Conte nos comentários e inscreva-se no Quase Infinito.\nCada pergunta abre outra viagem.\n\nCAPÍTULOS\n00:00 Por que ela parece nos seguir?\n00:39 A paisagem tem camadas\n01:19 A distância até a Lua\n01:42 Um teste com o lápis\n02:27 A geometria da paralaxe\n03:13 E se a Lua estivesse perto?\n04:19 Os movimentos reais do céu\n05:06 Por que ela parece gigante?\n05:28 O teste da câmera\n06:11 Como medir distâncias de estrelas\n06:59 Observe durante uma viagem\n08:02 Cada pergunta abre outra viagem\n\nFONTES E LEITURA\nRice University / OpenStax — Astronomy 2e, Surveying the Stars\nhttps://openstax.org/books/astronomy-2e/pages/19-2-surveying-the-stars\nESA — Parallax\nhttps://www.esa.int/Science_Exploration/Space_Science/Gaia/Parallax\nNASA — Moon Facts\nhttps://science.nasa.gov/moon/facts/\nRice University / OpenStax — Astronomy 2e, Earth and Sky\nhttps://openstax.org/books/astronomy-2e/pages/4-1-earth-and-sky\nNASA — The Moon Illusion\nhttps://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/\nESA — How does Gaia study the Milky Way?\nhttps://www.esa.int/Science_Exploration/Space_Science/Gaia/How_does_Gaia_study_the_Milky_Way\n\nCRÉDITOS\nOrhan Pergel — https://www.pexels.com/video/a-car-driving-down-the-road-at-night-19830542/\nArtHouse Studio — https://www.pexels.com/video/moon-at-night-5087791/\nRDNE Stock project — https://www.pexels.com/video/a-car-passing-by-a-forest-with-tall-trees-8552238/\nJoão Pavese — https://www.pexels.com/video/highway-at-night-11607470/\nRyan Fatalla — https://www.pexels.com/video/zooming-in-to-the-moon-4404510/\nRin Gakusho — https://www.pexels.com/video/the-moon-rises-over-the-city-skyline-at-night-18166206/\n宇 梁 — https://www.pexels.com/video/full-moon-against-a-clear-night-sky-33227817/\nAP Vibes — https://www.pexels.com/video/a-car-is-driving-down-a-road-with-trees-in-the-background-28044007/\nEsra Nur Kalay — https://www.pexels.com/photo/night-sky-with-glowing-moon-with-craters-8852549/\n\nFilmagens e fotografia: Pexels, utilizadas sob a Pexels License.\nRoteiro, trilha instrumental, moldura, Pico e animações: produção original do Quase Infinito.\nNarração: voz sintetizada Thalita, em português brasileiro.\nMiniatura: ilustração criada com geração de imagem por IA.\nDiagramas: linhas de visão, órbitas e deslocamentos esquemáticos ampliados, sem escala. A Lua gigante da miniatura é uma ilustração.\n\n#QuaseInfinito #Curiosidades #Astronomia\n"
+}

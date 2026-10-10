@@ -25,16 +25,16 @@ Canal de Emanuel Bonfim sobre ciência, história, natureza, tecnologia e as sur
 
 ## Episódio em destaque
 
-**Por que o sabão tira a gordura? — 8min24s, 1080p, 16:9.**
+**Por que a Lua parece seguir você? — 8min24s, 1080p, 16:9.**
 
-![Miniatura do episódio](videos/ep-003-sabao/miniatura.jpg)
+![Miniatura do episódio](videos/ep-004-lua/miniatura.jpg)
 
-Uma investigação da química escondida na pia, com 69 cenas, filmagens reais, fotografia em movimento, diagramas em pixel art, a voz Thalita e o Pico.
+Uma viagem pela astronomia e pela percepção, com 69 cenas, filmagens reais, fotografia em movimento, diagramas em pixel art, a voz Thalita e o Pico.
 
-- [Vídeo e pacote para publicar](videos/ep-003-sabao/PUBLICAR.md)
-- [Título do vídeo](videos/ep-003-sabao/titulo.txt)
-- [Descrição com capítulos, fontes e créditos](videos/ep-003-sabao/descricao.txt)
-- [Todos os episódios](videos/README.md), incluindo os episódios sobre as 24 horas e a geladeira
+- [Vídeo e pacote para publicar](videos/ep-004-lua/PUBLICAR.md)
+- [Título do vídeo](videos/ep-004-lua/titulo.txt)
+- [Descrição com capítulos, fontes e créditos](videos/ep-004-lua/descricao.txt)
+- [Todos os episódios](videos/README.md)
 
 ## Como pedir um vídeo
 
@@ -69,13 +69,13 @@ FFmpeg monta o vídeo no ambiente de produção. GitHub guarda o projeto e as en
 
 ## Utilitários de produção
 
-O episódio atual contém os scripts usados na produção, o roteiro por cena, as referências das mídias e as versões das dependências em [producao](videos/ep-003-sabao/producao/README.md).
+O episódio atual contém os scripts usados na produção, o roteiro por cena, as referências das mídias e as versões das dependências em [producao](videos/ep-004-lua/producao/README.md).
 
-    python -m pip install -r videos/ep-003-sabao/producao/requirements.txt
-    python videos/ep-003-sabao/producao/prepare_media.py
-    python videos/ep-003-sabao/producao/prepare_voice.py
-    python videos/ep-003-sabao/producao/render.py --workers 3
-    python videos/ep-003-sabao/producao/package.py
+    python -m pip install -r videos/ep-004-lua/producao/requirements.txt
+    python videos/ep-004-lua/producao/prepare_media.py
+    python videos/ep-004-lua/producao/prepare_voice.py
+    python videos/ep-004-lua/producao/render.py --workers 3
+    python videos/ep-004-lua/producao/package.py
 
 A renderização usa FFmpeg, fontes DejaVu e acesso à internet para baixar as mídias e sintetizar a voz. A conferência geral da entrega continua disponível em scripts/package_episode.py. O padrão de 24 fps acompanha o vídeo de referência aprovado; a tolerância de duração é de 30 segundos em torno de oito minutos. O limite de envio mantém margem abaixo do limite de arquivos do GitHub e preserva a qualidade do MP4.
 

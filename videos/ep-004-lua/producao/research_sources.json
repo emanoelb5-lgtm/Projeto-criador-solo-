@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Rice University / OpenStax — Astronomy 2e, Surveying the Stars",
+    "url": "https://openstax.org/books/astronomy-2e/pages/19-2-surveying-the-stars",
+    "topics": [
+      "mudança aparente da direção com o ponto de observação",
+      "menor paralaxe para objetos mais distantes"
+    ],
+    "blocks": [
+      2,
+      3,
+      7,
+      8,
+      9,
+      10,
+      11,
+      19,
+      20,
+      21
+    ]
+  },
+  {
+    "name": "ESA — Parallax",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/Parallax",
+    "topics": [
+      "experiência alternando olhos e distância do objeto",
+      "órbita da Terra como base para medir distâncias"
+    ],
+    "blocks": [
+      5,
+      6,
+      17
+    ]
+  },
+  {
+    "name": "NASA — Moon Facts",
+    "url": "https://science.nasa.gov/moon/facts/",
+    "topics": [
+      "distância média de 384.400 km",
+      "aproximadamente 30 diâmetros terrestres",
+      "movimento orbital da Lua"
+    ],
+    "blocks": [
+      4,
+      12
+    ]
+  },
+  {
+    "name": "Rice University / OpenStax — Astronomy 2e, Earth and Sky",
+    "url": "https://openstax.org/books/astronomy-2e/pages/4-1-earth-and-sky",
+    "topics": [
+      "rotação terrestre e movimento aparente do céu",
+      "comparação entre observações ao longo de uma noite"
+    ],
+    "blocks": [
+      12,
+      13
+    ]
+  },
+  {
+    "name": "NASA — The Moon Illusion",
+    "url": "https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/",
+    "topics": [
+      "ilusão do tamanho da Lua no horizonte",
+      "comparação fotográfica com o mesmo zoom",
+      "ausência de explicação completa consensual"
+    ],
+    "blocks": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "name": "ESA — How does Gaia study the Milky Way?",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/How_does_Gaia_study_the_Milky_Way",
+    "topics": [
+      "medições de paralaxe em missões de astronomia",
+      "distinção entre movimento próprio e paralaxe"
+    ],
+    "blocks": [
+      17,
+      18
+    ]
+  }
+]

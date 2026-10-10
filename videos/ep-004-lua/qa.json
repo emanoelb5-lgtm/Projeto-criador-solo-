@@ -1,0 +1,35 @@
+{
+  "status": "technically_validated",
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 24.0,
+    "duration_seconds": 504.0,
+    "codec": "h264",
+    "size_bytes": 25989889
+  },
+  "audio": {
+    "codec": "aac",
+    "sample_rate": 48000,
+    "channels": 2,
+    "integrated_loudness_lufs": -13.7,
+    "true_peak_dbtp": -2.1,
+    "loudness_range_lu": 2.3
+  },
+  "voice": "pt-BR-ThalitaMultilingualNeural",
+  "thumbnail_size": [
+    1920,
+    1080
+  ],
+  "subtitle_cues": 214,
+  "chapters": 12,
+  "full_decode": "passed",
+  "subtitle_mode": "burned_in",
+  "embedded_subtitle_streams": 0,
+  "youtube_upload": "manual",
+  "sha256": "50c2528823879f185a0f9298e774bf31a2782f57313039ab6ed63ca7cb90bcdf",
+  "video_frames": 12096,
+  "shots": 69,
+  "visual_review": "reviewed contact sheet and caption layout",
+  "research_review": "primary sources and schematic distinctions checked"
+}
