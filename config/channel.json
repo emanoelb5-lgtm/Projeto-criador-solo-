@@ -17,8 +17,8 @@
     "width": 1920,
     "height": 1080,
     "aspect_ratio": "16:9",
-    "fps": 30,
-    "duration_tolerance_seconds": 15
+    "fps": 24,
+    "duration_tolerance_seconds": 30
   },
   "voice": {
     "engine": "edge_tts",
@@ -35,7 +35,7 @@
     "episodes_directory": "videos",
     "publication_by": "user",
     "max_git_file_bytes": 99614720,
-    "max_video_file_bytes": 12000000
+    "max_video_file_bytes": 95000000
   },
   "schedule": {
     "enabled": false,
@@ -81,4 +81,3 @@
     "channel_description": "Uma pergunta simples pode levar muito longe.\n\nNo Quase Infinito, exploramos ciência, história, natureza, tecnologia e as surpresas escondidas no cotidiano. Do objeto que você usa todos os dias aos acontecimentos que mudaram o mundo, cada vídeo é uma viagem para olhar o conhecido com outros olhos.\n\nImagens reais, animações em pixel art e a companhia do Pico, nosso pequeno explorador voador, ajudam a transformar perguntas em descobertas.\n\nSe você gosta de entender como as coisas funcionam, de onde vieram e por que fazem diferença, venha explorar com a gente.\n\nCada pergunta abre outra viagem."
   }
 }
-

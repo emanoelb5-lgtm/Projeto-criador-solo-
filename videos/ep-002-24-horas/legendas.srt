@@ -1,0 +1,844 @@
+1
+00:00:00,398 --> 00:00:03,328
+Seu despertador toca. Você olha a hora,
+
+2
+00:00:03,348 --> 00:00:05,397
+calcula quanto tempo ainda tem e começa
+
+3
+00:00:05,417 --> 00:00:07,539
+mais um dia. Mas o Pico encontrou
+
+4
+00:00:07,559 --> 00:00:09,501
+uma pergunta escondida nesse gesto:
+
+5
+00:00:09,533 --> 00:00:11,357
+quem decidiu que um dia teria vinte
+
+6
+00:00:11,377 --> 00:00:13,474
+e quatro horas? Por que não dez?
+
+7
+00:00:13,625 --> 00:00:16,722
+Ou cem? A resposta mistura céu, civilizações
+
+8
+00:00:16,742 --> 00:00:18,994
+antigas e máquinas que aprenderam a contar
+
+9
+00:00:19,014 --> 00:00:19,862
+o invisível.
+
+10
+00:00:20,940 --> 00:00:22,969
+A Terra gira, o Sol aparece e
+
+11
+00:00:22,989 --> 00:00:25,803
+desaparece, e esse ciclo organiza a nossa
+
+12
+00:00:25,823 --> 00:00:28,109
+vida. Só que a natureza não desenhou
+
+13
+00:00:28,129 --> 00:00:30,053
+vinte e quatro divisões no céu.
+
+14
+00:00:30,214 --> 00:00:33,200
+Nós desenhamos. Existe uma diferença entre o
+
+15
+00:00:33,220 --> 00:00:35,445
+fenômeno que queremos acompanhar e a régua
+
+16
+00:00:35,465 --> 00:00:36,911
+que usamos para medi-lo.
+
+17
+00:00:37,084 --> 00:00:39,266
+Para descobrir de onde veio essa régua,
+
+18
+00:00:39,378 --> 00:00:41,487
+vamos voltar milhares de anos.
+
+19
+00:00:42,564 --> 00:00:45,104
+Imagine tentar marcar um encontro sem celular,
+
+20
+00:00:45,172 --> 00:00:46,890
+sem relógio de pulso e sem uma
+
+21
+00:00:46,910 --> 00:00:48,259
+torre anunciando a hora.
+
+22
+00:00:48,410 --> 00:00:50,164
+Você poderia combinar algo como:
+
+23
+00:00:50,256 --> 00:00:51,998
+depois que o Sol subir, ou quando
+
+24
+00:00:52,018 --> 00:00:53,283
+a sombra chegar até ali.
+
+25
+00:00:53,435 --> 00:00:56,129
+Observar o céu oferecia referências.
+
+26
+00:00:56,280 --> 00:00:58,820
+E transformar essas referências em marcas ajudava
+
+27
+00:00:58,840 --> 00:01:01,820
+a organizar tarefas, cerimônias e encontros.
+
+28
+00:01:02,898 --> 00:01:05,683
+No Egito antigo encontramos uma parte fundamental
+
+29
+00:01:05,703 --> 00:01:07,823
+dessa história: a divisão do período claro
+
+30
+00:01:07,843 --> 00:01:09,404
+em doze partes e da noite em
+
+31
+00:01:09,424 --> 00:01:11,757
+outras doze. Doze mais doze:
+
+32
+00:01:11,801 --> 00:01:13,897
+vinte e quatro. Parece o nosso dia,
+
+33
+00:01:14,012 --> 00:01:16,346
+certo? O Pico já ia comemorar a
+
+34
+00:01:16,366 --> 00:01:18,782
+descoberta. Mas tem um detalhe que muda
+
+35
+00:01:18,802 --> 00:01:21,445
+completamente o significado da palavra hora.
+
+36
+00:01:22,534 --> 00:01:24,728
+Essas horas não precisavam ter a duração
+
+37
+00:01:24,748 --> 00:01:27,155
+fixa que conhecemos. Pense num dia com
+
+38
+00:01:27,175 --> 00:01:29,368
+mais tempo de luz, dividido em doze
+
+39
+00:01:29,388 --> 00:01:31,914
+partes. Cada parte fica maior.
+
+40
+00:01:32,066 --> 00:01:34,401
+Num dia com menos luz, fica menor.
+
+41
+00:01:34,564 --> 00:01:36,793
+A mesma quantidade de fatias, mas uma
+
+42
+00:01:36,813 --> 00:01:38,483
+pizza de tamanho diferente.
+
+43
+00:01:38,634 --> 00:01:41,267
+As horas acompanhavam as estações, em vez
+
+44
+00:01:41,287 --> 00:01:42,362
+de ignorá-las.
+
+45
+00:01:43,439 --> 00:01:45,903
+Durante o dia, a sombra podia funcionar
+
+46
+00:01:45,923 --> 00:01:48,316
+como ponteiro. Conforme o Sol mudava de
+
+47
+00:01:48,336 --> 00:01:50,788
+posição no céu, ela se deslocava sobre
+
+48
+00:01:50,808 --> 00:01:52,915
+marcas. A ideia é bonita:
+
+49
+00:01:52,971 --> 00:01:54,698
+deixar o mundo escrever a passagem do
+
+50
+00:01:54,718 --> 00:01:57,515
+tempo. Mas uma sombra depende de luz.
+
+51
+00:01:57,666 --> 00:01:59,404
+E quando o céu fica encoberto?
+
+52
+00:01:59,555 --> 00:02:00,926
+E quando chega a noite?
+
+53
+00:02:01,100 --> 00:02:03,612
+Era preciso procurar outras soluções.
+
+54
+00:02:04,689 --> 00:02:07,347
+As estrelas ajudavam a acompanhar a noite.
+
+55
+00:02:07,498 --> 00:02:09,895
+Outro caminho era observar água entrando ou
+
+56
+00:02:09,915 --> 00:02:11,430
+saindo de um recipiente.
+
+57
+00:02:11,581 --> 00:02:13,643
+Em vez de esperar uma sombra avançar,
+
+58
+00:02:13,688 --> 00:02:15,500
+você esperava o nível mudar.
+
+59
+00:02:15,652 --> 00:02:18,179
+Esses relógios de água aparecem em diferentes
+
+60
+00:02:18,199 --> 00:02:21,297
+sociedades antigas. Agora o tempo podia ganhar
+
+61
+00:02:21,317 --> 00:02:23,654
+marcas dentro de um objeto, mesmo sem
+
+62
+00:02:23,674 --> 00:02:25,237
+o Sol iluminando aquele lugar.
+
+63
+00:02:26,314 --> 00:02:28,412
+Só que medir bem exige controlar o
+
+64
+00:02:28,432 --> 00:02:30,459
+que se repete. A água pode correr
+
+65
+00:02:30,479 --> 00:02:32,696
+de maneira diferente conforme as condições do
+
+66
+00:02:32,716 --> 00:02:35,326
+recipiente. A sombra muda com o céu
+
+67
+00:02:35,346 --> 00:02:37,765
+e a estação. Cada solução trazia uma
+
+68
+00:02:37,785 --> 00:02:40,228
+pergunta nova. A história dos relógios é
+
+69
+00:02:40,248 --> 00:02:42,834
+também essa busca: encontrar um movimento cada
+
+70
+00:02:42,854 --> 00:02:44,857
+vez mais regular para comparar com os
+
+71
+00:02:44,877 --> 00:02:46,153
+outros movimentos.
+
+72
+00:02:47,231 --> 00:02:49,530
+Outra herança antiga entra nessa história:
+
+73
+00:02:49,586 --> 00:02:51,445
+contar em grupos de sessenta.
+
+74
+00:02:51,596 --> 00:02:54,656
+Sistemas desse tipo foram usados na Mesopotâmia.
+
+75
+00:02:54,819 --> 00:02:56,583
+E sessenta tem uma vantagem que podemos
+
+76
+00:02:56,603 --> 00:03:00,138
+testar: divide direitinho por dois, três, quatro,
+
+77
+00:03:00,159 --> 00:03:03,326
+cinco e seis. Frações ficam mais fáceis.
+
+78
+00:03:03,501 --> 00:03:05,728
+Essa tradição matemática ajuda a explicar por
+
+79
+00:03:05,748 --> 00:03:07,726
+que ainda dividimos horas e minutos em
+
+80
+00:03:07,746 --> 00:03:09,070
+sessenta partes.
+
+81
+00:03:10,148 --> 00:03:12,480
+Observe o relógio: vinte e quatro horas,
+
+82
+00:03:12,500 --> 00:03:15,273
+sessenta minutos por hora, sessenta segundos por
+
+83
+00:03:15,293 --> 00:03:17,851
+minuto. Fazendo as contas, um dia de
+
+84
+00:03:17,871 --> 00:03:19,396
+vinte e quatro horas tem oitenta e
+
+85
+00:03:19,416 --> 00:03:21,582
+seis mil e quatrocentos segundos.
+
+86
+00:03:21,745 --> 00:03:24,505
+Os números parecem naturais porque crescemos com
+
+87
+00:03:24,525 --> 00:03:27,666
+eles. Mas esse conjunto reúne escolhas transmitidas
+
+88
+00:03:27,686 --> 00:03:30,221
+e aperfeiçoadas por muita gente, ao longo
+
+89
+00:03:30,241 --> 00:03:31,195
+de muito tempo.
+
+90
+00:03:32,285 --> 00:03:35,145
+Com os relógios mecânicos, pesos, engrenagens e
+
+91
+00:03:35,165 --> 00:03:37,466
+mecanismos de controle passaram a organizar o
+
+92
+00:03:37,486 --> 00:03:40,668
+movimento. Uma máquina podia marcar intervalos sem
+
+93
+00:03:40,688 --> 00:03:43,250
+precisar acompanhar diretamente uma sombra.
+
+94
+00:03:43,402 --> 00:03:45,560
+Mais tarde, o pêndulo trouxe um ritmo
+
+95
+00:03:45,580 --> 00:03:48,297
+muito mais regular. Imagine a diferença:
+
+96
+00:03:48,377 --> 00:03:50,904
+uma hora com duração constante, repetida pela
+
+97
+00:03:50,924 --> 00:03:52,618
+máquina, em vez de uma fatia que
+
+98
+00:03:52,638 --> 00:03:54,653
+cresce ou encolhe com a estação.
+
+99
+00:03:55,731 --> 00:03:57,505
+Quando uma cidade compartilhava o som de
+
+100
+00:03:57,525 --> 00:03:59,953
+um relógio, mais pessoas podiam combinar suas
+
+101
+00:03:59,973 --> 00:04:02,187
+atividades pela mesma referência.
+
+102
+00:04:02,350 --> 00:04:04,648
+Só que ter relógios melhores não resolvia
+
+103
+00:04:04,668 --> 00:04:07,012
+tudo. Cada lugar ainda podia seguir seu
+
+104
+00:04:07,032 --> 00:04:09,389
+próprio horário, ligado ao Sol local.
+
+105
+00:04:09,540 --> 00:04:12,146
+Duas cidades podiam olhar para relógios funcionando
+
+106
+00:04:12,166 --> 00:04:15,355
+bem e, mesmo assim, encontrar horas diferentes.
+
+107
+00:04:15,518 --> 00:04:18,195
+O problema agora era combinar as réguas.
+
+108
+00:04:19,273 --> 00:04:21,986
+No século dezenove, as ferrovias tornaram essa
+
+109
+00:04:22,006 --> 00:04:24,001
+diferença difícil de ignorar.
+
+110
+00:04:24,175 --> 00:04:27,231
+Como organizar chegadas, partidas e conexões se
+
+111
+00:04:27,251 --> 00:04:29,001
+cada cidade usa uma hora?
+
+112
+00:04:29,174 --> 00:04:32,450
+Na Grã-Bretanha, companhias ferroviárias adotaram o
+horário
+
+113
+00:04:32,470 --> 00:04:35,354
+de Greenwich, e sinais enviados por telégrafo
+
+114
+00:04:35,374 --> 00:04:37,284
+ajudaram a espalhar a referência.
+
+115
+00:04:37,445 --> 00:04:39,398
+O relógio deixou de ser apenas uma
+
+116
+00:04:39,418 --> 00:04:42,093
+máquina local. Virou também uma rede de
+
+117
+00:04:42,113 --> 00:04:43,153
+coordenação.
+
+118
+00:04:44,231 --> 00:04:46,482
+Os fusos horários levam essa ideia para
+
+119
+00:04:46,502 --> 00:04:48,693
+uma escala maior. Não fazem o Sol
+
+120
+00:04:48,713 --> 00:04:50,654
+nascer ao mesmo tempo em todos os
+
+121
+00:04:50,674 --> 00:04:53,400
+lugares. Organizam como nomeamos a hora em
+
+122
+00:04:53,420 --> 00:04:56,503
+regiões diferentes. Enquanto alguém começa a manhã,
+
+123
+00:04:56,583 --> 00:04:58,274
+outra pessoa termina o dia.
+
+124
+00:04:58,425 --> 00:04:59,820
+O instante é o mesmo.
+
+125
+00:04:59,971 --> 00:05:01,912
+O número mostrado no relógio depende da
+
+126
+00:05:01,932 --> 00:05:03,862
+referência usada naquele lugar.
+
+127
+00:05:04,939 --> 00:05:07,236
+Tudo resolvido? Ainda não.
+
+128
+00:05:07,387 --> 00:05:08,899
+Lembra que a Terra gira?
+
+129
+00:05:09,050 --> 00:05:11,026
+Uma volta em relação às estrelas leva
+
+130
+00:05:11,046 --> 00:05:12,642
+cerca de vinte e três horas e
+
+131
+00:05:12,662 --> 00:05:14,211
+cinquenta e seis minutos.
+
+132
+00:05:14,373 --> 00:05:16,944
+Mas esperamos aproximadamente vinte e quatro horas
+
+133
+00:05:16,964 --> 00:05:18,963
+para o Sol voltar à mesma posição
+
+134
+00:05:18,983 --> 00:05:21,661
+no céu. O Pico encontrou dois relógios
+
+135
+00:05:21,681 --> 00:05:24,227
+no mesmo planeta. De onde aparecem esses
+
+136
+00:05:24,247 --> 00:05:25,403
+quatro minutos?
+
+137
+00:05:26,481 --> 00:05:28,362
+A Terra faz duas coisas ao mesmo
+
+138
+00:05:28,382 --> 00:05:30,181
+tempo: gira em torno de si e
+
+139
+00:05:30,201 --> 00:05:32,427
+avança na órbita ao redor do Sol.
+
+140
+00:05:32,589 --> 00:05:34,233
+Quando completa uma volta em relação às
+
+141
+00:05:34,253 --> 00:05:36,242
+estrelas, ela já saiu um pouco do
+
+142
+00:05:36,262 --> 00:05:38,583
+lugar onde estava. Para voltar a apontar
+
+143
+00:05:38,603 --> 00:05:40,508
+para o Sol da mesma maneira, precisa
+
+144
+00:05:40,528 --> 00:05:42,100
+girar um pouquinho mais.
+
+145
+00:05:42,251 --> 00:05:45,903
+Esse giro extra leva aproximadamente quatro minutos.
+
+146
+00:05:46,981 --> 00:05:49,351
+Por isso precisamos dizer qual referência estamos
+
+147
+00:05:49,371 --> 00:05:52,289
+usando. O dia sideral acompanha a rotação
+
+148
+00:05:52,309 --> 00:05:53,822
+em relação às estrelas.
+
+149
+00:05:53,974 --> 00:05:56,094
+O dia solar acompanha o retorno do
+
+150
+00:05:56,114 --> 00:05:57,866
+Sol. E as vinte e quatro horas
+
+151
+00:05:57,886 --> 00:05:59,983
+do nosso cotidiano seguem o dia solar
+
+152
+00:06:00,003 --> 00:06:02,849
+médio. Médio, porque os dias solares reais
+
+153
+00:06:02,869 --> 00:06:04,347
+variam ao longo do ano.
+
+154
+00:06:04,498 --> 00:06:06,702
+Uma régua constante torna a vida muito
+
+155
+00:06:06,722 --> 00:06:07,570
+mais prática.
+
+156
+00:06:08,671 --> 00:06:10,804
+A busca por regularidade continuou.
+
+157
+00:06:10,967 --> 00:06:13,612
+Em muitos relógios eletrônicos, um pequeno cristal
+
+158
+00:06:13,632 --> 00:06:15,598
+de quartzo vibra num circuito.
+
+159
+00:06:15,749 --> 00:06:18,477
+A eletrônica conta essas vibrações e transforma
+
+160
+00:06:18,497 --> 00:06:20,249
+o ritmo em marcação de tempo.
+
+161
+00:06:20,401 --> 00:06:21,856
+É a mesma ideia que atravessa a
+
+162
+00:06:21,876 --> 00:06:24,520
+nossa viagem: escolher algo que se repete
+
+163
+00:06:24,540 --> 00:06:26,578
+e contar. Só que o movimento agora
+
+164
+00:06:26,598 --> 00:06:28,398
+é pequeno demais para acompanhar com os
+
+165
+00:06:28,418 --> 00:06:29,112
+olhos.
+
+166
+00:06:30,189 --> 00:06:32,155
+E quando precisamos de uma referência ainda
+
+167
+00:06:32,175 --> 00:06:35,283
+mais precisa? Entram os relógios atômicos.
+
+168
+00:06:35,434 --> 00:06:37,817
+Eles usam uma propriedade dos átomos para
+
+169
+00:06:37,837 --> 00:06:40,266
+estabilizar a frequência que marca o tempo.
+
+170
+00:06:40,429 --> 00:06:43,097
+Isso não significa um átomo minúsculo empurrando
+
+171
+00:06:43,117 --> 00:06:46,011
+ponteiros. Significa comparar um sinal com uma
+
+172
+00:06:46,031 --> 00:06:48,497
+referência da natureza e corrigir o ritmo
+
+173
+00:06:48,517 --> 00:06:51,280
+do relógio. O segredo está na estabilidade
+
+174
+00:06:51,300 --> 00:06:52,362
+dessa comparação.
+
+175
+00:06:53,439 --> 00:06:55,526
+Desde mil novecentos e sessenta e sete,
+
+176
+00:06:55,571 --> 00:06:57,551
+a definição do segundo usa uma frequência
+
+177
+00:06:57,571 --> 00:06:59,563
+específica do césio cento e trinta e
+
+178
+00:06:59,583 --> 00:07:01,706
+três. São mais de nove bilhões de
+
+179
+00:07:01,726 --> 00:07:03,170
+períodos em um segundo.
+
+180
+00:07:03,321 --> 00:07:06,135
+A unidade básica ganhou uma definição independente
+
+181
+00:07:06,155 --> 00:07:07,921
+da rotação diária da Terra.
+
+182
+00:07:08,072 --> 00:07:10,731
+E, a partir dela, construímos minutos e
+
+183
+00:07:10,751 --> 00:07:13,195
+horas com duração fixa e comparável.
+
+184
+00:07:14,285 --> 00:07:16,348
+Essa precisão participa da sua vida de
+
+185
+00:07:16,368 --> 00:07:20,228
+formas pouco visíveis. No GPS, sinais enviados
+
+186
+00:07:20,248 --> 00:07:22,882
+por satélites carregam informação de tempo.
+
+187
+00:07:23,045 --> 00:07:24,941
+O receptor usa o tempo de viagem
+
+188
+00:07:24,961 --> 00:07:27,202
+desses sinais para calcular a posição.
+
+189
+00:07:27,366 --> 00:07:30,238
+Relógios atômicos nos satélites ajudam a manter
+
+190
+00:07:30,258 --> 00:07:33,083
+essa referência. Encontrar um endereço no celular
+
+191
+00:07:33,103 --> 00:07:35,344
+depende, em parte, de saber medir o
+
+192
+00:07:35,364 --> 00:07:36,570
+tempo muito bem.
+
+193
+00:07:37,649 --> 00:07:39,651
+Então, quem decidiu que o dia tem
+
+194
+00:07:39,671 --> 00:07:40,906
+vinte e quatro horas?
+
+195
+00:07:41,067 --> 00:07:42,860
+A resposta não cabe em um único
+
+196
+00:07:42,880 --> 00:07:46,032
+nome. A divisão antiga, a matemática, os
+
+197
+00:07:46,052 --> 00:07:48,862
+mecanismos, os acordos para coordenar lugares e
+
+198
+00:07:48,882 --> 00:07:51,895
+as definições científicas se encaixaram aos poucos.
+
+199
+00:07:52,069 --> 00:07:54,077
+A Terra fornece ciclos.
+
+200
+00:07:54,249 --> 00:07:56,545
+Nós escolhemos como dividir esses ciclos e
+
+201
+00:07:56,565 --> 00:07:59,179
+construímos instrumentos para repetir a conta com
+
+202
+00:07:59,199 --> 00:07:59,945
+precisão.
+
+203
+00:08:01,024 --> 00:08:03,158
+Da próxima vez que o despertador tocar,
+
+204
+00:08:03,245 --> 00:08:07,250
+lembre: naquele número existem sombras, estrelas, água,
+
+205
+00:08:07,270 --> 00:08:09,428
+trens, cristais e átomos.
+
+206
+00:08:09,589 --> 00:08:11,729
+O Pico só queria entender um relógio
+
+207
+00:08:11,749 --> 00:08:14,251
+e acabou atravessando milhares de anos.
+
+208
+00:08:14,413 --> 00:08:16,700
+Que outro detalhe da sua rotina esconde
+
+209
+00:08:16,720 --> 00:08:19,142
+uma história assim? Conte nos comentários e
+
+210
+00:08:19,162 --> 00:08:21,001
+acompanhe o Quase Infinito.
+
+211
+00:08:21,162 --> 00:08:23,320
+Cada pergunta abre outra viagem.

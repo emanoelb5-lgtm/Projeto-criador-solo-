@@ -1,0 +1,30 @@
+{
+  "status": "technically_validated",
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 24.0,
+    "duration_seconds": 504.0,
+    "codec": "h264",
+    "size_bytes": 40307477
+  },
+  "audio": {
+    "codec": "aac",
+    "sample_rate": 48000,
+    "channels": 2,
+    "integrated_loudness_lufs": -13.72,
+    "true_peak_dbtp": -2.16,
+    "loudness_range_lu": 2.6
+  },
+  "voice": "pt-BR-ThalitaMultilingualNeural",
+  "thumbnail_size": [
+    1920,
+    1080
+  ],
+  "subtitle_cues": 211,
+  "chapters": 12,
+  "full_decode": "passed",
+  "youtube_upload": "manual",
+  "sha256": "4cb82cc99bb74114a8930250717512f1d9f49e6139236a324ffad8cf0c1ae4a5",
+  "visual_review": "contact sheet and revised clock scenes passed"
+}

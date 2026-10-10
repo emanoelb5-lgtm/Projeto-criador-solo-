@@ -25,13 +25,16 @@ Canal de Emanuel Bonfim sobre ciência, história, natureza, tecnologia e as sur
 
 ## Episódio em destaque
 
-**Como a geladeira mudou o que você come — 8min04s, 1080p, 16:9.**
+**Quem decidiu que o dia tem 24 horas? — 8min24s, 1080p, 16:9.**
 
-O episódio atual combina 69 cenas, filmagens reais, arquivo histórico de 1919, pixel art, voz Thalita, Pico e a moldura do canal.
+![Miniatura do episódio](videos/ep-002-24-horas/miniatura.jpg)
 
-- [Vídeo e pacote atual para publicar](videos/ep-001-geladeira/PUBLICAR.md)
-- [Título do vídeo](videos/ep-001-geladeira/publicacao-quase-infinito/titulo.txt)
-- [Descrição com capítulos e créditos](videos/ep-001-geladeira/publicacao-quase-infinito/descricao.txt)
+Uma viagem dos relógios de sombra aos átomos, com 69 cenas, filmagens reais, fotos de acervos, pixel art, a voz Thalita e o Pico.
+
+- [Vídeo e pacote para publicar](videos/ep-002-24-horas/PUBLICAR.md)
+- [Título do vídeo](videos/ep-002-24-horas/titulo.txt)
+- [Descrição com capítulos, fontes e créditos](videos/ep-002-24-horas/descricao.txt)
+- [Todos os episódios](videos/README.md), incluindo o episódio sobre a geladeira
 
 ## Como pedir um vídeo
 
@@ -66,14 +69,15 @@ FFmpeg monta o vídeo no ambiente de produção. GitHub guarda o projeto e as en
 
 ## Utilitários de produção
 
-    python -m pip install -r requirements-production.txt
-    python scripts/check_setup.py
-    python scripts/generate_narration.py --text-file videos/ep-001-geladeira/narracao.txt --output-dir work/ep-001-geladeira
-    python scripts/assemble_video.py --episode videos/ep-001-geladeira --work-dir work/ep-001-geladeira
-    python scripts/prepare_delivery.py --episode videos/ep-001-geladeira --work-dir work/ep-001-geladeira
-    python scripts/package_episode.py --episode videos/ep-001-geladeira
+O episódio atual contém os scripts usados na produção, o roteiro por cena, as referências das mídias e as versões das dependências em [producao](videos/ep-002-24-horas/producao/README.md).
 
-Os utilitários recebem o roteiro, as imagens e o storyboard preparados pelo assistente. Eles não escolhem pautas nem escrevem roteiros por conta própria.
+    python -m pip install -r videos/ep-002-24-horas/producao/requirements.txt
+    python videos/ep-002-24-horas/producao/prepare_media.py
+    python videos/ep-002-24-horas/producao/prepare_voice.py
+    python videos/ep-002-24-horas/producao/render.py --workers 3
+    python videos/ep-002-24-horas/producao/package.py
+
+A renderização usa FFmpeg, fontes DejaVu e acesso à internet para baixar as mídias e sintetizar a voz. A conferência geral da entrega continua disponível em scripts/package_episode.py. O padrão de 24 fps acompanha o vídeo de referência aprovado; a tolerância de duração é de 30 segundos em torno de oito minutos. O limite de envio mantém margem abaixo do limite de arquivos do GitHub e preserva a qualidade do MP4.
 
 ## Referências técnicas
 
@@ -81,5 +85,6 @@ Os utilitários recebem o roteiro, as imagens e o storyboard preparados pelo ass
 - [Vozes do Microsoft Speech](https://learn.microsoft.com/pt-br/azure/ai-services/speech-service/language-support)
 - [Limites de arquivos no GitHub](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github)
 - [Condições de uso dos GitHub Actions](https://docs.github.com/en/site-policy/github-terms/github-terms-for-additional-products-and-features)
+
 
 

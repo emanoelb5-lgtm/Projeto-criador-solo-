@@ -1,0 +1,128 @@
+{
+  "episode": 2,
+  "channel": "Quase Infinito",
+  "repository": "emanoelb5-lgtm/Projeto-criador-solo-",
+  "title": "Quem decidiu que o dia tem 24 horas? | Quase Infinito",
+  "description": "Por que o dia tem 24 horas? Essa conta nasceu no céu ou foi uma escolha nossa?\n\nNeste episódio do Quase Infinito, o Pico acompanha uma viagem dos relógios de sombra aos átomos. Descubra as horas do Egito antigo, a herança do número 60, o papel dos trens na coordenação dos horários e por que uma volta da Terra em relação às estrelas leva cerca de 23 horas e 56 minutos.\n\nUma pergunta simples revela milhares de anos de história escondidos no seu despertador.\n\nQue outro detalhe da sua rotina esconde uma história assim? Conte nos comentários e inscreva-se no Quase Infinito.\nCada pergunta abre outra viagem.\n\nCAPÍTULOS\n00:00 Quem escolheu 24 horas?\n01:02 O Egito e as doze partes\n01:43 Sombras, estrelas e água\n02:46 Por que sessenta?\n03:31 Engrenagens e pêndulos\n04:18 Trens e horários compartilhados\n05:04 Uma volta não é o mesmo que um dia solar\n06:08 O ritmo do quartzo\n06:29 Relógios atômicos e o segundo\n07:13 O tempo por trás do GPS\n07:37 Quem decidiu, afinal?\n08:00 Cada pergunta abre outra viagem\n\nFONTES E LEITURA\nRoyal Museums Greenwich: divisão do dia\nhttps://www.rmg.co.uk/stories/time/why-12-months-year-seven-days-week-or-60-minutes-hour\nNIST: primeiros relógios\nhttps://www.nist.gov/pml/time-and-frequency-division/popular-links/walk-through-time/walk-through-time-early-clocks\nNASA: dia solar e sideral\nhttps://science.nasa.gov/learn/basics-of-space-flight/chapter2-1/\nNIST: definição do segundo\nhttps://doi.org/10.6028/jres.122.029\nNASA/JPL: relógios atômicos e GPS\nhttps://www.jpl.nasa.gov/news/five-things-to-know-about-nasas-deep-space-atomic-clock/\n\nCRÉDITOS\nRoel Tijskens — https://www.pexels.com/video/a-close-up-shot-of-an-alarm-clock-4197892/\nPixabay — https://www.pexels.com/video/close-up-video-of-a-clock-855782/\nPixabay — https://www.pexels.com/video/time-lapse-video-of-sunrise-855646/\nVladyslav Huivyk — https://www.pexels.com/video/stars-at-night-sky-12607634/\nMahmoud Elmashrahny — https://www.pexels.com/video/clock-tower-in-town-11645112/\nshalender kumar — https://www.pexels.com/video/low-angle-shot-of-train-moving-6616692/\nPixabay — https://www.pexels.com/video/scrolling-through-smartphone-854321/\nThe Instagrapher — https://www.pexels.com/video/pyramids-in-egypt-7532358/\nThe Metropolitan Museum of Art — https://www.metmuseum.org/art/collection/search/321986\nThe Metropolitan Museum of Art — https://www.metmuseum.org/art/collection/search/202011\nThe Metropolitan Museum of Art — https://www.metmuseum.org/art/collection/search/549190\nNIST — https://www.nist.gov/image/f2atomicclockjpg\n\nFilmagens: Pexels, utilizadas sob a Pexels License.\nFotos de objetos: The Met, Open Access / domínio público.\nFoto do relógio NIST-F2: NIST, 2014.\nRoteiro, trilha instrumental, moldura e pixel art: produção original do Quase Infinito.\nNarração: Thalita, em português brasileiro. Miniatura: ilustração gerada por IA.\nDiagramas são esquemáticos; valores de duração são aproximados quando indicados.\n\n#QuaseInfinito #Curiosidades #HistoriaDoTempo\n",
+  "language": "pt-BR",
+  "category_id": "27",
+  "category": "Education",
+  "tags": [
+    "por que o dia tem 24 horas",
+    "24 horas",
+    "história do relógio",
+    "história do tempo",
+    "dia solar",
+    "dia sideral",
+    "Egito antigo",
+    "relógio de água",
+    "relógio atômico",
+    "quartzo",
+    "GPS",
+    "ciência",
+    "curiosidades",
+    "Pico",
+    "Quase Infinito"
+  ],
+  "hashtags": [
+    "#QuaseInfinito",
+    "#Curiosidades",
+    "#HistoriaDoTempo"
+  ],
+  "voice": "pt-BR-ThalitaMultilingualNeural",
+  "duration_seconds": 504.0,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "thumbnail": "miniatura.jpg",
+  "subtitle_file": "legendas.srt",
+  "video_filename": "video.mp4",
+  "video_sha256": "4cb82cc99bb74114a8930250717512f1d9f49e6139236a324ffad8cf0c1ae4a5",
+  "chapters": [
+    {
+      "start_seconds": 0.0,
+      "title": "Quem escolheu 24 horas?"
+    },
+    {
+      "start_seconds": 62.5,
+      "title": "O Egito e as doze partes"
+    },
+    {
+      "start_seconds": 103.04166666666667,
+      "title": "Sombras, estrelas e água"
+    },
+    {
+      "start_seconds": 166.83333333333334,
+      "title": "Por que sessenta?"
+    },
+    {
+      "start_seconds": 211.875,
+      "title": "Engrenagens e pêndulos"
+    },
+    {
+      "start_seconds": 258.875,
+      "title": "Trens e horários compartilhados"
+    },
+    {
+      "start_seconds": 304.5416666666667,
+      "title": "Uma volta não é o mesmo que um dia solar"
+    },
+    {
+      "start_seconds": 368.25,
+      "title": "O ritmo do quartzo"
+    },
+    {
+      "start_seconds": 389.7916666666667,
+      "title": "Relógios atômicos e o segundo"
+    },
+    {
+      "start_seconds": 433.875,
+      "title": "O tempo por trás do GPS"
+    },
+    {
+      "start_seconds": 457.25,
+      "title": "Quem decidiu, afinal?"
+    },
+    {
+      "start_seconds": 480.625,
+      "title": "Cada pergunta abre outra viagem"
+    }
+  ],
+  "synthetic_content": {
+    "narration": "síntese de voz Thalita",
+    "thumbnail": "ilustração gerada por IA",
+    "graphics": "animações e diagramas originais"
+  },
+  "publishing": "Publicação manual por Emanuel; audiência, visibilidade e agendamento são definidos no envio.",
+  "summary": "Por que o dia tem 24 horas? Essa conta nasceu no céu ou foi uma escolha nossa?\n\nNeste episódio do Quase Infinito, o Pico acompanha uma viagem dos relógios de sombra aos átomos. Descubra as horas do Egito antigo, a herança do número 60, o papel dos trens na coordenação dos horários e por que uma volta da Terra em relação às estrelas leva cerca de 23 horas e 56 minutos.\n\nUma pergunta simples revela milhares de anos de história escondidos no seu despertador.\n\nQue outro detalhe da sua rotina esconde uma história assim? Conte nos comentários e inscreva-se no Quase Infinito.\nCada pergunta abre outra viagem.",
+  "credits": "Roel Tijskens — https://www.pexels.com/video/a-close-up-shot-of-an-alarm-clock-4197892/\nPixabay — https://www.pexels.com/video/close-up-video-of-a-clock-855782/\nPixabay — https://www.pexels.com/video/time-lapse-video-of-sunrise-855646/\nVladyslav Huivyk — https://www.pexels.com/video/stars-at-night-sky-12607634/\nMahmoud Elmashrahny — https://www.pexels.com/video/clock-tower-in-town-11645112/\nshalender kumar — https://www.pexels.com/video/low-angle-shot-of-train-moving-6616692/\nPixabay — https://www.pexels.com/video/scrolling-through-smartphone-854321/\nThe Instagrapher — https://www.pexels.com/video/pyramids-in-egypt-7532358/\nThe Metropolitan Museum of Art — https://www.metmuseum.org/art/collection/search/321986\nThe Metropolitan Museum of Art — https://www.metmuseum.org/art/collection/search/202011\nThe Metropolitan Museum of Art — https://www.metmuseum.org/art/collection/search/549190\nNIST — https://www.nist.gov/image/f2atomicclockjpg\n\nFilmagens: Pexels, utilizadas sob a Pexels License.\nFotos de objetos: The Met, Open Access / domínio público.\nFoto do relógio NIST-F2: NIST, 2014.\nRoteiro, trilha instrumental, moldura e pixel art: produção original do Quase Infinito.\nNarração: Thalita, em português brasileiro. Miniatura: ilustração gerada por IA.\nDiagramas são esquemáticos; valores de duração são aproximados quando indicados.",
+  "alternative_titles": [
+    "Por que o dia tem 24 horas? A história escondida no relógio",
+    "24 horas: dos relógios de sombra aos átomos"
+  ],
+  "sources": [
+    {
+      "name": "Royal Museums Greenwich: divisão do dia",
+      "url": "https://www.rmg.co.uk/stories/time/why-12-months-year-seven-days-week-or-60-minutes-hour"
+    },
+    {
+      "name": "NIST: primeiros relógios",
+      "url": "https://www.nist.gov/pml/time-and-frequency-division/popular-links/walk-through-time/walk-through-time-early-clocks"
+    },
+    {
+      "name": "NASA: dia solar e sideral",
+      "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter2-1/"
+    },
+    {
+      "name": "NIST: definição do segundo",
+      "url": "https://doi.org/10.6028/jres.122.029"
+    },
+    {
+      "name": "NASA/JPL: relógios atômicos e GPS",
+      "url": "https://www.jpl.nasa.gov/news/five-things-to-know-about-nasas-deep-space-atomic-clock/"
+    }
+  ],
+  "publication_mode": "manual"
+}

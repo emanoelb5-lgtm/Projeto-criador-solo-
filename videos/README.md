@@ -1,9 +1,10 @@
-# Vídeos do Antes de Ser Normal
+# Vídeos do Quase Infinito
 
-Cada pasta reúne um episódio e os materiais para publicação manual no YouTube.
+Cada pasta reúne um episódio completo e os materiais para publicação manual no YouTube.
 
-| Episódio | Tema | Materiais |
-|---|---|---|
-| 001 | Como a geladeira mudou o que você come | [Abrir pacote de publicação](ep-001-geladeira/PUBLICAR.md) |
+| Episódio | Tema | Duração | Materiais |
+| --- | --- | --- | --- |
+| 002 | Quem decidiu que o dia tem 24 horas? | 8min24s | [Vídeo e pacote de publicação](ep-002-24-horas/PUBLICAR.md) |
+| 001 | Como a geladeira mudou o que você come | 8min04s | [Vídeo e pacote de publicação](ep-001-geladeira/PUBLICAR.md) |
 
-Os arquivos MP4 podem exigir download: o GitHub nem sempre mostra reprodução na página do arquivo.
+Os MP4 podem exigir download; use os links de arquivo bruto indicados em cada entrega.
