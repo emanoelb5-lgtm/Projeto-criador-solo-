@@ -1,0 +1,903 @@
+1
+00:00:00,396 --> 00:00:02,018
+Olha o tamanho desse navio.
+
+2
+00:00:02,180 --> 00:00:05,830
+Aço, motores, contêineres... Agora imagine o Pico
+
+3
+00:00:05,850 --> 00:00:07,415
+soltando um simples prego.
+
+4
+00:00:07,566 --> 00:00:09,089
+Como o objeto menor perde para a
+
+5
+00:00:09,109 --> 00:00:11,612
+água, enquanto o gigante continua flutuando?
+
+6
+00:00:11,751 --> 00:00:13,286
+A resposta começa quando a gente para
+
+7
+00:00:13,306 --> 00:00:14,601
+de olhar só para o peso e
+
+8
+00:00:14,621 --> 00:00:16,987
+investiga o espaço que cada um ocupa.
+
+9
+00:00:18,061 --> 00:00:19,871
+Será que o motor precisa ficar ligado
+
+10
+00:00:19,891 --> 00:00:21,059
+para ele não afundar?
+
+11
+00:00:21,188 --> 00:00:23,109
+Vamos tirar o navio da fotografia e
+
+12
+00:00:23,129 --> 00:00:24,540
+abrir um corte no desenho.
+
+13
+00:00:24,670 --> 00:00:26,592
+O Pico encontrou aço, sim.
+
+14
+00:00:26,732 --> 00:00:28,886
+Mas encontrou também uma enorme região que
+
+15
+00:00:28,906 --> 00:00:30,473
+a água não consegue ocupar.
+
+16
+00:00:30,602 --> 00:00:32,412
+É ali que a investigação muda de
+
+17
+00:00:32,432 --> 00:00:33,112
+direção.
+
+18
+00:00:34,186 --> 00:00:37,105
+Primeira pergunta: pesado significa que vai afundar?
+
+19
+00:00:37,234 --> 00:00:40,583
+Não necessariamente. Compare dois objetos de mesmo
+
+20
+00:00:40,603 --> 00:00:42,423
+tamanho: um bloco de madeira e um
+
+21
+00:00:42,443 --> 00:00:44,817
+bloco de aço. O aço concentra muito
+
+22
+00:00:44,837 --> 00:00:46,238
+mais massa naquele espaço.
+
+23
+00:00:46,367 --> 00:00:48,109
+A relação entre massa e volume se
+
+24
+00:00:48,129 --> 00:00:50,514
+chama densidade. Só que um navio não
+
+25
+00:00:50,534 --> 00:00:52,023
+é um bloco maciço de aço.
+
+26
+00:00:52,153 --> 00:00:53,573
+E tratar os dois como se fossem
+
+27
+00:00:53,593 --> 00:00:55,570
+a mesma coisa esconde o segredo.
+
+28
+00:00:56,645 --> 00:00:59,555
+Precisamos contar estrutura, carga, equipamentos e os
+
+29
+00:00:59,575 --> 00:01:02,508
+espaços internos. O casco mantém boa parte
+
+30
+00:01:02,528 --> 00:01:04,985
+desses espaços protegida da entrada de água.
+
+31
+00:01:05,114 --> 00:01:06,915
+A massa total fica distribuída por um
+
+32
+00:01:06,935 --> 00:01:08,591
+volume externo muito maior do que o
+
+33
+00:01:08,611 --> 00:01:10,058
+volume do aço sozinho.
+
+34
+00:01:10,198 --> 00:01:11,499
+Mas não é um balão empurrando o
+
+35
+00:01:11,519 --> 00:01:13,808
+barco: quem exerce a força de sustentação
+
+36
+00:01:13,828 --> 00:01:14,487
+é a água.
+
+37
+00:01:15,572 --> 00:01:17,050
+Como assim a água empurra?
+
+38
+00:01:17,190 --> 00:01:19,109
+Mas um líquido em repouso exerce pressão
+
+39
+00:01:19,129 --> 00:01:20,561
+sobre as superfícies com que entra em
+
+40
+00:01:20,581 --> 00:01:22,644
+contato. E essa pressão cresce com a
+
+41
+00:01:22,664 --> 00:01:26,257
+profundidade. No desenho, uma caixa está completamente
+
+42
+00:01:26,277 --> 00:01:28,761
+submersa. A água pressiona os lados, a
+
+43
+00:01:28,781 --> 00:01:30,223
+parte de cima e a parte de
+
+44
+00:01:30,243 --> 00:01:32,695
+baixo. Repare agora na diferença entre essas
+
+45
+00:01:32,715 --> 00:01:34,237
+duas últimas regiões.
+
+46
+00:01:35,311 --> 00:01:37,179
+A face de baixo está mais funda.
+
+47
+00:01:37,319 --> 00:01:39,308
+Por isso, recebe uma pressão maior que
+
+48
+00:01:39,328 --> 00:01:40,297
+a face de cima.
+
+49
+00:01:40,438 --> 00:01:42,315
+as forças laterais se compensam, e a
+
+50
+00:01:42,335 --> 00:01:44,368
+diferença entre as forças verticais deixa uma
+
+51
+00:01:44,388 --> 00:01:46,478
+resultante para cima: o empuxo.
+
+52
+00:01:46,607 --> 00:01:48,718
+Um casco curvo muda a distribuição dessas
+
+53
+00:01:48,738 --> 00:01:51,582
+pressões, mas a soma continua produzindo empuxo.
+
+54
+00:01:51,711 --> 00:01:53,356
+Mesmo o prego que afunda recebe essa
+
+55
+00:01:53,376 --> 00:01:55,608
+ajuda: ela apenas não basta para equilibrar
+
+56
+00:01:55,628 --> 00:01:56,320
+seu peso.
+
+57
+00:01:57,395 --> 00:01:59,850
+Imagine retirar a parte submersa do objeto
+
+58
+00:01:59,870 --> 00:02:02,294
+e preencher exatamente aquele espaço com água.
+
+59
+00:02:02,423 --> 00:02:04,357
+O peso dessa água imaginada é igual
+
+60
+00:02:04,377 --> 00:02:06,179
+ao empuxo que atuava no objeto.
+
+61
+00:02:06,309 --> 00:02:08,099
+É o princípio de Arquimedes.
+
+62
+00:02:08,229 --> 00:02:10,263
+Água deslocada significa a água que foi
+
+63
+00:02:10,283 --> 00:02:13,140
+afastada do espaço ocupado pela parte submersa.
+
+64
+00:02:13,269 --> 00:02:15,159
+Não precisa haver uma onda enorme nem
+
+65
+00:02:15,179 --> 00:02:16,570
+um jato saindo do navio.
+
+66
+00:02:17,645 --> 00:02:20,468
+Vamos usar números inventados apenas para entender.
+
+67
+00:02:20,598 --> 00:02:22,699
+Um barco, com tudo dentro, tem massa
+
+68
+00:02:22,719 --> 00:02:25,353
+de dez toneladas. Em água doce, usando
+
+69
+00:02:25,373 --> 00:02:27,352
+a aproximação de mil quilogramas por metro
+
+70
+00:02:27,372 --> 00:02:30,105
+cúbico, ele precisa deslocar dez metros cúbicos
+
+71
+00:02:30,125 --> 00:02:32,094
+de água para flutuar em equilíbrio.
+
+72
+00:02:32,235 --> 00:02:33,825
+É o volume de água afastado pelo
+
+73
+00:02:33,845 --> 00:02:34,570
+conjunto.
+
+74
+00:02:35,646 --> 00:02:37,547
+Na água tranquila, o navio desce um
+
+75
+00:02:37,567 --> 00:02:40,013
+pouco até deslocar água suficiente.
+
+76
+00:02:40,152 --> 00:02:42,511
+Nesse ponto, o empuxo para cima equilibra
+
+77
+00:02:42,531 --> 00:02:43,605
+o peso para baixo.
+
+78
+00:02:43,755 --> 00:02:45,496
+Ele não fica parado porque o empuxo
+
+79
+00:02:45,516 --> 00:02:48,196
+é sempre maior. Flutuar em equilíbrio é
+
+80
+00:02:48,216 --> 00:02:50,524
+justamente esse encontro entre forças.
+
+81
+00:02:50,675 --> 00:02:52,393
+E parte do casco permanece fora da
+
+82
+00:02:52,413 --> 00:02:54,338
+água porque ainda existe volume que não
+
+83
+00:02:54,358 --> 00:02:55,820
+precisou ser submerso.
+
+84
+00:02:56,895 --> 00:02:59,637
+Depois de completamente submerso, ele desloca apenas
+
+85
+00:02:59,657 --> 00:03:01,600
+uma pequena quantidade de água, O peso
+
+86
+00:03:01,620 --> 00:03:02,953
+dessa água é menor que o peso
+
+87
+00:03:02,973 --> 00:03:04,519
+do prego, e ele afunda.
+
+88
+00:03:04,659 --> 00:03:06,492
+Mas, se a mesma quantidade de metal
+
+89
+00:03:06,512 --> 00:03:08,577
+formar um recipiente amplo que mantém água
+
+90
+00:03:08,597 --> 00:03:10,873
+fora do interior, poderá deslocar muito mais
+
+91
+00:03:10,893 --> 00:03:13,204
+água antes de submergir por completo.
+
+92
+00:03:13,344 --> 00:03:15,112
+A forma mudou o resultado.
+
+93
+00:03:16,186 --> 00:03:18,675
+Na simulação ilustrada do Pico, primeiro, uma
+
+94
+00:03:18,695 --> 00:03:20,362
+porção de massa de modelar em forma
+
+95
+00:03:20,382 --> 00:03:23,015
+de bola afunda. Depois, a mesma porção
+
+96
+00:03:23,035 --> 00:03:25,035
+vira uma pequena tigela, sem mudar sua
+
+97
+00:03:25,055 --> 00:03:27,466
+massa. A tigela consegue afastar um volume
+
+98
+00:03:27,486 --> 00:03:29,298
+maior de água sem se encher.
+
+99
+00:03:29,428 --> 00:03:31,517
+Se o formato permitir equilíbrio antes de
+
+100
+00:03:31,537 --> 00:03:33,716
+a borda ser alcançada, ela flutua.
+
+101
+00:03:33,857 --> 00:03:36,190
+Não estamos mostrando um experimento filmado, e
+
+102
+00:03:36,210 --> 00:03:37,778
+sim explicando o mecanismo.
+
+103
+00:03:38,853 --> 00:03:41,210
+E quando o navio recebe mais contêineres?
+
+104
+00:03:41,341 --> 00:03:43,719
+A massa aumenta. Para equilibrar esse peso
+
+105
+00:03:43,739 --> 00:03:46,152
+maior, ele precisa deslocar mais água.
+
+106
+00:03:46,293 --> 00:03:47,884
+O casco então fica mais fundo:
+
+107
+00:03:47,959 --> 00:03:50,082
+aumenta o calado, a distância vertical entre
+
+108
+00:03:50,102 --> 00:03:51,315
+a linha da água e a parte
+
+109
+00:03:51,335 --> 00:03:52,515
+mais baixa do casco.
+
+110
+00:03:52,645 --> 00:03:54,080
+É por isso que carregar um navio
+
+111
+00:03:54,100 --> 00:03:57,222
+exige planejamento; flutuar não significa poder receber
+
+112
+00:03:57,242 --> 00:03:58,445
+peso sem limite.
+
+113
+00:03:59,519 --> 00:04:01,221
+Voltemos à pergunta do começo:
+
+114
+00:04:01,273 --> 00:04:03,640
+se o motor desligar, o cargueiro afunda?
+
+115
+00:04:03,770 --> 00:04:05,039
+Não por esse motivo.
+
+116
+00:04:05,168 --> 00:04:06,947
+Ele pode flutuar atracado.
+
+117
+00:04:07,088 --> 00:04:09,167
+O motor serve para produzir movimento;
+
+118
+00:04:09,219 --> 00:04:11,163
+a sustentação em repouso vem do equilíbrio
+
+119
+00:04:11,183 --> 00:04:12,707
+entre peso e empuxo.
+
+120
+00:04:12,848 --> 00:04:14,925
+Na próxima imagem real, observe a linha
+
+121
+00:04:14,945 --> 00:04:17,334
+da água enquanto o navio permanece praticamente
+
+122
+00:04:17,354 --> 00:04:18,278
+no mesmo lugar.
+
+123
+00:04:19,353 --> 00:04:20,765
+Mas por que um furo pode mudar
+
+124
+00:04:20,785 --> 00:04:23,019
+tudo? Quando a água invade espaços que
+
+125
+00:04:23,039 --> 00:04:25,528
+antes estavam protegidos, o conjunto ganha massa
+
+126
+00:04:25,548 --> 00:04:27,405
+de água, e a condição de flutuação
+
+127
+00:04:27,425 --> 00:04:29,504
+se altera. Se perder a capacidade de
+
+128
+00:04:29,524 --> 00:04:32,024
+manter espaços suficientes fora da água, já
+
+129
+00:04:32,044 --> 00:04:33,756
+não encontra um equilíbrio que preserve a
+
+130
+00:04:33,776 --> 00:04:35,921
+flutuação. O problema não é o aço
+
+131
+00:04:35,941 --> 00:04:37,821
+ter ficado mais pesado de repente;
+
+132
+00:04:37,862 --> 00:04:39,487
+é a água ter ocupado o interior.
+
+133
+00:04:40,561 --> 00:04:41,929
+E existe outra pergunta:
+
+134
+00:04:41,981 --> 00:04:44,202
+um barco que flutua necessariamente fica em
+
+135
+00:04:44,222 --> 00:04:47,585
+pé? Não. Flutuação e estabilidade são questões
+
+136
+00:04:47,605 --> 00:04:50,880
+relacionadas, mas diferentes. A posição da carga
+
+137
+00:04:50,900 --> 00:04:52,577
+e a forma do casco influenciam a
+
+138
+00:04:52,597 --> 00:04:55,062
+resposta à inclinação. O Pico desloca a
+
+139
+00:04:55,082 --> 00:04:57,260
+carga no nosso esquema para lembrar disso.
+
+140
+00:04:57,401 --> 00:04:59,544
+Este desenho é uma ideia visual, não
+
+141
+00:04:59,564 --> 00:05:01,320
+uma simulação de segurança naval.
+
+142
+00:05:02,394 --> 00:05:04,726
+Será que um barco flutua exatamente na
+
+143
+00:05:04,746 --> 00:05:06,347
+mesma altura no rio e no mar?
+
+144
+00:05:06,476 --> 00:05:08,475
+A água salgada costuma ser mais densa
+
+145
+00:05:08,495 --> 00:05:09,431
+que a água doce.
+
+146
+00:05:09,571 --> 00:05:11,527
+O mesmo volume contém mais massa.
+
+147
+00:05:11,657 --> 00:05:13,289
+Isso aumenta o empuxo para um mesmo
+
+148
+00:05:13,309 --> 00:05:15,752
+volume deslocado. Com a mesma carga, o
+
+149
+00:05:15,772 --> 00:05:18,203
+barco pode encontrar equilíbrio deslocando um volume
+
+150
+00:05:18,223 --> 00:05:20,078
+menor, ficando um pouco mais alto na
+
+151
+00:05:20,098 --> 00:05:20,612
+água.
+
+152
+00:05:21,697 --> 00:05:23,762
+Ela depende da densidade da água, que
+
+153
+00:05:23,782 --> 00:05:25,428
+também varia com a temperatura.
+
+154
+00:05:25,568 --> 00:05:27,889
+No esquema, exageramos a mudança de altura
+
+155
+00:05:27,909 --> 00:05:29,477
+para ficar fácil de enxergar.
+
+156
+00:05:29,606 --> 00:05:31,349
+Um exemplo de comparação usa um ovo
+
+157
+00:05:31,369 --> 00:05:33,924
+em recipientes com diferentes concentrações de sal:
+
+158
+00:05:33,965 --> 00:05:35,653
+o líquido mais denso pode sustentar o
+
+159
+00:05:35,673 --> 00:05:38,161
+mesmo objeto com uma parte menor submersa.
+
+160
+00:05:38,291 --> 00:05:40,368
+A densidade do objeto não mudou;
+
+161
+00:05:40,388 --> 00:05:41,445
+a do líquido mudou.
+
+162
+00:05:42,519 --> 00:05:44,662
+Então como um submarino consegue escolher entre
+
+163
+00:05:44,682 --> 00:05:47,402
+flutuar e mergulhar? Ele controla essa relação
+
+164
+00:05:47,422 --> 00:05:49,354
+com tanques de lastro, além de outros
+
+165
+00:05:49,374 --> 00:05:52,072
+sistemas. Quando tanques que continham ar recebem
+
+166
+00:05:52,092 --> 00:05:54,113
+água, muda a condição de flutuação do
+
+167
+00:05:54,133 --> 00:05:56,875
+conjunto. Na animação, o volume externo do
+
+168
+00:05:56,895 --> 00:05:59,381
+casco permanece praticamente igual enquanto a água
+
+169
+00:05:59,401 --> 00:06:00,403
+entra nos tanques.
+
+170
+00:06:01,478 --> 00:06:03,878
+Debaixo da superfície, é possível ajustar a
+
+171
+00:06:03,898 --> 00:06:06,254
+flutuação para aproximar o empuxo do peso:
+
+172
+00:06:06,274 --> 00:06:07,932
+a chamada flutuação neutra.
+
+173
+00:06:08,072 --> 00:06:10,239
+O controle real também considera a distribuição
+
+174
+00:06:10,259 --> 00:06:12,449
+de massas, o movimento e superfícies de
+
+175
+00:06:12,469 --> 00:06:15,646
+controle. Para emergir, ar comprimido pode expulsar
+
+176
+00:06:15,666 --> 00:06:18,622
+água dos tanques principais, favorecendo a subida.
+
+177
+00:06:18,752 --> 00:06:21,352
+Nosso submarino é um modelo simplificado dessa
+
+178
+00:06:21,372 --> 00:06:23,239
+ideia. O que mudou foi o conjunto
+
+179
+00:06:23,259 --> 00:06:24,695
+em relação à água ao redor.
+
+180
+00:06:25,770 --> 00:06:27,576
+Vamos trocar o aço por gelo.
+
+181
+00:06:27,714 --> 00:06:29,433
+Aqui não precisamos de um casco cheio
+
+182
+00:06:29,453 --> 00:06:31,109
+de ar para explicar o principal:
+
+183
+00:06:31,191 --> 00:06:32,646
+o gelo é menos denso que a
+
+184
+00:06:32,666 --> 00:06:35,230
+água líquida. Ele desce até deslocar água
+
+185
+00:06:35,250 --> 00:06:37,769
+suficiente para equilibrar seu peso, deixando uma
+
+186
+00:06:37,789 --> 00:06:39,514
+parte acima da superfície.
+
+187
+00:06:39,653 --> 00:06:42,400
+Navio, prego e gelo obedecem à mesma
+
+188
+00:06:42,420 --> 00:06:45,247
+física, embora cheguem a resultados diferentes por
+
+189
+00:06:45,267 --> 00:06:47,278
+motivos que agora conseguimos separar.
+
+190
+00:06:48,353 --> 00:06:49,541
+O que vemos acima da água é
+
+191
+00:06:49,561 --> 00:06:50,984
+só uma parte da história.
+
+192
+00:06:51,113 --> 00:06:53,975
+Um cargueiro tem casco submerso, espaços internos
+
+193
+00:06:53,995 --> 00:06:55,793
+e uma quantidade de água deslocada que
+
+194
+00:06:55,813 --> 00:06:57,956
+a fotografia não mostra diretamente.
+
+195
+00:06:58,086 --> 00:06:59,983
+O prego parece pequeno e leve, mas
+
+196
+00:07:00,003 --> 00:07:02,101
+é muito denso. Antes de decidir quem
+
+197
+00:07:02,121 --> 00:07:04,395
+vai afundar, a pergunta certa precisa incluir
+
+198
+00:07:04,415 --> 00:07:06,403
+massa, volume e o líquido.
+
+199
+00:07:07,478 --> 00:07:09,157
+Agora um desafio para você.
+
+200
+00:07:09,287 --> 00:07:11,520
+Dois barcos idênticos estão na mesma água
+
+201
+00:07:11,540 --> 00:07:13,463
+tranquila. Um está vazio;
+
+202
+00:07:13,483 --> 00:07:14,807
+o outro recebeu carga.
+
+203
+00:07:14,937 --> 00:07:16,139
+Qual fica mais fundo?
+
+204
+00:07:16,313 --> 00:07:18,847
+Pense um instante. É o carregado.
+
+205
+00:07:18,977 --> 00:07:21,321
+Ele precisa deslocar mais água para equilibrar
+
+206
+00:07:21,341 --> 00:07:23,175
+o peso maior. A diferença está no
+
+207
+00:07:23,195 --> 00:07:25,506
+volume submerso necessário para chegar a esse
+
+208
+00:07:25,526 --> 00:07:26,195
+equilíbrio.
+
+209
+00:07:27,269 --> 00:07:29,954
+O prego, submerso, não desloca água com
+
+210
+00:07:29,974 --> 00:07:31,895
+peso suficiente para sustentá-lo.
+
+211
+00:07:32,035 --> 00:07:34,497
+O navio mantém grandes espaços protegidos e
+
+212
+00:07:34,517 --> 00:07:36,825
+pode deslocar a quantidade de água necessária
+
+213
+00:07:36,845 --> 00:07:38,478
+antes de perder a flutuação.
+
+214
+00:07:38,607 --> 00:07:40,317
+O aço não aprendeu a boiar.
+
+215
+00:07:40,446 --> 00:07:42,432
+A engenharia organizou o mesmo tipo de
+
+216
+00:07:42,452 --> 00:07:44,161
+material de uma maneira que aproveita o
+
+217
+00:07:44,181 --> 00:07:46,887
+empuxo. Agora você consegue enxergar a água
+
+218
+00:07:46,907 --> 00:07:48,862
+trabalhando debaixo daquele gigante.
+
+219
+00:07:49,937 --> 00:07:51,499
+Da próxima vez que um barco passar
+
+220
+00:07:51,519 --> 00:07:53,319
+no rio, repare onde está a linha
+
+221
+00:07:53,339 --> 00:07:55,151
+da água. Ela dá uma pista sobre
+
+222
+00:07:55,171 --> 00:07:56,687
+a relação entre o que ele carrega
+
+223
+00:07:56,707 --> 00:07:58,504
+e o volume que precisa deslocar.
+
+224
+00:07:58,642 --> 00:08:00,761
+Qual pergunta do cotidiano você quer investigar
+
+225
+00:08:00,781 --> 00:08:02,399
+com a gente? Este é o Quase
+
+226
+00:08:02,419 --> 00:08:05,320
+Infinito. Cada pergunta abre outra viagem.

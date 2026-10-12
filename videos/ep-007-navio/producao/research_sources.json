@@ -1,0 +1,106 @@
+[
+  {
+    "name": "OpenStax — Archimedes’ Principle",
+    "url": "https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle",
+    "topics": [
+      "empuxo",
+      "água deslocada",
+      "flutuação e afundamento"
+    ],
+    "blocks": [
+      0,
+      1,
+      6,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      21,
+      22
+    ],
+    "verification": "Conferido o equilíbrio entre peso e empuxo e o uso do volume submerso. Roteiro, números e desenhos próprios; nenhuma figura ou trecho do livro foi reutilizado."
+  },
+  {
+    "name": "OpenStax — Variation of Pressure with Depth in a Fluid",
+    "url": "https://openstax.org/books/college-physics-2e/pages/11-4-variation-of-pressure-with-depth-in-a-fluid",
+    "topics": [
+      "pressão hidrostática",
+      "profundidade"
+    ],
+    "blocks": [
+      4,
+      5
+    ],
+    "verification": "Pressão aumenta com profundidade no líquido em repouso. A caixa e as setas são um esquema próprio, sem valores medidos."
+  },
+  {
+    "name": "USGS — Water Density",
+    "url": "https://www.usgs.gov/water-science-school/science/water-density",
+    "topics": [
+      "massa e volume",
+      "densidade da água",
+      "gelo menos denso que água líquida"
+    ],
+    "blocks": [
+      2,
+      3,
+      7,
+      19,
+      20
+    ],
+    "verification": "Densidade definida como massa por volume; 1.000 kg/m³ adotado como aproximação, não como valor invariável. A massa de dez toneladas é um exemplo inventado."
+  },
+  {
+    "name": "NOAA — Sea Water",
+    "url": "https://www.noaa.gov/jetstream/ocean/sea-water",
+    "topics": [
+      "salinidade",
+      "densidade da água do mar"
+    ],
+    "blocks": [
+      15,
+      16
+    ],
+    "verification": "A densidade depende de salinidade e temperatura. A diferença de calado da animação foi exagerada e identificada como modelo."
+  },
+  {
+    "name": "NOAA — Salt ’n Lighter",
+    "url": "https://www.noaa.gov/ocean/ll-eggs",
+    "topics": [
+      "comparação de um ovo em água doce e salgada"
+    ],
+    "blocks": [
+      15,
+      16
+    ],
+    "verification": "A experiência com ovo foi usada apenas como referência conceitual. A cena é uma ilustração e não a alegação de que a experiência foi realizada."
+  },
+  {
+    "name": "OpenStax — Stability",
+    "url": "https://openstax.org/books/college-physics-2e/pages/9-3-stability",
+    "topics": [
+      "equilíbrio e estabilidade"
+    ],
+    "blocks": [
+      14
+    ],
+    "verification": "A distinção conceitual foi conferida. O modelo não calcula centro de carena, metacentro, braço de endireitamento ou segurança de um navio real."
+  },
+  {
+    "name": "U.S. Navy — The Fleet Type Submarine, Chapter 2",
+    "url": "https://legacy.maritime.org/doc/fleetsub/chap2.php",
+    "topics": [
+      "tanques de lastro",
+      "flutuação neutra",
+      "ar comprimido expulsando água",
+      "superfícies de controle"
+    ],
+    "blocks": [
+      17,
+      18
+    ],
+    "verification": "Texto original do manual consultado: definição de diving trim, flooding, blowing e diving planes. Fonte histórica usada para o princípio geral, sem apresentar a animação como projeto atual de submarino."
+  }
+]

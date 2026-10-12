@@ -25,15 +25,15 @@ Canal de Emanuel Bonfim sobre ciência, história, natureza, tecnologia e as sur
 
 ## Episódio em destaque
 
-**Por que o céu é azul, mas o pôr do sol é vermelho? — 8min12s, 1080p, 16:9.**
+**Por que um navio de aço flutua, mas um prego afunda? — 8min06s, 1080p, 16:9.**
 
-![Miniatura do episódio](videos/ep-006-ceu/miniatura.jpg)
+![Miniatura do episódio](videos/ep-007-navio/miniatura.jpg)
 
-O Pico segue o caminho da luz para ligar o céu azul ao horizonte vermelho. São 57 planos com durações variadas, a voz Thalita, novos cenários detalhados de pixel art, filmagens reais e diagramas animados de prismas, ondas, moléculas e trajetos. Uma fotografia do Curiosity leva a investigação até Marte. **Este episódio não tem legendas na tela.**
+O Pico investiga como um navio de aço consegue flutuar enquanto um prego afunda. São 52 planos com durações variadas, a voz Thalita, novos cenários de porto, oficina e fundo do mar, cinco filmagens reais e uma fotografia com movimento. Os modelos animados mostram pressão, empuxo, casco, carga, entrada de água e lastro de um submarino. **Este episódio não tem legendas na tela.**
 
-- [Vídeo completo e pacote para publicar](videos/ep-006-ceu/PUBLICAR.md)
-- [Título](videos/ep-006-ceu/titulo.txt) · [Descrição com capítulos, fontes e créditos](videos/ep-006-ceu/descricao.txt)
-- [Decisões editoriais de qualidade](videos/ep-006-ceu/decisoes-editoriais.md)
+- [Vídeo completo e pacote para publicar](videos/ep-007-navio/PUBLICAR.md)
+- [Título](videos/ep-007-navio/titulo.txt) · [Descrição com capítulos, fontes e créditos](videos/ep-007-navio/descricao.txt)
+- [Decisões editoriais de qualidade](videos/ep-007-navio/decisoes-editoriais.md)
 - [Novo design do Pico](docs/identidade/Pico_v2.md)
 - [Todos os episódios](videos/README.md)
 
@@ -55,7 +55,7 @@ A pasta videos/ep-NNN-tema contém:
 - titulo.txt: título pronto para publicar; alternativas nos metadados e no pacote.
 - descricao.txt: texto para colar no YouTube, com capítulos, fontes e créditos.
 - metadata.json: título, descrição, tags, hashtags, idioma e categoria.
-- legendas.srt: transcrição sincronizada separada; o modo de legendas de cada episódio consta nos metadados. No episódio 006, o arquivo é opcional e o MP4 não tem legendas na tela.
+- legendas.srt: transcrição sincronizada separada; o modo de legendas de cada episódio consta nos metadados. Nos episódios 006 e 007, o arquivo é opcional e o MP4 não tem legendas na tela.
 - roteiro.md e narracao.txt: roteiro de produção e texto falado.
 - fontes.md: referências e procedência dos materiais.
 - qa.json e checksums.sha256: verificação técnica e integridade dos arquivos.
@@ -71,13 +71,13 @@ FFmpeg monta o vídeo no ambiente de produção. GitHub guarda o projeto e as en
 
 ## Utilitários de produção
 
-O episódio atual contém os scripts usados na produção, o roteiro por cena, as referências das mídias e as versões das dependências em [producao](videos/ep-006-ceu/producao/README.md).
+O episódio atual contém os scripts usados na produção, o roteiro por cena, as referências das mídias e as versões das dependências em [producao](videos/ep-007-navio/producao/README.md).
 
-    python -m pip install -r videos/ep-006-ceu/producao/requirements.txt
-    python videos/ep-006-ceu/producao/prepare_media.py
-    python videos/ep-006-ceu/producao/prepare_voice.py
-    python videos/ep-006-ceu/producao/render.py --workers 4
-    python videos/ep-006-ceu/producao/package.py --repo-root . --visual-reviewed
+    python -m pip install -r videos/ep-007-navio/producao/requirements.txt
+    python videos/ep-007-navio/producao/prepare_media.py
+    python videos/ep-007-navio/producao/prepare_voice.py
+    python videos/ep-007-navio/producao/render.py --workers 4
+    python videos/ep-007-navio/producao/package.py --repo-root . --visual-reviewed
 
 Use a opção de revisão visual somente depois de inspecionar o MP4 final. Rótulos científicos e créditos não são transcrições da narração.
 

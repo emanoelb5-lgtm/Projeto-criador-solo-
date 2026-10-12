@@ -1,0 +1,151 @@
+{
+  "episode": 7,
+  "channel": "Quase Infinito",
+  "repository": "emanoelb5-lgtm/Projeto-criador-solo-",
+  "title": "Por que um navio de aço flutua, mas um prego afunda? | Quase Infinito",
+  "alternative_titles": [
+    "Como um navio de aço consegue flutuar?",
+    "Um prego afunda. Por que um navio não afunda?"
+  ],
+  "summary": "Um cargueiro feito de aço atravessa a água, enquanto um simples prego afunda. O Pico investiga o que muda quando a mesma quantidade de material ganha outra forma.\n\nA viagem passa pela pressão da água, pelo empuxo, pelo espaço protegido dentro do casco e pela carga de um navio. Depois, compara água doce e salgada e descobre como tanques de lastro ajudam um submarino a mergulhar e voltar à superfície.\n\nAnimações originais, novos cenários de pixel art e filmagens reais conduzem as perguntas e respostas, com a voz Thalita e o Pico v2. Os modelos são ilustrados e o exemplo numérico usa valores inventados para explicar a física. Este episódio não tem legendas na tela.\n\nQue pergunta você quer investigar na próxima viagem?\nCada pergunta abre outra viagem.",
+  "language": "pt-BR",
+  "category_id": "27",
+  "category": "Education",
+  "tags": [
+    "por que navio flutua",
+    "navio de aço",
+    "por que prego afunda",
+    "empuxo",
+    "princípio de Arquimedes",
+    "densidade",
+    "água deslocada",
+    "calado",
+    "navio cargueiro",
+    "submarino",
+    "tanques de lastro",
+    "água salgada",
+    "gelo",
+    "ciência",
+    "curiosidades",
+    "Quase Infinito"
+  ],
+  "hashtags": [
+    "#QuaseInfinito",
+    "#Curiosidades",
+    "#Ciencia"
+  ],
+  "voice": "pt-BR-ThalitaMultilingualNeural",
+  "duration_seconds": 486.0,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "thumbnail": "miniatura.jpg",
+  "subtitle_file": "legendas.srt",
+  "subtitle_mode": "none",
+  "subtitle_file_role": "optional_transcript",
+  "burned_in_captions": false,
+  "embedded_subtitle_streams": 0,
+  "video_filename": "video.mp4",
+  "video_sha256": "b0422645556d2224d624ca4fe21fbee5313ca58879e62e8bab3c9bfc747b5676",
+  "chapters": [
+    {
+      "start_seconds": 0.0,
+      "title": "Um gigante e um prego"
+    },
+    {
+      "start_seconds": 33.791666666666664,
+      "title": "Peso, volume e densidade"
+    },
+    {
+      "start_seconds": 56.25,
+      "title": "Os espaços dentro do casco"
+    },
+    {
+      "start_seconds": 75.16666666666667,
+      "title": "A pressão debaixo da água"
+    },
+    {
+      "start_seconds": 117.0,
+      "title": "O princípio de Arquimedes"
+    },
+    {
+      "start_seconds": 155.25,
+      "title": "O equilíbrio do navio"
+    },
+    {
+      "start_seconds": 176.5,
+      "title": "Mesmo material, outra forma"
+    },
+    {
+      "start_seconds": 218.45833333333334,
+      "title": "O efeito da carga"
+    },
+    {
+      "start_seconds": 258.9583333333333,
+      "title": "Quando a água entra"
+    },
+    {
+      "start_seconds": 302.0,
+      "title": "Água doce e salgada"
+    },
+    {
+      "start_seconds": 342.125,
+      "title": "Como um submarino mergulha"
+    },
+    {
+      "start_seconds": 385.375,
+      "title": "E o gelo?"
+    },
+    {
+      "start_seconds": 427.0833333333333,
+      "title": "O desafio dos dois barcos"
+    },
+    {
+      "start_seconds": 469.5416666666667,
+      "title": "Cada pergunta abre outra viagem"
+    }
+  ],
+  "sources": [
+    {
+      "name": "OpenStax — Archimedes’ Principle",
+      "url": "https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle"
+    },
+    {
+      "name": "OpenStax — Variation of Pressure with Depth in a Fluid",
+      "url": "https://openstax.org/books/college-physics-2e/pages/11-4-variation-of-pressure-with-depth-in-a-fluid"
+    },
+    {
+      "name": "USGS — Water Density",
+      "url": "https://www.usgs.gov/water-science-school/science/water-density"
+    },
+    {
+      "name": "NOAA — Sea Water",
+      "url": "https://www.noaa.gov/jetstream/ocean/sea-water"
+    },
+    {
+      "name": "NOAA — Salt ’n Lighter",
+      "url": "https://www.noaa.gov/ocean/ll-eggs"
+    },
+    {
+      "name": "OpenStax — Stability",
+      "url": "https://openstax.org/books/college-physics-2e/pages/9-3-stability"
+    },
+    {
+      "name": "U.S. Navy — The Fleet Type Submarine, Chapter 2",
+      "url": "https://legacy.maritime.org/doc/fleetsub/chap2.php"
+    }
+  ],
+  "credits": "Filmagens e fotografia: Alexander Bobrov, ArtHouse Studio, Cyriac von Czapiewski, K, Sujithsidharth — Pexels License.\nRoteiro, edição, trilha e animações dos modelos: Quase Infinito.\nNarração sintetizada: Thalita (pt-BR). Pico, cenários e miniatura: geração de imagem por IA.\nDiagramas e experiências ilustrados, sem escala; não são filmagens de experimentos ou medições. Exemplo de dez toneladas: valores inventados e arredondados.",
+  "synthetic_content": {
+    "narration": "síntese de voz Thalita",
+    "illustrations": "Pico, cenários e miniatura com IA",
+    "graphics": "diagramas e animações originais em código",
+    "model": "empuxo, casco e lastro ilustrados; exemplo numérico inventado; sem experimento ou medição anunciados"
+  },
+  "mascot_design_version": 2,
+  "mascot_design_reference": "producao/assets/Pico_Design_v2_16x9.png",
+  "publication_mode": "manual",
+  "description": "Um cargueiro feito de aço atravessa a água, enquanto um simples prego afunda. O Pico investiga o que muda quando a mesma quantidade de material ganha outra forma.\n\nA viagem passa pela pressão da água, pelo empuxo, pelo espaço protegido dentro do casco e pela carga de um navio. Depois, compara água doce e salgada e descobre como tanques de lastro ajudam um submarino a mergulhar e voltar à superfície.\n\nAnimações originais, novos cenários de pixel art e filmagens reais conduzem as perguntas e respostas, com a voz Thalita e o Pico v2. Os modelos são ilustrados e o exemplo numérico usa valores inventados para explicar a física. Este episódio não tem legendas na tela.\n\nQue pergunta você quer investigar na próxima viagem?\nCada pergunta abre outra viagem.\n\nCAPÍTULOS\n00:00 Um gigante e um prego\n00:33 Peso, volume e densidade\n00:56 Os espaços dentro do casco\n01:15 A pressão debaixo da água\n01:57 O princípio de Arquimedes\n02:35 O equilíbrio do navio\n02:56 Mesmo material, outra forma\n03:38 O efeito da carga\n04:18 Quando a água entra\n05:02 Água doce e salgada\n05:42 Como um submarino mergulha\n06:25 E o gelo?\n07:07 O desafio dos dois barcos\n07:49 Cada pergunta abre outra viagem\n\nFONTES E LEITURA\nOpenStax — Archimedes’ Principle\nhttps://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle\nOpenStax — Variation of Pressure with Depth in a Fluid\nhttps://openstax.org/books/college-physics-2e/pages/11-4-variation-of-pressure-with-depth-in-a-fluid\nUSGS — Water Density\nhttps://www.usgs.gov/water-science-school/science/water-density\nNOAA — Sea Water\nhttps://www.noaa.gov/jetstream/ocean/sea-water\nNOAA — Salt ’n Lighter\nhttps://www.noaa.gov/ocean/ll-eggs\nOpenStax — Stability\nhttps://openstax.org/books/college-physics-2e/pages/9-3-stability\nU.S. Navy — The Fleet Type Submarine, Chapter 2\nhttps://legacy.maritime.org/doc/fleetsub/chap2.php\n\nCRÉDITOS\nFilmagens e fotografia: Alexander Bobrov, ArtHouse Studio, Cyriac von Czapiewski, K, Sujithsidharth — Pexels License.\nRoteiro, edição, trilha e animações dos modelos: Quase Infinito.\nNarração sintetizada: Thalita (pt-BR). Pico, cenários e miniatura: geração de imagem por IA.\nDiagramas e experiências ilustrados, sem escala; não são filmagens de experimentos ou medições. Exemplo de dez toneladas: valores inventados e arredondados.\n\n#QuaseInfinito #Curiosidades #Ciencia\n"
+}

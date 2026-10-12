@@ -1,0 +1,48 @@
+Um cargueiro feito de aço atravessa a água, enquanto um simples prego afunda. O Pico investiga o que muda quando a mesma quantidade de material ganha outra forma.
+
+A viagem passa pela pressão da água, pelo empuxo, pelo espaço protegido dentro do casco e pela carga de um navio. Depois, compara água doce e salgada e descobre como tanques de lastro ajudam um submarino a mergulhar e voltar à superfície.
+
+Animações originais, novos cenários de pixel art e filmagens reais conduzem as perguntas e respostas, com a voz Thalita e o Pico v2. Os modelos são ilustrados e o exemplo numérico usa valores inventados para explicar a física. Este episódio não tem legendas na tela.
+
+Que pergunta você quer investigar na próxima viagem?
+Cada pergunta abre outra viagem.
+
+CAPÍTULOS
+00:00 Um gigante e um prego
+00:33 Peso, volume e densidade
+00:56 Os espaços dentro do casco
+01:15 A pressão debaixo da água
+01:57 O princípio de Arquimedes
+02:35 O equilíbrio do navio
+02:56 Mesmo material, outra forma
+03:38 O efeito da carga
+04:18 Quando a água entra
+05:02 Água doce e salgada
+05:42 Como um submarino mergulha
+06:25 E o gelo?
+07:07 O desafio dos dois barcos
+07:49 Cada pergunta abre outra viagem
+
+FONTES E LEITURA
+OpenStax — Archimedes’ Principle
+https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle
+OpenStax — Variation of Pressure with Depth in a Fluid
+https://openstax.org/books/college-physics-2e/pages/11-4-variation-of-pressure-with-depth-in-a-fluid
+USGS — Water Density
+https://www.usgs.gov/water-science-school/science/water-density
+NOAA — Sea Water
+https://www.noaa.gov/jetstream/ocean/sea-water
+NOAA — Salt ’n Lighter
+https://www.noaa.gov/ocean/ll-eggs
+OpenStax — Stability
+https://openstax.org/books/college-physics-2e/pages/9-3-stability
+U.S. Navy — The Fleet Type Submarine, Chapter 2
+https://legacy.maritime.org/doc/fleetsub/chap2.php
+
+CRÉDITOS
+Filmagens e fotografia: Alexander Bobrov, ArtHouse Studio, Cyriac von Czapiewski, K, Sujithsidharth — Pexels License.
+Roteiro, edição, trilha e animações dos modelos: Quase Infinito.
+Narração sintetizada: Thalita (pt-BR). Pico, cenários e miniatura: geração de imagem por IA.
+Diagramas e experiências ilustrados, sem escala; não são filmagens de experimentos ou medições. Exemplo de dez toneladas: valores inventados e arredondados.
+
+#QuaseInfinito #Curiosidades #Ciencia

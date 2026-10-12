@@ -1,0 +1,19 @@
+{
+  "mode": "built-in imagegen",
+  "reference": "Pico v2 approved existing identity",
+  "background_prompts": [
+    [
+      "Harbor",
+      "Use case: stylized-concept. Asset type: background for an educational animated pixel-art video, exactly 16:9 horizontal. Create a richly detailed, elegant pixel-art harbor on a sunny morning: a steel cargo ship with colorful containers in the far left background, small wooden pier in foreground, cranes in the distance, teal water with tiny specular highlights, ropes, mooring bollards and believable riveted steel details. High-quality handcrafted retro game environment, coherent pixel grid and clean silhouettes, navy/teal/gold/coral palette, atmospheric depth and careful light. Wide shot, broad quiet central area for diagrams that will be added later. NO characters, NO text, NO labels, NO watermark, no charts. This is an illustrated setting, not a photograph. Deliver a single complete 16:9 image."
+    ],
+    [
+      "Workshop",
+      "Use case: stylized-concept. Asset type: background for animated science investigation, exactly 16:9 horizontal. Richly detailed handcrafted pixel-art marine workshop with a sturdy wood tabletop at bottom, small empty glass water tank on far left, copper tools, calipers, rolled plans without readable writing, steel plates, warm lamp, an open round window looking over a turquoise harbor at right. Careful material textures and lighting, coherent square pixel grid, dark navy and teal with gold highlights and small coral accents. Mostly quiet broad central wall and tabletop area to accommodate animated diagrams added later. NO people, NO mascot, NO text, no scientific diagram, no watermark. Single polished widescreen 16:9 illustration."
+    ],
+    [
+      "Underwater",
+      "Use case: stylized-concept. Asset type: animated educational video background, exactly 16:9 horizontal. Beautiful detailed handcrafted pixel-art underwater seascape in a harbor bay, side-on view looking through layered teal and deep navy water. Sunlight rays from upper left, sandy seafloor with small stones and sparse seaweed at bottom, distant pilings at far left and a few tiny fish at far right. Quiet broad central water area reserved for animated ship and submarine diagrams, no vessels in that central area. Rich pixel texture, coherent square pixel grid, strong contrast and atmospheric depth, gold glints. No people, no mascot, no text, no watermark, no bubbles enclosing labels. Single complete 16:9 illustration."
+    ]
+  ],
+  "thumbnail_prompt": "Use case: ads-marketing. Asset type: YouTube thumbnail for Quase Infinito, exactly 16:9 horizontal. Create a gorgeous high-quality detailed pixel-art thumbnail about why a steel cargo ship floats while a small iron nail sinks. Input image is an IDENTITY REFERENCE for Pico, not an edit target: preserve the golden winged helmet, huge mint goggles, turquoise suit, coral scarf, brown gloves and boots, coherent refined pixel art face. Use only ONE Pico, large and expressive on the right, looking astonished and pointing toward an enormous steel container ship floating on blue water on the left. A small magnified vignette below shows a single nail descending underwater, plainly an illustrated visual comparison, not an engineering diagram. A strong bright golden question mark can tie the scenes together. Coherent navy/teal/gold/coral channel palette, rich lighting and crisp silhouette, clean composition readable on phone. At upper left place very large bold perfectly legible text EXACTLY 'AÇO FLUTUA?' on two lines, high contrast warm ivory/gold dark outline, occupying no more than upper third; do not overlap ship or Pico face. Tiny tasteful 'QUASE INFINITO' branding at bottom left. No other text, no watermark, no duplicated mascot, no photographic style. Frame border in teal and gold. Deliver one complete widescreen 16:9 thumbnail."
+}

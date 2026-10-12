@@ -1,0 +1,37 @@
+{
+  "status": "technically_validated",
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 24.0,
+    "duration_seconds": 486.0,
+    "codec": "h264",
+    "size_bytes": 92562040
+  },
+  "audio": {
+    "codec": "aac",
+    "sample_rate": 48000,
+    "channels": 2,
+    "integrated_loudness_lufs": -13.8,
+    "true_peak_dbtp": -1.8,
+    "loudness_range_lu": 2.4
+  },
+  "voice": "pt-BR-ThalitaMultilingualNeural",
+  "thumbnail_size": [
+    1920,
+    1080
+  ],
+  "subtitle_cues": 226,
+  "chapters": 14,
+  "full_decode": "passed",
+  "subtitle_mode": "none",
+  "embedded_subtitle_streams": 0,
+  "youtube_upload": "manual",
+  "sha256": "b0422645556d2224d624ca4fe21fbee5313ca58879e62e8bab3c9bfc747b5676",
+  "video_frames": 11664,
+  "shots": 52,
+  "burned_in_captions": false,
+  "mascot_design_version": 2,
+  "visual_review": "final decoded MP4 frames inspected: artwork, original diagrams, real sources, no narration captions and ending",
+  "research_review": "primary sources checked; simulations distinguished from records; no claim of measurements"
+}
