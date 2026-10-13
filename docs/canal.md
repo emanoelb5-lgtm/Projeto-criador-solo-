@@ -60,7 +60,7 @@ Emanuel administra o canal e publica os vídeos no YouTube. O assistente prepara
 
 As legendas fixas devem aparecer uma única vez nas imagens. Nesse modo, registrar `subtitle_mode: burned_in` nos metadados e exportar o MP4 sem uma segunda faixa de legenda embutida. O SRT acompanha a entrega como transcrição separada; ativar outra faixa sobre as legendas fixas pode duplicar o texto na tela.
 
-Quando Emanuel pedir um episódio sem legendas na tela, usar `subtitle_mode: none`, não desenhar a transcrição nos quadros e não embutir uma faixa de legenda. O SRT pode acompanhar como transcrição opcional. Rótulos de diagramas e créditos continuam sendo elementos visuais. Essa escolha foi solicitada para o episódio 006 e mantida no episódio 007.
+Quando Emanuel pedir um episódio sem legendas na tela, usar `subtitle_mode: none`, não desenhar a transcrição nos quadros e não embutir uma faixa de legenda. O SRT pode acompanhar como transcrição opcional. Rótulos de diagramas e créditos continuam sendo elementos visuais. Essa escolha foi solicitada para o episódio 006 e mantida nos episódios 007 e 008.
 
 ## Qualidade editorial
 
@@ -69,3 +69,5 @@ Cada pergunta deve receber roteiro, explicações visuais e ritmo próprios. Pre
 O episódio 006 documenta as escolhas em [Decisões editoriais](../videos/ep-006-ceu/decisoes-editoriais.md).
 
 O episódio 007 registra as escolhas próprias de roteiro, mídias e modelos em [Decisões editoriais](../videos/ep-007-navio/decisoes-editoriais.md).
+
+O episódio 008 usa reconstituições identificadas, fichas documentais e comparação de calendários para distinguir a oficialização da data, os costumes e os direitos da infância. As escolhas estão em [Decisões editoriais](../videos/ep-008-criancas/decisoes-editoriais.md).

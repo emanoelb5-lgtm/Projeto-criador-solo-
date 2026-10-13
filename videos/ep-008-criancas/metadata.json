@@ -1,0 +1,170 @@
+{
+  "episode": 8,
+  "channel": "Quase Infinito",
+  "repository": "emanoelb5-lgtm/Projeto-criador-solo-",
+  "title": "Por que existe o Dia das Crianças? | Quase Infinito",
+  "alternative_titles": [
+    "Quem criou o Dia das Crianças no Brasil?",
+    "Dia das Crianças: como essa história começou?"
+  ],
+  "summary": "Por que o Dia das Crianças é comemorado em 12 de outubro no Brasil? A data nasceu com uma fábrica de brinquedos? E o feriado tem a mesma origem?\n\nO Pico abre a caixa da história: investiga o decreto de 1924, a popularização dos presentes e as diferentes datas ao redor do mundo. A viagem também passa pelos marcos dos direitos da infância e por formas de celebrar que vão além da compra.\n\nRoteiro original, voz Thalita, Pico v2, pixel art animada e imagens atuais com procedência. Os cenários históricos são reconstituições ilustradas, e as fichas são sínteses dos documentos consultados. Este episódio não tem legendas na tela.\n\nQual brincadeira marcou a sua infância?\nCada pergunta abre outra viagem.",
+  "language": "pt-BR",
+  "category_id": "27",
+  "category": "Education",
+  "tags": [
+    "por que existe o dia das crianças",
+    "dia das crianças",
+    "12 de outubro",
+    "história do dia das crianças",
+    "decreto 1924",
+    "brinquedos",
+    "infância",
+    "direitos das crianças",
+    "20 de novembro",
+    "1 de junho",
+    "UNICEF",
+    "história",
+    "curiosidades",
+    "Pico",
+    "Quase Infinito"
+  ],
+  "hashtags": [
+    "#QuaseInfinito",
+    "#Curiosidades",
+    "#Historia"
+  ],
+  "voice": "pt-BR-ThalitaMultilingualNeural",
+  "duration_seconds": 498.0,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "thumbnail": "miniatura.jpg",
+  "subtitle_file": "legendas.srt",
+  "subtitle_mode": "none",
+  "subtitle_file_role": "optional_transcript",
+  "burned_in_captions": false,
+  "embedded_subtitle_streams": 0,
+  "video_filename": "video.mp4",
+  "video_sha256": "1cd59c2a33c990f11cd64f904f2a3f5d2888ed9fcfab449d54943307939f9442",
+  "chapters": [
+    {
+      "start_seconds": 0.0,
+      "title": "Por que existe o Dia das Crianças?"
+    },
+    {
+      "start_seconds": 20.958333333333332,
+      "title": "Três pistas para investigar"
+    },
+    {
+      "start_seconds": 39.375,
+      "title": "O documento de 1924"
+    },
+    {
+      "start_seconds": 73.95833333333333,
+      "title": "Assinatura e comemoração"
+    },
+    {
+      "start_seconds": 92.83333333333333,
+      "title": "O decreto mandava comprar presentes?"
+    },
+    {
+      "start_seconds": 136.29166666666666,
+      "title": "A indústria dos brinquedos"
+    },
+    {
+      "start_seconds": 156.375,
+      "title": "Campanhas e costumes"
+    },
+    {
+      "start_seconds": 199.04166666666666,
+      "title": "Celebrar além da compra"
+    },
+    {
+      "start_seconds": 217.625,
+      "title": "E o feriado de 12 de outubro?"
+    },
+    {
+      "start_seconds": 238.58333333333334,
+      "title": "As datas ao redor do mundo"
+    },
+    {
+      "start_seconds": 258.9166666666667,
+      "title": "1959 e 1989: direitos da infância"
+    },
+    {
+      "start_seconds": 296.6666666666667,
+      "title": "Brincar também é um direito"
+    },
+    {
+      "start_seconds": 318.5,
+      "title": "Constituição e Estatuto no Brasil"
+    },
+    {
+      "start_seconds": 339.75,
+      "title": "Ouvir as crianças"
+    },
+    {
+      "start_seconds": 384.4583333333333,
+      "title": "A infância continua o ano inteiro"
+    },
+    {
+      "start_seconds": 428.7083333333333,
+      "title": "O desafio do Pico"
+    },
+    {
+      "start_seconds": 453.0,
+      "title": "A resposta dentro da caixa"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Câmara dos Deputados — Decreto nº 4.867, de 5 de novembro de 1924",
+      "url": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-4867-5-novembro-1924-566474-publicacaooriginal-90038-pl.html"
+    },
+    {
+      "name": "Câmara dos Deputados — Plenarinho: Dia da Criança",
+      "url": "https://plenarinho.leg.br/index.php/2017/02/dia-da-crianca/"
+    },
+    {
+      "name": "Estrela — Nossa história",
+      "url": "https://www.estrela.com.br/nossa-historia"
+    },
+    {
+      "name": "Beatriz Bauer — Dia das Crianças para quem? (pesquisa de anúncios de 1968)",
+      "url": "https://periodicos.ufs.br/tempopresente/article/download/22390/16745/72175"
+    },
+    {
+      "name": "Câmara dos Deputados — Lei nº 6.802, de 30 de junho de 1980",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/1980-1987/lei-6802-30-junho-1980-357065-publicacaooriginal-1-pl.html"
+    },
+    {
+      "name": "Direção-Geral da Educação de Portugal — Dia Mundial da Criança",
+      "url": "https://www.dge.mec.pt/node/1731"
+    },
+    {
+      "name": "UNICEF — World Children’s Day",
+      "url": "https://www.unicef.org/take-action/campaigns/world-childrens-day"
+    },
+    {
+      "name": "UNICEF Brasil — História dos direitos da criança",
+      "url": "https://www.unicef.org/brazil/historia-dos-direitos-da-crianca"
+    },
+    {
+      "name": "UNICEF Brasil — Proteção e cidadania ganham destaque",
+      "url": "https://www.unicef.org/brazil/unicef-75-anos/protecao-e-cidadania-ganham-destaque"
+    }
+  ],
+  "credits": "Filmagens e fotografia: Antonius Ferret, MART PRODUCTION, Marta Wave, Ron Lach, cottonbro studio, Đậu Photograph — Pexels License.\nRoteiro, edição, trilha e animações dos modelos: Quase Infinito.\nNarração sintetizada: Thalita (pt-BR). Pico, cenários e miniatura: geração de imagem por IA.\nCenários históricos reconstituídos; fichas e linhas do tempo resumem as fontes. As mídias reais são atuais e ilustrativas, sem representar os acontecimentos históricos.",
+  "synthetic_content": {
+    "narration": "síntese de voz Thalita",
+    "illustrations": "Pico, cenários e miniatura com IA",
+    "graphics": "diagramas e animações originais em código",
+    "model": "fichas históricas, calendários e linhas do tempo originais; reconstituições identificadas; mídias atuais ilustrativas"
+  },
+  "mascot_design_version": 2,
+  "mascot_design_reference": "producao/assets/Pico_Design_v2_16x9.png",
+  "publication_mode": "manual",
+  "description": "Por que o Dia das Crianças é comemorado em 12 de outubro no Brasil? A data nasceu com uma fábrica de brinquedos? E o feriado tem a mesma origem?\n\nO Pico abre a caixa da história: investiga o decreto de 1924, a popularização dos presentes e as diferentes datas ao redor do mundo. A viagem também passa pelos marcos dos direitos da infância e por formas de celebrar que vão além da compra.\n\nRoteiro original, voz Thalita, Pico v2, pixel art animada e imagens atuais com procedência. Os cenários históricos são reconstituições ilustradas, e as fichas são sínteses dos documentos consultados. Este episódio não tem legendas na tela.\n\nQual brincadeira marcou a sua infância?\nCada pergunta abre outra viagem.\n\nCAPÍTULOS\n00:00 Por que existe o Dia das Crianças?\n00:20 Três pistas para investigar\n00:39 O documento de 1924\n01:13 Assinatura e comemoração\n01:32 O decreto mandava comprar presentes?\n02:16 A indústria dos brinquedos\n02:36 Campanhas e costumes\n03:19 Celebrar além da compra\n03:37 E o feriado de 12 de outubro?\n03:58 As datas ao redor do mundo\n04:18 1959 e 1989: direitos da infância\n04:56 Brincar também é um direito\n05:18 Constituição e Estatuto no Brasil\n05:39 Ouvir as crianças\n06:24 A infância continua o ano inteiro\n07:08 O desafio do Pico\n07:33 A resposta dentro da caixa\n\nFONTES E LEITURA\nCâmara dos Deputados — Decreto nº 4.867, de 5 de novembro de 1924\nhttps://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-4867-5-novembro-1924-566474-publicacaooriginal-90038-pl.html\nCâmara dos Deputados — Plenarinho: Dia da Criança\nhttps://plenarinho.leg.br/index.php/2017/02/dia-da-crianca/\nEstrela — Nossa história\nhttps://www.estrela.com.br/nossa-historia\nBeatriz Bauer — Dia das Crianças para quem? (pesquisa de anúncios de 1968)\nhttps://periodicos.ufs.br/tempopresente/article/download/22390/16745/72175\nCâmara dos Deputados — Lei nº 6.802, de 30 de junho de 1980\nhttps://www2.camara.leg.br/legin/fed/lei/1980-1987/lei-6802-30-junho-1980-357065-publicacaooriginal-1-pl.html\nDireção-Geral da Educação de Portugal — Dia Mundial da Criança\nhttps://www.dge.mec.pt/node/1731\nUNICEF — World Children’s Day\nhttps://www.unicef.org/take-action/campaigns/world-childrens-day\nUNICEF Brasil — História dos direitos da criança\nhttps://www.unicef.org/brazil/historia-dos-direitos-da-crianca\nUNICEF Brasil — Proteção e cidadania ganham destaque\nhttps://www.unicef.org/brazil/unicef-75-anos/protecao-e-cidadania-ganham-destaque\n\nCRÉDITOS\nFilmagens e fotografia: Antonius Ferret, MART PRODUCTION, Marta Wave, Ron Lach, cottonbro studio, Đậu Photograph — Pexels License.\nRoteiro, edição, trilha e animações dos modelos: Quase Infinito.\nNarração sintetizada: Thalita (pt-BR). Pico, cenários e miniatura: geração de imagem por IA.\nCenários históricos reconstituídos; fichas e linhas do tempo resumem as fontes. As mídias reais são atuais e ilustrativas, sem representar os acontecimentos históricos.\n\n#QuaseInfinito #Curiosidades #Historia\n"
+}

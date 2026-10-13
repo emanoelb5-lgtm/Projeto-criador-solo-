@@ -1,0 +1,20 @@
+{
+  "mode": "built-in imagegen",
+  "reference": "Pico v2 aprovado",
+  "background_prompts": [
+    [
+      "Archive",
+      "Use case: historical-scene. Asset type: cinematic pixel-art background for a Brazilian history documentary, horizontal exactly 16:9. A richly detailed imagined study in Rio de Janeiro in the 1920s: polished dark wooden desk at the lower edge, stacks of old bound records, a black manual typewriter at far left, green-shaded brass desk lamp, antique shelving, tall shuttered window at right with a distant Guanabara Bay view. Broad calm central wall and empty desk area reserved for accurately drawn documentary graphics added later. Handcrafted refined pixel art, coherent square pixels, navy/teal/gold palette with small coral accents, warm afternoon light, convincing wood and paper texture and atmospheric depth. This is a visibly stylized historical reconstruction, no claim of a real person's office. No people, no mascot, no readable writing, no date, no logo, no watermark. Single complete 16:9 image."
+    ],
+    [
+      "Toyshop",
+      "Use case: stylized-concept. Asset type: video background, horizontal exactly 16:9. A beautifully detailed imaginary old Brazilian toy shop inspired by the middle of the twentieth century, in fine handcrafted pixel art. Empty interior: unbranded wooden blocks, a small tin train, plain dolls, balls, spinning tops and teddy bears on shelves at far left and far right; warm hanging lamps; broad quiet center area and low wooden counter for graphics added later. No children, no adults, no mascot. Navy and dark teal shadows, gold lighting and small coral accents. Crisp controlled pixel clusters, rich materials, depth and elegant composition; nostalgic rather than sugary. No readable signs, no brand logos, no dates, no watermark, no digital consoles or modern electronics. Single polished widescreen 16:9 illustration."
+    ],
+    [
+      "Park",
+      "Use case: stylized-concept. Asset type: video background, horizontal exactly 16:9. Refined detailed pixel art of an empty Brazilian community park in warm daylight: leafy shade trees, benches, low grassy areas, a hopscotch pattern without numerals near the lower left, a simple playground slide far left, books beside a picnic table at far right, distant homes and a small community school. Broad calm central open space reserved for animated explanatory graphics. No people and no mascot. Handcrafted retro game environment with consistent pixel grid, subtle leaf texture, light reflections, atmospheric depth, navy/teal/gold/coral visual identity. Calm joyful atmosphere, believable materials, clear silhouettes. No text, no numbers, no logos, no watermark. Single complete 16:9 image."
+    ]
+  ],
+  "thumbnail_prompt": "Use case: ads-marketing. Asset type: YouTube thumbnail for Quase Infinito, horizontal exactly 16:9. Input image is an identity reference for Pico only: golden helmet with mint wings, huge mint goggles, turquoise suit, coral scarf, brown gloves and boots. Create a richly detailed crisp pixel-art thumbnail about the history behind Children's Day. Only ONE large expressive Pico on the right, curious and surprised, holding a magnifying glass toward the visual contrast on the left: a beautiful wrapped gift with a warm coral bow and a small stack of old documents/books with an unmarked vintage calendar sheet. Warm gold light links past and present; coherent navy/teal/gold/coral channel palette. At upper left place huge perfectly legible bold text EXACTLY 'DIA DAS' on first line and 'CRIANÇAS?' on second line, cream and gold with dark outlines. Make text and mascot readable on a phone. Tiny tasteful 'QUASE INFINITO' branding at bottom left, teal/gold outer frame. Historical curiosity, not an advertisement for a product. No brand logos on toys, no additional dates, no calendar numerals, no other text, no watermark, no duplicated character, no photorealism. Deliver a single complete 16:9 image.",
+  "historical_scenes": "reconstituições ilustradas; datas e documentos apresentados em gráficos originais com base nas fontes oficiais"
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "filename": "video.mp4",
+  "bytes": 92148624,
+  "sha256": "1cd59c2a33c990f11cd64f904f2a3f5d2888ed9fcfab449d54943307939f9442",
+  "parts": [
+    {
+      "filename": "video.mp4.part000",
+      "bytes": 24000000,
+      "sha256": "b1f38343bf757d72a106e338424fbc20972a31f386944a19a6b3a0de755d73b3"
+    },
+    {
+      "filename": "video.mp4.part001",
+      "bytes": 24000000,
+      "sha256": "efcc4444d8d8fae4a7d6e0886db183c955c1eb87ea42ce753742357b981daeaa"
+    },
+    {
+      "filename": "video.mp4.part002",
+      "bytes": 24000000,
+      "sha256": "8a58105a774311863293e3a06bffeeca731c472f3110c06365cf199251bf0c5d"
+    },
+    {
+      "filename": "video.mp4.part003",
+      "bytes": 20148624,
+      "sha256": "12dd16a3b8f9cd158293a04eb84738376e4b4ae9f6aa1ef3b4471f307dc57f31"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+[
+  {
+    "name": "Câmara dos Deputados — Decreto nº 4.867, de 5 de novembro de 1924",
+    "url": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-4867-5-novembro-1924-566474-publicacaooriginal-90038-pl.html",
+    "topics": [
+      "oficialização brasileira",
+      "assinatura em novembro e festa em outubro",
+      "texto sem obrigação de comprar presentes"
+    ],
+    "blocks": [
+      2,
+      3,
+      4,
+      5,
+      20,
+      21,
+      22
+    ],
+    "verification": "Texto primário consultado. Artigo único institui 12 de outubro para a festa da criança; assinatura no Rio de Janeiro em 5 de novembro de 1924."
+  },
+  {
+    "name": "Câmara dos Deputados — Plenarinho: Dia da Criança",
+    "url": "https://plenarinho.leg.br/index.php/2017/02/dia-da-crianca/",
+    "topics": [
+      "proposta de Galdino do Valle Filho",
+      "aprovação e oficialização por Artur Bernardes"
+    ],
+    "blocks": [
+      3
+    ],
+    "verification": "Histórico institucional conferido. Usados fatos em redação própria, sem reproduzir textos ou imagens da página."
+  },
+  {
+    "name": "Estrela — Nossa história",
+    "url": "https://www.estrela.com.br/nossa-historia",
+    "topics": [
+      "fundação em 1937",
+      "transformação dos materiais de brinquedos"
+    ],
+    "blocks": [
+      7
+    ],
+    "verification": "História publicada pela própria empresa. Fundação posterior à data oficial brasileira; objetos ilustrados são genéricos."
+  },
+  {
+    "name": "Beatriz Bauer — Dia das Crianças para quem? (pesquisa de anúncios de 1968)",
+    "url": "https://periodicos.ufs.br/tempopresente/article/download/22390/16745/72175",
+    "topics": [
+      "campanhas comerciais no século XX",
+      "Semana do Bebê Robusto",
+      "comemoração e consumo"
+    ],
+    "blocks": [
+      8,
+      9
+    ],
+    "verification": "PDF original lido e texto extraído. Pesquisa documental dos anúncios do jornal O Estado. A narração usa meados do século XX e não atribui a uma só campanha a origem de todos os costumes; nenhum anúncio é reproduzido."
+  },
+  {
+    "name": "Câmara dos Deputados — Lei nº 6.802, de 30 de junho de 1980",
+    "url": "https://www2.camara.leg.br/legin/fed/lei/1980-1987/lei-6802-30-junho-1980-357065-publicacaooriginal-1-pl.html",
+    "topics": [
+      "feriado nacional de 12 de outubro dedicado a Nossa Senhora Aparecida"
+    ],
+    "blocks": [
+      11,
+      21
+    ],
+    "verification": "Lei primária consultada. Fundamento do feriado distinguido da festa da criança instituída em 1924."
+  },
+  {
+    "name": "Direção-Geral da Educação de Portugal — Dia Mundial da Criança",
+    "url": "https://www.dge.mec.pt/node/1731",
+    "topics": [
+      "celebração em Portugal em 1 de junho"
+    ],
+    "blocks": [
+      12
+    ],
+    "verification": "Página institucional portuguesa registra explicitamente a comemoração em 1 de junho. O nome local não é tratado como uma data obrigatória mundial."
+  },
+  {
+    "name": "UNICEF — World Children’s Day",
+    "url": "https://www.unicef.org/take-action/campaigns/world-childrens-day",
+    "topics": [
+      "20 de novembro",
+      "Declaração de 1959 e Convenção de 1989",
+      "participação infantil"
+    ],
+    "blocks": [
+      12,
+      13,
+      17
+    ],
+    "verification": "Página oficial da campanha atual consultada. Datas de adoção pela Assembleia Geral da ONU e participação das crianças conferidas."
+  },
+  {
+    "name": "UNICEF Brasil — História dos direitos da criança",
+    "url": "https://www.unicef.org/brazil/historia-dos-direitos-da-crianca",
+    "topics": [
+      "educação, saúde, proteção e brincadeira",
+      "direitos além da comemoração"
+    ],
+    "blocks": [
+      14,
+      15,
+      19,
+      22
+    ],
+    "verification": "Histórico institucional consultado. Direitos resumidos em linguagem própria, sem aconselhamento sobre casos individuais."
+  },
+  {
+    "name": "UNICEF Brasil — Proteção e cidadania ganham destaque",
+    "url": "https://www.unicef.org/brazil/unicef-75-anos/protecao-e-cidadania-ganham-destaque",
+    "topics": [
+      "Constituição de 1988",
+      "Estatuto da Criança e do Adolescente de 1990"
+    ],
+    "blocks": [
+      16
+    ],
+    "verification": "Página oficial consultada: artigo 227 na Constituição de 1988 e ECA em 1990. Não se atribui a origem desses marcos à data comemorativa."
+  }
+]
