@@ -1,0 +1,197 @@
+{
+  "episode": 9,
+  "channel": "Quase Infinito",
+  "repository": "emanoelb5-lgtm/Projeto-criador-solo-",
+  "title": "O que é El Niño? | Quase Infinito",
+  "alternative_titles": [
+    "El Niño: como o oceano muda a chuva?",
+    "El Niño e La Niña: qual é a diferença?"
+  ],
+  "summary": "O que é El Niño? Como uma mudança no Pacífico pode afetar a chuva e a temperatura tão longe do oceano?\n\nO Pico segue os ventos alísios, mergulha num corte ilustrado do mar e investiga a ligação entre água, atmosfera e nuvens. A viagem compara El Niño, La Niña e condições neutras, explica possíveis efeitos no Brasil e separa essa variação natural do aquecimento global.\n\nNeste episódio, o Pico tem animação por quadros: asas, braços, pernas, olhos e cachecol mudam de posição, com voos, mergulhos, gestos e reações durante a explicação. A identidade do Pico v2 e a voz Thalita foram mantidas.\n\nModelos e cenários são ilustrados e não mostram medições atuais. O exemplo de temperatura usa valores inventados. As mídias reais são identificadas como ilustrações atuais. O episódio explica o fenômeno; não é um boletim de previsão do tempo. Sem legendas na tela.\n\nQue outra pergunta sobre o planeta você quer investigar?\nCada pergunta abre outra viagem.",
+  "language": "pt-BR",
+  "category_id": "27",
+  "category": "Education",
+  "tags": [
+    "o que é El Niño",
+    "El Niño",
+    "El Nino",
+    "La Niña",
+    "La Nina",
+    "Pacífico",
+    "ventos alísios",
+    "clima",
+    "chuva",
+    "Brasil",
+    "Amazônia",
+    "ressurgência",
+    "oceanos",
+    "ENOS",
+    "aquecimento global",
+    "meteorologia",
+    "curiosidades",
+    "Pico",
+    "Quase Infinito"
+  ],
+  "hashtags": [
+    "#QuaseInfinito",
+    "#Curiosidades",
+    "#Clima"
+  ],
+  "voice": "pt-BR-ThalitaMultilingualNeural",
+  "duration_seconds": 498.0,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "thumbnail": "miniatura.jpg",
+  "subtitle_file": "legendas.srt",
+  "subtitle_mode": "none",
+  "subtitle_file_role": "optional_transcript",
+  "burned_in_captions": false,
+  "embedded_subtitle_streams": 0,
+  "video_filename": "video.mp4",
+  "video_sha256": "952e3248a071c539096b6af7bd1ce2ae6db05a0cf6b1aea5f4c4206ca4c2a6e7",
+  "chapters": [
+    {
+      "start_seconds": 0.0,
+      "title": "O que é El Niño?"
+    },
+    {
+      "start_seconds": 19.041666666666668,
+      "title": "O oceano e a atmosfera"
+    },
+    {
+      "start_seconds": 40.041666666666664,
+      "title": "Onde acontece"
+    },
+    {
+      "start_seconds": 59.708333333333336,
+      "title": "O empurrão dos alísios"
+    },
+    {
+      "start_seconds": 95.0,
+      "title": "Água fria e nutrientes"
+    },
+    {
+      "start_seconds": 111.875,
+      "title": "O modelo do ventilador"
+    },
+    {
+      "start_seconds": 131.375,
+      "title": "Quando os ventos enfraquecem"
+    },
+    {
+      "start_seconds": 169.45833333333334,
+      "title": "A chuva muda de posição"
+    },
+    {
+      "start_seconds": 189.45833333333334,
+      "title": "A conexão com lugares distantes"
+    },
+    {
+      "start_seconds": 208.5,
+      "title": "Possíveis efeitos no Brasil"
+    },
+    {
+      "start_seconds": 252.08333333333334,
+      "title": "El Niño explica cada tempestade?"
+    },
+    {
+      "start_seconds": 275.0,
+      "title": "El Niño, neutro e La Niña"
+    },
+    {
+      "start_seconds": 297.7916666666667,
+      "title": "Quanto tempo dura?"
+    },
+    {
+      "start_seconds": 318.9583333333333,
+      "title": "A origem do nome"
+    },
+    {
+      "start_seconds": 340.9583333333333,
+      "title": "O que muda na vida marinha"
+    },
+    {
+      "start_seconds": 364.7083333333333,
+      "title": "Como os cientistas acompanham"
+    },
+    {
+      "start_seconds": 386.0416666666667,
+      "title": "Temperatura e anomalia"
+    },
+    {
+      "start_seconds": 408.2083333333333,
+      "title": "El Niño e aquecimento global"
+    },
+    {
+      "start_seconds": 432.0833333333333,
+      "title": "Informação para planejar"
+    },
+    {
+      "start_seconds": 455.5833333333333,
+      "title": "O desafio do Pico"
+    },
+    {
+      "start_seconds": 476.1666666666667,
+      "title": "A resposta passa pelo mar e pelo céu"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NOAA Ocean Service — El Niño e La Niña",
+      "url": "https://oceanservice.noaa.gov/facts/ninonina.html"
+    },
+    {
+      "name": "NOAA — Understanding El Niño & ENSO",
+      "url": "https://www.noaa.gov/understanding-el-nino"
+    },
+    {
+      "name": "NASA Science — El Niño",
+      "url": "https://science.nasa.gov/earth/explore/el-nino/"
+    },
+    {
+      "name": "Organização Meteorológica Mundial — El Niño / La Niña",
+      "url": "https://wmo.int/themes/el-nino-la-nina-phenomena"
+    },
+    {
+      "name": "NOAA Physical Sciences Laboratory — ENSO",
+      "url": "https://psl.noaa.gov/enso/"
+    },
+    {
+      "name": "INPE — El Niño e seus impactos para o Brasil",
+      "url": "https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/o-que-precisamos-saber-sobre-o-el-nino-e-seus-impactos-para-o-brasil/"
+    },
+    {
+      "name": "INMET — O que é e quais os impactos do El Niño",
+      "url": "https://portal.inmet.gov.br/noticias/o-que-%C3%A9-e-quais-os-impactos-do-el-ni%C3%B1o-entenda-agora"
+    },
+    {
+      "name": "NOAA PMEL — Rede de boias TAO",
+      "url": "https://www.pmel.noaa.gov/gtmba/pmel-theme/pacific-ocean-tao/"
+    },
+    {
+      "name": "NASA Science — Mudança do clima e aquecimento global",
+      "url": "https://science.nasa.gov/climate-change/what-is-climate-change/"
+    },
+    {
+      "name": "Natural Earth — Base geográfica e domínio público",
+      "url": "https://www.naturalearthdata.com/about/terms-of-use/"
+    }
+  ],
+  "credits": "Filmagens e fotografia: ArtHouse Studio, Brett Sayles, JUN HO LEE, Jyoti Pur, Kmeel.com Videos, Nothing Ahead — Pexels License.\nRoteiro, edição, trilha e animações dos modelos: Quase Infinito.\nNarração sintetizada: Thalita (pt-BR). Pico, cenários e miniatura: geração de imagem por IA.\nModelos do oceano e da atmosfera sem escala, mapas de base Natural Earth e exemplo numérico inventado. Mídias reais atuais e ilustrativas; não são evidências de El Niño naquele local.",
+  "synthetic_content": {
+    "narration": "síntese de voz Thalita",
+    "illustrations": "Pico, cenários e miniatura com IA",
+    "graphics": "diagramas e animações originais em código",
+    "model": "modelos físicos conceituais, mapas e animações originais; exemplo numérico inventado; sem medições atuais ou previsão anunciadas"
+  },
+  "mascot_design_version": 2,
+  "mascot_animation_version": 3,
+  "mascot_animation_frames": 12,
+  "mascot_animation_reference": "producao/assets/Pico_Animation_v3_16x9.png",
+  "mascot_design_reference": "producao/assets/Pico_Design_v2_16x9.png",
+  "publication_mode": "manual",
+  "description": "O que é El Niño? Como uma mudança no Pacífico pode afetar a chuva e a temperatura tão longe do oceano?\n\nO Pico segue os ventos alísios, mergulha num corte ilustrado do mar e investiga a ligação entre água, atmosfera e nuvens. A viagem compara El Niño, La Niña e condições neutras, explica possíveis efeitos no Brasil e separa essa variação natural do aquecimento global.\n\nNeste episódio, o Pico tem animação por quadros: asas, braços, pernas, olhos e cachecol mudam de posição, com voos, mergulhos, gestos e reações durante a explicação. A identidade do Pico v2 e a voz Thalita foram mantidas.\n\nModelos e cenários são ilustrados e não mostram medições atuais. O exemplo de temperatura usa valores inventados. As mídias reais são identificadas como ilustrações atuais. O episódio explica o fenômeno; não é um boletim de previsão do tempo. Sem legendas na tela.\n\nQue outra pergunta sobre o planeta você quer investigar?\nCada pergunta abre outra viagem.\n\nCAPÍTULOS\n00:00 O que é El Niño?\n00:19 O oceano e a atmosfera\n00:40 Onde acontece\n00:59 O empurrão dos alísios\n01:35 Água fria e nutrientes\n01:51 O modelo do ventilador\n02:11 Quando os ventos enfraquecem\n02:49 A chuva muda de posição\n03:09 A conexão com lugares distantes\n03:28 Possíveis efeitos no Brasil\n04:12 El Niño explica cada tempestade?\n04:35 El Niño, neutro e La Niña\n04:57 Quanto tempo dura?\n05:18 A origem do nome\n05:40 O que muda na vida marinha\n06:04 Como os cientistas acompanham\n06:26 Temperatura e anomalia\n06:48 El Niño e aquecimento global\n07:12 Informação para planejar\n07:35 O desafio do Pico\n07:56 A resposta passa pelo mar e pelo céu\n\nFONTES E LEITURA\nNOAA Ocean Service — El Niño e La Niña\nhttps://oceanservice.noaa.gov/facts/ninonina.html\nNOAA — Understanding El Niño & ENSO\nhttps://www.noaa.gov/understanding-el-nino\nNASA Science — El Niño\nhttps://science.nasa.gov/earth/explore/el-nino/\nOrganização Meteorológica Mundial — El Niño / La Niña\nhttps://wmo.int/themes/el-nino-la-nina-phenomena\nNOAA Physical Sciences Laboratory — ENSO\nhttps://psl.noaa.gov/enso/\nINPE — El Niño e seus impactos para o Brasil\nhttps://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/o-que-precisamos-saber-sobre-o-el-nino-e-seus-impactos-para-o-brasil/\nINMET — O que é e quais os impactos do El Niño\nhttps://portal.inmet.gov.br/noticias/o-que-%C3%A9-e-quais-os-impactos-do-el-ni%C3%B1o-entenda-agora\nNOAA PMEL — Rede de boias TAO\nhttps://www.pmel.noaa.gov/gtmba/pmel-theme/pacific-ocean-tao/\nNASA Science — Mudança do clima e aquecimento global\nhttps://science.nasa.gov/climate-change/what-is-climate-change/\nNatural Earth — Base geográfica e domínio público\nhttps://www.naturalearthdata.com/about/terms-of-use/\n\nCRÉDITOS\nFilmagens e fotografia: ArtHouse Studio, Brett Sayles, JUN HO LEE, Jyoti Pur, Kmeel.com Videos, Nothing Ahead — Pexels License.\nRoteiro, edição, trilha e animações dos modelos: Quase Infinito.\nNarração sintetizada: Thalita (pt-BR). Pico, cenários e miniatura: geração de imagem por IA.\nModelos do oceano e da atmosfera sem escala, mapas de base Natural Earth e exemplo numérico inventado. Mídias reais atuais e ilustrativas; não são evidências de El Niño naquele local.\n\n#QuaseInfinito #Curiosidades #Clima\n"
+}

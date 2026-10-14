@@ -1,0 +1,40 @@
+{
+  "episode": 9,
+  "mode": "built-in image_gen",
+  "aspect_ratio": "16:9",
+  "final_canvas": [
+    1920,
+    1080
+  ],
+  "assets": [
+    {
+      "asset": "assets/Pico_Animation_v3_16x9.png",
+      "prompt": "Use case: illustration-story. Asset type: transparent 16:9 pixel-art character ANIMATION sprite sheet for a video, canvas 1920x1080, EXACTLY 4 columns by 3 rows, twelve evenly spaced cells. Input image is the approved Pico v2 character reference; preserve this exact mascot identity, detailed pixel art, golden aviator helmet, mint wings on helmet and small flight wings, dark goggles with big expressive teal eyes, turquoise explorer suit, coral red scarf, brown gloves and boots, same warm friendly proportions and outline quality. Create TWELVE full-body sprites of the SAME Pico with clean true transparency. Every cell 480x360, ample transparent gutters, complete character never touches cell borders, identical camera and character scale, no text and no grids. ROW 1: four consecutive frames of a flying cycle facing RIGHT, arms forward, legs bent behind, wings UP / MIDDLE / DOWN / MIDDLE, scarf flowing differently in each frame; smooth coherent animation keyframes. ROW 2: four consecutive frames of a friendly waving cycle in a standing-hovering pose: hand near head / raised higher / wave outward / return near head with blink. ROW 3: four consecutive frames of a pointing gesture facing LEFT in a standing-hovering pose: arm at chest / elbow extending / index finger fully pointing left / elbow relaxing; expressive reaction and tiny head movement. Keep helmet size, eyes, outfit and anatomy consistent across all frames. No duplicate sprites: wing, hand, elbow, leg or scarf must actually change in every consecutive frame. This is a single 16:9 sheet, not twelve separate images. No scenery, shadows or opaque background. Use approved illustration as reference only, no copied layout.",
+      "input": "assets/Pico_Design_v2_16x9.png",
+      "kind": "animation_sheet",
+      "frames": 12
+    },
+    {
+      "asset": "assets/Pacific_Pixel_16x9.png",
+      "prompt": "Use case: illustration-story. Asset type: original premium pixel-art background for the Quase Infinito educational video about El Niño. Wide landscape 16:9, 1920x1080. A magnificent broad ocean seen from a low research-boat viewpoint near a stylized South American Pacific coast: deep blue and turquoise water occupies the foreground and center, small distant golden coastal cliffs on the far right, layered clouds and warm early morning sunlight, distant horizon, subtle sea spray and wood railing only at bottom edge. Detailed high-quality pixel art with crisp carefully placed pixels, light, texture, depth and cinematic atmosphere, deep navy, turquoise and warm gold palette, small coral accents. Plenty of open water and clear sky in center for later animated diagrams and mascot. This is an illustrative environment, no claim of a specific real port. No characters, no Pico, no text, no maps, no charts, no numbers, no logos, no watermark. All image must be exact 16:9.",
+      "kind": "scenery"
+    },
+    {
+      "asset": "assets/Lab_Pixel_16x9.png",
+      "prompt": "Use case: illustration-story. Asset type: premium original pixel-art laboratory background for an educational video about El Niño. Exact 16:9 wide landscape, 1920x1080. A cozy fictional ocean and weather observatory with a panoramic window looking onto blue ocean and a distant coastline, wooden and metal research desk with a small unlabelled model buoy, barometer and notebook at the edges, a detailed wall map-like decorative silhouette without labels, elegant amber task lighting and teal instrument glow. High quality crisp pixel art with depth, beautiful textures, light reflections and atmospheric layers, navy, turquoise and warm gold, small coral accents. Keep the central 65 percent of composition open and calm, darker wall or window suitable for later exact scientific diagrams. This is an illustrative lab, never an actual NASA or NOAA facility. No people, no mascot, no text, no letters, no numbers, no detailed charts, no seals or logos, no watermark. Do not depict fake measured scientific data.",
+      "kind": "scenery"
+    },
+    {
+      "asset": "assets/Field_Pixel_16x9.png",
+      "prompt": "Use case: illustration-story. Asset type: original premium pixel-art rural background for Quase Infinito educational video about El Niño and planning for climate variability. Exact 16:9 wide landscape 1920x1080. A beautiful fictional Brazilian small rural property: lush rows of diverse crops in foreground, a simple water reservoir at far left, small tasteful farm shed at far right, tree line and gentle hills in distance, blue tropical sky with layered clouds, warm afternoon sunlight, an empty dirt path leading through the center. Rich carefully placed crisp pixel art, beautiful depth, foliage detail, reflections in water, navy/teal/golden palette with little coral. Keep middle area calm and open for later explanatory icons and an animated flying mascot. Positive, thoughtful setting without disaster imagery. No people, no mascot, no letters, no numbers, no signs, no logos, no watermark. Illustrative setting, no claim of a particular actual farm.",
+      "kind": "scenery"
+    },
+    {
+      "asset": "Thumb_El_Nino_Quase_Infinito_v2.png",
+      "prompt": "Use case: ads-marketing. Asset type: polished YouTube thumbnail for the Brazilian Quase Infinito video, exact wide 16:9, 1920x1080. Input image is reference for approved Pico v2 identity only. Rich premium detailed pixel art matching the mascot and channel: golden flight helmet, mint wings, dark goggles, expressive large teal eyes, turquoise explorer suit, red-coral scarf, brown gloves and boots. Pico is actively flying on the RIGHT with legs tucked, wings mid-flap and scarf billowing, pointing curiously at a beautiful symbolic ocean where deep turquoise blue water meets a glowing warm orange region, with a few stylized cloud swirls and wind streaks. Navy/turquoise/gold palette, exceptional clear composition, precise crisp pixel art, texture and cinematic light. This is a symbolic illustration, no scientific map or real data. LEFT half contains big highly legible headline, exact Portuguese/Spanish text: small white 'O QUE É' above HUGE gold/white 'EL NIÑO?' in two balanced lines if needed, preserve the letter Ñ with its tilde. Exact required headline is 'O QUE É EL NIÑO?'. Small 'QUASE INFINITO' logo-like text in bottom left. No other text, no current year, no 'super', no disaster, no victims, no sensationalistic destruction, no political content, no watermark. Keep text and full Pico safely inside generous edge margins, thumbnail readable on a phone, border in mint and gold.",
+      "edit_prompt": "Use case: precise-object-edit. Edit ONLY the two arrow shapes drawn in the lower ocean area of this thumbnail: remove the white arrow inside the orange water region and remove the pale cyan arrow inside the blue water region. Replace each arrow with matching uninterrupted water texture and color. Keep absolutely everything else unchanged: exact text 'O QUE É EL NIÑO?' with accents, Pico's identity and flying pose, scarf and wings, ocean colors, clouds, lighting, composition, channel mark, pixel-art style, mint/gold frame. The ocean image must remain symbolic without indicating directions or pretending to be a scientific data map. Keep the exact 16:9 wide composition. No new text, symbols, arrows or objects.",
+      "input": "assets/Pico_Design_v2_16x9.png",
+      "kind": "thumbnail"
+    }
+  ]
+}

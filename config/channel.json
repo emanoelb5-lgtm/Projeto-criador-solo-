@@ -66,7 +66,14 @@
         "reagir às descobertas"
       ],
       "design_version": 2,
-      "design_reference": "docs/identidade/Pico_Design_v2_16x9.png"
+      "design_reference": "docs/identidade/Pico_Design_v2_16x9.png",
+      "animation_version": 3,
+      "animation_reference": "docs/identidade/Pico_Animacao_v3_16x9.png",
+      "animation_cycles": [
+        "voar",
+        "acenar",
+        "apontar"
+      ]
     },
     "palette": {
       "navy": "#071A2B",

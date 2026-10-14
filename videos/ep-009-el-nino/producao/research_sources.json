@@ -1,0 +1,150 @@
+[
+  {
+    "name": "NOAA Ocean Service — El Niño e La Niña",
+    "url": "https://oceanservice.noaa.gov/facts/ninonina.html",
+    "topics": [
+      "alísios de leste para oeste",
+      "ressurgência e nutrientes",
+      "fases quente e fria"
+    ],
+    "blocks": [
+      3,
+      5,
+      14,
+      17
+    ],
+    "verification": "Página oficial consultada. Direções, enfraquecimento dos alísios no El Niño e maior ressurgência na La Niña conferidos."
+  },
+  {
+    "name": "NOAA — Understanding El Niño & ENSO",
+    "url": "https://www.noaa.gov/understanding-el-nino",
+    "topics": [
+      "aquecimento persistente",
+      "resposta atmosférica",
+      "sistema acoplado"
+    ],
+    "blocks": [
+      1,
+      7,
+      8,
+      18,
+      22,
+      23
+    ],
+    "verification": "Definição oceano-atmosfera verificada. Não são usadas classificações numéricas ou previsões correntes; o vídeo não substitui o diagnóstico científico."
+  },
+  {
+    "name": "NASA Science — El Niño",
+    "url": "https://science.nasa.gov/earth/explore/el-nino/",
+    "topics": [
+      "reserva de calor no oeste",
+      "redistribuição de calor",
+      "nuvens e efeitos distantes"
+    ],
+    "blocks": [
+      2,
+      4,
+      9,
+      10,
+      17
+    ],
+    "verification": "Seções conceituais verificadas. Fontes originais usadas para explicar mecanismos em redação própria; nenhuma figura ou medição da página é copiada."
+  },
+  {
+    "name": "Organização Meteorológica Mundial — El Niño / La Niña",
+    "url": "https://wmo.int/themes/el-nino-la-nina-phenomena",
+    "topics": [
+      "três estados do sistema",
+      "variação regional e sazonal",
+      "origem do nome"
+    ],
+    "blocks": [
+      13,
+      14,
+      16
+    ],
+    "verification": "Informações gerais verificadas. Os boletins e probabilidades atuais na mesma página não são reproduzidos nem narrados."
+  },
+  {
+    "name": "NOAA Physical Sciences Laboratory — ENSO",
+    "url": "https://psl.noaa.gov/enso/",
+    "topics": [
+      "intervalos irregulares de dois a sete anos",
+      "duração típica de nove a doze meses",
+      "diversidade dos eventos"
+    ],
+    "blocks": [
+      15,
+      19
+    ],
+    "verification": "Seção ENSO 101 consultada. Durações apresentadas como típicas, com possibilidade de episódios mais longos. O exemplo de anomalia é autoral e inventado."
+  },
+  {
+    "name": "INPE — El Niño e seus impactos para o Brasil",
+    "url": "https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/o-que-precisamos-saber-sobre-o-el-nino-e-seus-impactos-para-o-brasil/",
+    "topics": [
+      "partes do norte e leste da Amazônia",
+      "norte do Nordeste",
+      "variação por estação e influência do Atlântico"
+    ],
+    "blocks": [
+      11,
+      13,
+      21
+    ],
+    "verification": "Entrevista técnica institucional consultada. Usa-se a explicação geral, sem transformar projeções datadas em previsão atual ou aplicar um único efeito a todo o bioma."
+  },
+  {
+    "name": "INMET — O que é e quais os impactos do El Niño",
+    "url": "https://portal.inmet.gov.br/noticias/o-que-%C3%A9-e-quais-os-impactos-do-el-ni%C3%B1o-entenda-agora",
+    "topics": [
+      "possibilidade de mais chuva no Sul",
+      "circulação em grande escala",
+      "efeitos diferentes no território brasileiro"
+    ],
+    "blocks": [
+      12,
+      21
+    ],
+    "verification": "Texto explicativo oficial consultado. Efeitos são probabilidades, dependentes de condições e estações, sem atribuição exclusiva de eventos locais."
+  },
+  {
+    "name": "NOAA PMEL — Rede de boias TAO",
+    "url": "https://www.pmel.noaa.gov/gtmba/pmel-theme/pacific-ocean-tao/",
+    "topics": [
+      "monitoramento do sistema oceano-atmosfera",
+      "instrumentos no Pacífico"
+    ],
+    "blocks": [
+      18
+    ],
+    "verification": "Página técnica oficial consultada. A boia e o laboratório do vídeo são modelos ilustrados, sem dados atuais ou identificação de uma estação real."
+  },
+  {
+    "name": "NASA Science — Mudança do clima e aquecimento global",
+    "url": "https://science.nasa.gov/climate-change/what-is-climate-change/",
+    "topics": [
+      "tendência de longo prazo",
+      "influência humana",
+      "distinção de variabilidade natural"
+    ],
+    "blocks": [
+      20
+    ],
+    "verification": "Definições oficiais verificadas. Nenhuma taxa ou número de aquecimento desatualizado da página entra na narração."
+  },
+  {
+    "name": "Natural Earth — Base geográfica e domínio público",
+    "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+    "topics": [
+      "contornos dos países",
+      "uso da base 1:110m"
+    ],
+    "blocks": [
+      2,
+      11,
+      12
+    ],
+    "verification": "Licença de domínio público conferida. GeoJSON obtido do repositório oficial nvkelso/natural-earth-vector, ne_110m_admin_0_countries.geojson. Mapas e destaques do vídeo são autorais e não têm dados de previsão."
+  }
+]

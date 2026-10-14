@@ -14,7 +14,7 @@ Canal de Emanuel Bonfim sobre ciência, história, natureza, tecnologia e as sur
 | --- | --- |
 | Nome | **Quase Infinito** |
 | Proposta | Histórias e descobertas que fazem olhar o mundo com outros olhos |
-| Mascote | **Pico v2**, explorador voador com seis poses, olhos expressivos e acabamento detalhado; investiga, aponta e participa das cenas |
+| Mascote | **Pico v2**, explorador voador com olhos expressivos e acabamento detalhado; a animação 3 usa doze quadros corporais e trajetórias narrativas |
 | Narração | **Thalita**, em português brasileiro, com expressão e clareza; gravações de Emanuel são usadas quando enviadas |
 | Visual | Azul escuro, verde água e dourado; fotografias em movimento, filmagens reais e pixel art animada |
 | Moldura | Persistente em imagens e filmagens |
@@ -25,16 +25,18 @@ Canal de Emanuel Bonfim sobre ciência, história, natureza, tecnologia e as sur
 
 ## Episódio em destaque
 
-**Por que existe o Dia das Crianças? — 8min18s, 1080p, 16:9.**
+**O que é El Niño? — 8min18s, 1080p, 16:9.**
 
-![Miniatura do episódio](videos/ep-008-criancas/miniatura.jpg)
+![Miniatura do episódio](videos/ep-009-el-nino/miniatura.jpg)
 
-O Pico investiga a origem da data brasileira, a popularização dos presentes e os marcos dos direitos da infância. São 55 planos com durações variadas, a voz Thalita, novos cenários de arquivo, loja e parque, cinco filmagens reais e duas fotografias com movimento. Fichas documentais, calendários e linhas do tempo distinguem o decreto de 1924, o feriado de 1980 e as comemorações em outros países. Os cenários históricos são reconstituições identificadas. **Este episódio não tem legendas na tela.**
+O Pico investiga a ligação entre o Pacífico, os ventos e as chuvas. São 54 planos, voz Thalita, cenários novos de oceano, laboratório e propriedade rural, cinco filmagens reais e uma fotografia com movimento. Os modelos explicam alísios, ressurgência, redistribuição de calor, teleconexões, possíveis efeitos no Brasil e a diferença entre El Niño e aquecimento global.
 
-- [Vídeo completo e pacote para publicar](videos/ep-008-criancas/PUBLICAR.md)
-- [Título](videos/ep-008-criancas/titulo.txt) · [Descrição com capítulos, fontes e créditos](videos/ep-008-criancas/descricao.txt)
-- [Decisões editoriais de qualidade](videos/ep-008-criancas/decisoes-editoriais.md)
-- [Novo design do Pico](docs/identidade/Pico_v2.md)
+**O Pico agora tem animação corporal por quadros:** asas, braços, pernas, expressão e cachecol mudam, com voos entre regiões do esquema, mergulho, curvas, gestos, reações e despedida. O design v2 foi preservado. **Sem legendas na tela.**
+
+- [Vídeo completo e pacote para publicar](videos/ep-009-el-nino/PUBLICAR.md)
+- [Título](videos/ep-009-el-nino/titulo.txt) · [Descrição com capítulos, fontes e créditos](videos/ep-009-el-nino/descricao.txt)
+- [Decisões editoriais](videos/ep-009-el-nino/decisoes-editoriais.md)
+- [Nova animação do Pico](docs/identidade/Pico_Animacao_v3.md)
 - [Todos os episódios](videos/README.md)
 
 ## Como pedir um vídeo
@@ -55,7 +57,7 @@ A pasta videos/ep-NNN-tema contém:
 - titulo.txt: título pronto para publicar; alternativas nos metadados e no pacote.
 - descricao.txt: texto para colar no YouTube, com capítulos, fontes e créditos.
 - metadata.json: título, descrição, tags, hashtags, idioma e categoria.
-- legendas.srt: transcrição sincronizada separada; o modo de legendas de cada episódio consta nos metadados. Nos episódios 006, 007 e 008, o arquivo é opcional e o MP4 não tem legendas na tela.
+- legendas.srt: transcrição sincronizada separada; o modo de legendas de cada episódio consta nos metadados. Nos episódios 006, 007, 008 e 009, o arquivo é opcional e o MP4 não tem legendas na tela.
 - roteiro.md e narracao.txt: roteiro de produção e texto falado.
 - fontes.md: referências e procedência dos materiais.
 - qa.json e checksums.sha256: verificação técnica e integridade dos arquivos.
@@ -71,13 +73,13 @@ FFmpeg monta o vídeo no ambiente de produção. GitHub guarda o projeto e as en
 
 ## Utilitários de produção
 
-O episódio atual contém os scripts usados na produção, o roteiro por cena, as referências das mídias e as versões das dependências em [producao](videos/ep-008-criancas/producao/README.md).
+O episódio atual contém os scripts usados na produção, o roteiro por cena, as referências das mídias e as versões das dependências em [producao](videos/ep-009-el-nino/producao/README.md).
 
-    python -m pip install -r videos/ep-008-criancas/producao/requirements.txt
-    python videos/ep-008-criancas/producao/prepare_media.py
-    python videos/ep-008-criancas/producao/prepare_voice.py
-    python videos/ep-008-criancas/producao/render.py --workers 4
-    python videos/ep-008-criancas/producao/package.py --repo-root . --visual-reviewed
+    python -m pip install -r videos/ep-009-el-nino/producao/requirements.txt
+    python videos/ep-009-el-nino/producao/prepare_media.py
+    python videos/ep-009-el-nino/producao/prepare_voice.py
+    python videos/ep-009-el-nino/producao/render.py --workers 4
+    python videos/ep-009-el-nino/producao/package.py --repo-root . --visual-reviewed
 
 Use a opção de revisão visual somente depois de inspecionar o MP4 final. Rótulos informativos e créditos não são transcrições da narração.
 

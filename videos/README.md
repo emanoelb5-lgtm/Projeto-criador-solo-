@@ -4,6 +4,7 @@ Cada pasta reúne um episódio completo e os materiais para publicação manual 
 
 | Episódio | Tema | Duração | Materiais |
 | --- | --- | --- | --- |
+| 009 | O que é El Niño? | 8min18s | [Vídeo e pacote de publicação](ep-009-el-nino/PUBLICAR.md) |
 | 008 | Por que existe o Dia das Crianças? | 8min18s | [Vídeo e pacote de publicação](ep-008-criancas/PUBLICAR.md) |
 | 007 | Por que um navio de aço flutua, mas um prego afunda? | 8min06s | [Vídeo e pacote de publicação](ep-007-navio/PUBLICAR.md) |
 | 006 | Por que o céu é azul, mas o pôr do sol é vermelho? | 8min12s | [Vídeo e pacote de publicação](ep-006-ceu/PUBLICAR.md) |

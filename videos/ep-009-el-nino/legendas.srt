@@ -1,0 +1,884 @@
+1
+00:00:00,396 --> 00:00:02,746
+O Pico saiu para investigar uma pergunta:
+
+2
+00:00:02,797 --> 00:00:03,818
+o que é El Niño?
+
+3
+00:00:03,962 --> 00:00:06,809
+Encontrou águas mais quentes, ventos diferentes e
+
+4
+00:00:06,829 --> 00:00:09,132
+lugares com chuva demais ou de menos.
+
+5
+00:00:09,276 --> 00:00:10,771
+Mas como uma mudança no mar pode
+
+6
+00:00:10,791 --> 00:00:12,756
+mexer com o tempo tão longe dali?
+
+7
+00:00:12,913 --> 00:00:14,757
+Para entender, ele vai seguir uma pista
+
+8
+00:00:14,777 --> 00:00:17,379
+invisível: a conversa entre o oceano e
+
+9
+00:00:17,399 --> 00:00:18,362
+a atmosfera.
+
+10
+00:00:19,437 --> 00:00:21,055
+El Niño é a fase quente de
+
+11
+00:00:21,075 --> 00:00:22,997
+um fenômeno natural que envolve o Oceano
+
+12
+00:00:23,017 --> 00:00:24,882
+Pacífico e o ar acima dele.
+
+13
+00:00:25,028 --> 00:00:27,188
+Nessa fase, uma grande área do Pacífico
+
+14
+00:00:27,208 --> 00:00:29,774
+equatorial central e leste fica mais quente
+
+15
+00:00:29,794 --> 00:00:31,909
+que o esperado, e a circulação atmosférica
+
+16
+00:00:31,929 --> 00:00:34,563
+também muda. Portanto, não basta um dia
+
+17
+00:00:34,583 --> 00:00:36,472
+de praia quente. Estamos falando de um
+
+18
+00:00:36,492 --> 00:00:38,675
+padrão que se desenvolve e persiste por
+
+19
+00:00:38,695 --> 00:00:39,362
+meses.
+
+20
+00:00:40,437 --> 00:00:42,529
+O Pico abre um esquema do Pacífico.
+
+21
+00:00:42,665 --> 00:00:44,058
+De um lado estão a Ásia e
+
+22
+00:00:44,078 --> 00:00:46,589
+a Oceania; do outro, as Américas.
+
+23
+00:00:46,724 --> 00:00:48,704
+Entre elas passa a Linha do Equador.
+
+24
+00:00:48,839 --> 00:00:51,259
+Nossa investigação acompanha essa região.
+
+25
+00:00:51,395 --> 00:00:53,487
+O desenho resume um oceano enorme:
+
+26
+00:00:53,566 --> 00:00:56,283
+as distâncias, as profundidades e as velocidades
+
+27
+00:00:56,303 --> 00:00:59,028
+foram simplificadas para enxergarmos o mecanismo.
+
+28
+00:01:00,104 --> 00:01:02,526
+Vamos começar com condições próximas do padrão
+
+29
+00:01:02,546 --> 00:01:05,591
+habitual. Os ventos alísios sopram, em geral,
+
+30
+00:01:05,611 --> 00:01:07,401
+de leste para oeste sobre o Pacífico
+
+31
+00:01:07,421 --> 00:01:09,988
+equatorial: das Américas em direção à Ásia.
+
+32
+00:01:10,135 --> 00:01:11,992
+Eles ajudam a empurrar a água mais
+
+33
+00:01:12,012 --> 00:01:13,844
+quente da superfície para o oeste.
+
+34
+00:01:13,980 --> 00:01:15,462
+O Pico acompanha as setas:
+
+35
+00:01:15,552 --> 00:01:17,511
+elas indicam o vento, não um oceano
+
+36
+00:01:17,531 --> 00:01:18,945
+inteiro correndo como rio.
+
+37
+00:01:20,032 --> 00:01:22,114
+Com esse empurrão, o oeste do Pacífico
+
+38
+00:01:22,134 --> 00:01:24,149
+reúne uma camada maior de água quente
+
+39
+00:01:24,169 --> 00:01:26,376
+perto da superfície. É uma espécie de
+
+40
+00:01:26,396 --> 00:01:28,829
+reserva de calor. Na região mais quente,
+
+41
+00:01:28,849 --> 00:01:30,490
+o ar úmido pode subir e formar
+
+42
+00:01:30,510 --> 00:01:32,581
+nuvens de chuva. O Pico liga o
+
+43
+00:01:32,601 --> 00:01:34,320
+calor no mar ao movimento do ar.
+
+44
+00:01:35,395 --> 00:01:36,969
+E perto da costa oeste da América
+
+45
+00:01:36,989 --> 00:01:39,150
+do Sul? A saída de água superficial
+
+46
+00:01:39,170 --> 00:01:41,139
+ajuda água mais profunda e fria a
+
+47
+00:01:41,159 --> 00:01:43,365
+subir. Esse processo recebe o nome de
+
+48
+00:01:43,385 --> 00:01:45,750
+ressurgência. A água que chega também traz
+
+49
+00:01:45,770 --> 00:01:48,392
+nutrientes, importantes para a vida marinha.
+
+50
+00:01:48,527 --> 00:01:50,417
+O Pico segue essa água num mergulho
+
+51
+00:01:50,437 --> 00:01:51,195
+ilustrado.
+
+52
+00:01:52,270 --> 00:01:54,420
+Para guardar a ideia, imagine uma camada
+
+53
+00:01:54,440 --> 00:01:56,252
+de água quente sendo empurrada por um
+
+54
+00:01:56,272 --> 00:01:59,213
+ventilador. No nosso modelo animado, o ventilador
+
+55
+00:01:59,233 --> 00:02:01,383
+representa os alísios, e as cores separam
+
+56
+00:02:01,403 --> 00:02:03,179
+água mais quente e mais fria.
+
+57
+00:02:03,325 --> 00:02:05,769
+É uma comparação visual, não um experimento
+
+58
+00:02:05,789 --> 00:02:08,911
+medido. Correntes, ondas e profundidades do oceano
+
+59
+00:02:08,931 --> 00:02:10,695
+real foram simplificadas.
+
+60
+00:02:11,770 --> 00:02:13,703
+Agora o Pico reduz a força do
+
+61
+00:02:13,723 --> 00:02:16,006
+ventilador. Em episódios de El Niño, os
+
+62
+00:02:16,026 --> 00:02:17,700
+alísios ficam mais fracos;
+
+63
+00:02:17,720 --> 00:02:20,194
+podem ocorrer também ventos temporários na direção
+
+64
+00:02:20,214 --> 00:02:22,226
+contrária. Parte da água quente que se
+
+65
+00:02:22,246 --> 00:02:23,919
+acumulava no oeste se espalha para o
+
+66
+00:02:23,939 --> 00:02:25,283
+centro e o leste.
+
+67
+00:02:25,418 --> 00:02:27,261
+A chegada de água fria à superfície
+
+68
+00:02:27,281 --> 00:02:30,083
+pode diminuir. A distribuição do calor começa
+
+69
+00:02:30,103 --> 00:02:30,612
+a mudar.
+
+70
+00:02:31,688 --> 00:02:34,577
+O oceano mais quente, sozinho, não conta
+
+71
+00:02:34,597 --> 00:02:37,351
+a história inteira. A atmosfera precisa responder:
+
+72
+00:02:37,530 --> 00:02:39,069
+os ventos e os locais de formação
+
+73
+00:02:39,089 --> 00:02:41,121
+de chuva mudam junto com a água.
+
+74
+00:02:41,277 --> 00:02:43,891
+É essa interação que caracteriza o fenômeno.
+
+75
+00:02:44,047 --> 00:02:45,400
+O Pico aponta para o mar e
+
+76
+00:02:45,420 --> 00:02:48,076
+o céu: separados, eles não explicam essa
+
+77
+00:02:48,096 --> 00:02:48,778
+ligação.
+
+78
+00:02:49,854 --> 00:02:51,189
+Com mais calor no centro e no
+
+79
+00:02:51,209 --> 00:02:53,449
+leste do Pacífico tropical, a região onde
+
+80
+00:02:53,469 --> 00:02:55,098
+o ar úmido sobe e forma nuvens
+
+81
+00:02:55,118 --> 00:02:56,418
+também pode se deslocar.
+
+82
+00:02:56,565 --> 00:02:59,107
+No desenho, a chuva acompanha essa mudança.
+
+83
+00:02:59,242 --> 00:03:00,838
+Isso altera a circulação do ar em
+
+84
+00:03:00,858 --> 00:03:02,282
+uma área muito grande.
+
+85
+00:03:02,417 --> 00:03:04,442
+Não significa que todo lugar mais quente
+
+86
+00:03:04,462 --> 00:03:06,385
+receberá mais chuva, nem que as nuvens
+
+87
+00:03:06,405 --> 00:03:08,778
+obedecerão exatamente às nossas setas.
+
+88
+00:03:09,854 --> 00:03:11,892
+Mas a água do Pacífico precisa viajar
+
+89
+00:03:11,912 --> 00:03:13,327
+até o Brasil para mudar a nossa
+
+90
+00:03:13,347 --> 00:03:16,324
+chuva? Não. A ligação principal passa pela
+
+91
+00:03:16,344 --> 00:03:19,060
+atmosfera. Mudanças na distribuição de calor e
+
+92
+00:03:19,080 --> 00:03:21,027
+nas correntes de ar influenciam padrões de
+
+93
+00:03:21,047 --> 00:03:23,591
+tempo longe do oceano onde tudo começou.
+
+94
+00:03:23,738 --> 00:03:25,253
+O Pico segue a conexão:
+
+95
+00:03:25,343 --> 00:03:27,121
+mudar uma parte do sistema pode afetar
+
+96
+00:03:27,141 --> 00:03:27,820
+outras.
+
+97
+00:03:28,895 --> 00:03:31,081
+No Brasil, os efeitos variam conforme a
+
+98
+00:03:31,101 --> 00:03:32,696
+região e a época do ano.
+
+99
+00:03:32,831 --> 00:03:34,641
+Em partes do Norte e do Nordeste,
+
+100
+00:03:34,663 --> 00:03:36,396
+especialmente no norte e no leste da
+
+101
+00:03:36,416 --> 00:03:38,455
+Amazônia e no norte do Nordeste, El
+
+102
+00:03:38,475 --> 00:03:40,986
+Niño pode favorecer chuvas abaixo do habitual.
+
+103
+00:03:41,132 --> 00:03:43,417
+Isso aumenta o risco de períodos secos.
+
+104
+00:03:43,552 --> 00:03:45,987
+O Pico destaca áreas, sem atribuir um
+
+105
+00:03:46,007 --> 00:03:47,862
+único clima a toda a Amazônia.
+
+106
+00:03:48,937 --> 00:03:50,894
+Já no Sul do Brasil, episódios de
+
+107
+00:03:50,914 --> 00:03:52,983
+El Niño podem favorecer chuva acima da
+
+108
+00:03:53,003 --> 00:03:56,336
+média, com efeitos importantes em determinadas estações.
+
+109
+00:03:56,471 --> 00:03:59,150
+A circulação atmosférica influencia a passagem e
+
+110
+00:03:59,170 --> 00:04:01,757
+a persistência de sistemas que produzem chuva.
+
+111
+00:04:01,904 --> 00:04:04,052
+Veja como a mesma mudança no Pacífico
+
+112
+00:04:04,072 --> 00:04:06,524
+pode contribuir para resultados diferentes.
+
+113
+00:04:06,659 --> 00:04:08,130
+Não existe uma regra dizendo que o
+
+114
+00:04:08,150 --> 00:04:10,626
+Brasil inteiro ficará seco ou inteiro ficará
+
+115
+00:04:10,646 --> 00:04:11,403
+chuvoso.
+
+116
+00:04:12,479 --> 00:04:14,593
+Se chover muito amanhã, podemos apontar para
+
+117
+00:04:14,613 --> 00:04:16,409
+El Niño e encerrar a explicação?
+
+118
+00:04:16,556 --> 00:04:18,444
+Não tão rápido. O tempo de cada
+
+119
+00:04:18,464 --> 00:04:20,782
+lugar também depende de frentes, massas de
+
+120
+00:04:20,802 --> 00:04:23,063
+ar, condições locais e da temperatura de
+
+121
+00:04:23,083 --> 00:04:25,003
+outros oceanos, como o Atlântico.
+
+122
+00:04:25,149 --> 00:04:27,668
+El Niño modifica probabilidades e padrões;
+
+123
+00:04:27,713 --> 00:04:29,522
+não funciona como um botão que determina
+
+124
+00:04:29,542 --> 00:04:32,368
+sozinho cada chuva. O Pico encontra várias
+
+125
+00:04:32,388 --> 00:04:34,320
+peças, não uma causa única.
+
+126
+00:04:35,395 --> 00:04:37,781
+Existe também uma fase fria, chamada La
+
+127
+00:04:37,801 --> 00:04:39,926
+Niña. Nela, as águas de parte do
+
+128
+00:04:39,946 --> 00:04:42,557
+Pacífico equatorial central e leste ficam mais
+
+129
+00:04:42,577 --> 00:04:44,759
+frias que o habitual, geralmente com alísios
+
+130
+00:04:44,779 --> 00:04:47,504
+mais fortes. Entre essas fases há condições
+
+131
+00:04:47,524 --> 00:04:50,146
+neutras. Elas fazem parte do sistema conhecido
+
+132
+00:04:50,166 --> 00:04:52,064
+como El Niño e Oscilação Sul.
+
+133
+00:04:52,199 --> 00:04:54,392
+O Pico compara os três estados, sem
+
+134
+00:04:54,412 --> 00:04:56,470
+transformar o neutro em ausência de tempo
+
+135
+00:04:56,490 --> 00:04:57,112
+extremo.
+
+136
+00:04:58,187 --> 00:05:00,708
+Essas fases não aparecem seguindo um calendário
+
+137
+00:05:00,728 --> 00:05:03,543
+rígido. Os eventos costumam ocorrer em intervalos
+
+138
+00:05:03,563 --> 00:05:05,912
+irregulares de dois a sete anos.
+
+139
+00:05:06,047 --> 00:05:07,845
+Um episódio de El Niño geralmente dura
+
+140
+00:05:07,865 --> 00:05:09,878
+de nove a doze meses, embora alguns
+
+141
+00:05:09,898 --> 00:05:12,780
+durem mais. Ele não precisa ser imediatamente
+
+142
+00:05:12,800 --> 00:05:13,987
+seguido por La Niña.
+
+143
+00:05:14,133 --> 00:05:15,715
+O Pico guarda o relógio:
+
+144
+00:05:15,748 --> 00:05:18,278
+existe um padrão, sem compromisso marcado.
+
+145
+00:05:19,354 --> 00:05:21,458
+El Niño vem do espanhol e significa
+
+146
+00:05:21,478 --> 00:05:23,898
+menino. O nome se relaciona à observação
+
+147
+00:05:23,918 --> 00:05:26,440
+de pescadores e navegadores do litoral peruano,
+
+148
+00:05:26,460 --> 00:05:28,553
+que percebiam águas mais quentes perto da
+
+149
+00:05:28,573 --> 00:05:30,620
+época do Natal, associando o fenômeno ao
+
+150
+00:05:30,640 --> 00:05:33,016
+menino Jesus. Com a pesquisa, o nome
+
+151
+00:05:33,036 --> 00:05:35,162
+passou a identificar uma mudança muito maior
+
+152
+00:05:35,182 --> 00:05:37,216
+no sistema oceano e atmosfera.
+
+153
+00:05:37,352 --> 00:05:39,670
+Nosso pequeno barco é uma ilustração dessa
+
+154
+00:05:39,690 --> 00:05:40,278
+história.
+
+155
+00:05:41,354 --> 00:05:43,231
+Lembra dos nutrientes que subiam com a
+
+156
+00:05:43,251 --> 00:05:45,737
+água fria? Quando essa chegada diminui, a
+
+157
+00:05:45,757 --> 00:05:48,346
+disponibilidade de alimento para organismos pequenos pode
+
+158
+00:05:48,366 --> 00:05:50,548
+mudar, e os efeitos alcançam peixes e
+
+159
+00:05:50,568 --> 00:05:53,777
+atividades de pesca. Temperatura e circulação também
+
+160
+00:05:53,797 --> 00:05:55,638
+alteram os ambientes marinhos.
+
+161
+00:05:55,773 --> 00:05:57,761
+O Pico acompanha essas relações;
+
+162
+00:05:57,806 --> 00:05:59,762
+não estamos dizendo que todos os peixes
+
+163
+00:05:59,782 --> 00:06:03,093
+desapareceram. A resposta ecológica varia entre lugares
+
+164
+00:06:03,113 --> 00:06:04,028
+e eventos.
+
+165
+00:06:05,115 --> 00:06:07,299
+Para acompanhar o fenômeno, não basta olhar
+
+166
+00:06:07,319 --> 00:06:08,258
+o mar da janela.
+
+167
+00:06:08,393 --> 00:06:11,403
+Cientistas combinam medições de boias, observações de
+
+168
+00:06:11,423 --> 00:06:14,340
+satélites e informações sobre ventos e chuva.
+
+169
+00:06:14,475 --> 00:06:17,121
+Há instrumentos na superfície e abaixo dela.
+
+170
+00:06:17,256 --> 00:06:19,768
+No nosso laboratório ilustrado, o Pico reúne
+
+171
+00:06:19,788 --> 00:06:22,696
+essas pistas. Ondas bonitas numa fotografia não
+
+172
+00:06:22,716 --> 00:06:25,362
+revelam, sozinhas, se existe El Niño.
+
+173
+00:06:26,438 --> 00:06:28,096
+Quando um mapa mostra uma anomalia de
+
+174
+00:06:28,116 --> 00:06:30,425
+temperatura, ele está mostrando uma diferença em
+
+175
+00:06:30,445 --> 00:06:32,025
+relação a uma referência.
+
+176
+00:06:32,181 --> 00:06:34,653
+Imagine, num exemplo inventado, que o valor
+
+177
+00:06:34,673 --> 00:06:36,564
+de referência seja vinte e seis graus
+
+178
+00:06:36,584 --> 00:06:38,792
+e o observado seja vinte e sete.
+
+179
+00:06:38,936 --> 00:06:41,052
+A diferença é um grau positivo.
+
+180
+00:06:41,208 --> 00:06:43,731
+O Pico separa a temperatura da diferença.
+
+181
+00:06:43,876 --> 00:06:45,673
+Esse exemplo não é um diagnóstico de
+
+182
+00:06:45,693 --> 00:06:47,528
+El Niño nem um boletim atual.
+
+183
+00:06:48,604 --> 00:06:50,607
+El Niño e aquecimento global não são
+
+184
+00:06:50,627 --> 00:06:52,506
+a mesma coisa. El Niño é uma
+
+185
+00:06:52,526 --> 00:06:55,533
+variação natural do sistema oceano e atmosfera;
+
+186
+00:06:55,623 --> 00:06:57,514
+o aquecimento global é uma tendência de
+
+187
+00:06:57,534 --> 00:07:00,645
+longo prazo, hoje impulsionada principalmente pelas
+atividades
+
+188
+00:07:00,665 --> 00:07:02,994
+humanas. Eles podem atuar juntos:
+
+189
+00:07:03,106 --> 00:07:05,008
+El Niño redistribui calor e pode elevar
+
+190
+00:07:05,028 --> 00:07:07,675
+temporariamente a temperatura média do planeta, num
+
+191
+00:07:07,695 --> 00:07:09,346
+mundo que já está mais quente.
+
+192
+00:07:09,493 --> 00:07:11,403
+Um processo não apaga o outro.
+
+193
+00:07:12,479 --> 00:07:15,421
+Essa mudança pode afetar água disponível, lavouras,
+
+194
+00:07:15,441 --> 00:07:17,511
+pesca e planejamento das cidades.
+
+195
+00:07:17,646 --> 00:07:20,374
+Por isso, acompanhar os boletins científicos ajuda
+
+196
+00:07:20,394 --> 00:07:22,736
+a avaliar riscos e preparar decisões.
+
+197
+00:07:22,871 --> 00:07:25,203
+A tendência regional precisa ser combinada com
+
+198
+00:07:25,223 --> 00:07:27,499
+informação local. O Pico chega a uma
+
+199
+00:07:27,519 --> 00:07:30,470
+propriedade ilustrada e encontra perguntas práticas:
+
+200
+00:07:30,504 --> 00:07:32,610
+quando pode chover, quanta água existe e
+
+201
+00:07:32,630 --> 00:07:34,903
+quais condições estão sendo observadas ali?
+
+202
+00:07:35,990 --> 00:07:37,925
+Antes de voltar, o Pico deixa um
+
+203
+00:07:37,945 --> 00:07:40,568
+desafio. Qual pista explica melhor El Niño:
+
+204
+00:07:40,590 --> 00:07:42,254
+um dia muito quente numa praia;
+
+205
+00:07:42,274 --> 00:07:44,887
+uma mudança persistente no Pacífico equatorial junto
+
+206
+00:07:44,907 --> 00:07:46,332
+com a resposta da atmosfera;
+
+207
+00:07:46,365 --> 00:07:47,690
+ou uma regra que obriga todo o
+
+208
+00:07:47,710 --> 00:07:49,078
+Brasil a ter o mesmo tempo?
+
+209
+00:07:49,214 --> 00:07:51,022
+A segunda reúne o que vimos.
+
+210
+00:07:51,169 --> 00:07:53,579
+Água, ventos e chuva se conectam, com
+
+211
+00:07:53,599 --> 00:07:55,487
+efeitos que variam conforme o lugar.
+
+212
+00:07:56,563 --> 00:07:58,085
+O que é El Niño, então?
+
+213
+00:07:58,229 --> 00:08:00,166
+Uma fase quente de um sistema natural
+
+214
+00:08:00,186 --> 00:08:02,368
+que liga o Pacífico tropical à atmosfera
+
+215
+00:08:02,388 --> 00:08:04,430
+e pode reorganizar padrões de chuva e
+
+216
+00:08:04,450 --> 00:08:06,935
+temperatura pelo mundo. O Pico encontrou a
+
+217
+00:08:06,955 --> 00:08:09,009
+resposta no vento, nas águas e nas
+
+218
+00:08:09,029 --> 00:08:11,409
+pistas do céu. A pergunta começou no
+
+219
+00:08:11,429 --> 00:08:13,289
+mar e chegou ao nosso cotidiano.
+
+220
+00:08:13,445 --> 00:08:15,036
+Este é o Quase Infinito.
+
+221
+00:08:15,181 --> 00:08:17,320
+Cada pergunta abre outra viagem.

@@ -27,6 +27,8 @@ A voz padrão é **Thalita** (`pt-BR-ThalitaMultilingualNeural`), em português 
 
 Pico é o mascote recorrente: um pequeno explorador voador em pixel art, com capacete dourado, óculos verde água, traje turquesa e cachecol coral. Ele participa da narrativa, investigando, apontando, carregando objetos e reagindo às descobertas. A partir do episódio 005, o desenho foi aprimorado a pedido de Emanuel, mantendo essas características. O Pico v2 tem olhos expressivos, contornos definidos, detalhes no capacete e na roupa e seis poses: acenar, apontar, pensar, investigar, surpreender-se e voar. Usar esta referência nos próximos episódios: [Pico v2](identidade/Pico_v2.md).
 
+A partir do episódio 009, a animação corporal 3 mantém o design v2 e usa doze quadros em ciclos de voo, aceno e gesto de apontar, com asas, braços, pernas, cachecol e expressão em movimento. Usar trajetórias ligadas à narrativa, como acompanhar setas, mergulhar em modelos, aproximar-se de elementos e reagir às descobertas. Referência: [Pico — animação 3](identidade/Pico_Animacao_v3.md).
+
 ## Imagem e montagem
 
 Combinar filmagens reais da internet, fotografias e arquivos históricos com pixel art animada. Fotografias recebem movimento. Uma moldura persistente acompanha imagens e filmagens.
@@ -60,7 +62,7 @@ Emanuel administra o canal e publica os vídeos no YouTube. O assistente prepara
 
 As legendas fixas devem aparecer uma única vez nas imagens. Nesse modo, registrar `subtitle_mode: burned_in` nos metadados e exportar o MP4 sem uma segunda faixa de legenda embutida. O SRT acompanha a entrega como transcrição separada; ativar outra faixa sobre as legendas fixas pode duplicar o texto na tela.
 
-Quando Emanuel pedir um episódio sem legendas na tela, usar `subtitle_mode: none`, não desenhar a transcrição nos quadros e não embutir uma faixa de legenda. O SRT pode acompanhar como transcrição opcional. Rótulos de diagramas e créditos continuam sendo elementos visuais. Essa escolha foi solicitada para o episódio 006 e mantida nos episódios 007 e 008.
+Quando Emanuel pedir um episódio sem legendas na tela, usar `subtitle_mode: none`, não desenhar a transcrição nos quadros e não embutir uma faixa de legenda. O SRT pode acompanhar como transcrição opcional. Rótulos de diagramas e créditos continuam sendo elementos visuais. Essa escolha foi solicitada para o episódio 006 e mantida nos episódios 007, 008 e 009.
 
 ## Qualidade editorial
 
@@ -71,3 +73,5 @@ O episódio 006 documenta as escolhas em [Decisões editoriais](../videos/ep-006
 O episódio 007 registra as escolhas próprias de roteiro, mídias e modelos em [Decisões editoriais](../videos/ep-007-navio/decisoes-editoriais.md).
 
 O episódio 008 usa reconstituições identificadas, fichas documentais e comparação de calendários para distinguir a oficialização da data, os costumes e os direitos da infância. As escolhas estão em [Decisões editoriais](../videos/ep-008-criancas/decisoes-editoriais.md).
+
+O episódio 009 registra a animação corporal do Pico, os modelos do sistema oceano-atmosfera e a distinção entre explicação geral e previsão em [Decisões editoriais](../videos/ep-009-el-nino/decisoes-editoriais.md).

@@ -1,0 +1,63 @@
+{
+  "status": "technically_validated",
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 24.0,
+    "duration_seconds": 498.0,
+    "codec": "h264",
+    "size_bytes": 93377424
+  },
+  "audio": {
+    "codec": "aac",
+    "sample_rate": 48000,
+    "channels": 2,
+    "integrated_loudness_lufs": -13.8,
+    "true_peak_dbtp": -2.1,
+    "loudness_range_lu": 2.4
+  },
+  "voice": "pt-BR-ThalitaMultilingualNeural",
+  "thumbnail_size": [
+    1920,
+    1080
+  ],
+  "subtitle_cues": 221,
+  "chapters": 21,
+  "full_decode": "passed",
+  "subtitle_mode": "none",
+  "embedded_subtitle_streams": 0,
+  "youtube_upload": "manual",
+  "sha256": "952e3248a071c539096b6af7bd1ce2ae6db05a0cf6b1aea5f4c4206ca4c2a6e7",
+  "video_frames": 11952,
+  "shots": 54,
+  "burned_in_captions": false,
+  "mascot_design_version": 2,
+  "mascot_animation_version": 3,
+  "mascot_animation_frames": 12,
+  "mascot_animation_reference": "producao/assets/Pico_Animation_v3_16x9.png",
+  "visual_review": "final decoded MP4 frames inspected: artwork, actual Pico animation, original ENSO models, real media framing, no narration captions and ending",
+  "research_review": "primary scientific sources checked; models, invented examples and observed media distinguished; no current forecast or deterministic regional impacts claimed",
+  "pico_animation": {
+    "animation_version": 3,
+    "design_version": 2,
+    "body_keyframes": 12,
+    "unique_body_drawings": 12,
+    "cycles": [
+      "voo com asas e pernas",
+      "aceno com membros e piscada",
+      "apontar com extensão do braço"
+    ],
+    "paths": [
+      "travessia",
+      "oeste",
+      "leste",
+      "mergulho",
+      "curva atmosférica",
+      "vida marinha",
+      "entrada",
+      "despedida"
+    ],
+    "delivery_fps": 24,
+    "review": "Decoded MP4 frames and the twelve body drawings inspected; artwork changes as well as position."
+  }
+}
